@@ -1,0 +1,75 @@
+
+
+DATA: cutting wood
+
+0.66522634	Lathe chuck overtightend
+0.66007984	18 V Drills too large to use with one hand
+0.59909797	Disposable gloves are a large size
+0.74325645	Miter saw is on tall table (awkward to use)
+0.6587719	People forget to put away the clamps
+0.75029385	Someone left sawdust and wood chips everywhere
+0.6821185	Someone squeezed through aisle and bumped user (bumped e-stop)
+0.7756265	Wood scraps too small to be useful
+0.7082171	Digging through the unlabeled cabinets looking for drill
+0.7048496	Trash bag is ripped
+0.6371203	Had to wait for epoxy to cure
+
+
+DATA: didn’t know how to use lathe
+
+0.7347638	Lathe chuck overtightend
+0.6897228	18 V Drills too large to use with one hand
+0.5752891	Disposable gloves are a large size
+0.6906282	Miter saw is on tall table (awkward to use)
+0.67125946	People forget to put away the clamps
+0.63582903	Someone left sawdust and wood chips everywhere
+0.62966204	Someone squeezed through aisle and bumped user (bumped e-stop)
+0.68055606	Wood scraps too small to be useful
+0.66865855	Digging through the unlabeled cabinets looking for drill
+0.5980203	Trash bag is ripped
+0.6722567	Had to wait for epoxy to cure
+
+
+DATA: Finding drill
+
+0.70346546	Lathe chuck overtightend
+0.73383075	18 V Drills too large to use with one hand
+0.59361446	Disposable gloves are a large size
+0.6455381	Miter saw is on tall table (awkward to use)
+0.639891	People forget to put away the clamps
+0.67874676	Someone left sawdust and wood chips everywhere
+0.6719021	Someone squeezed through aisle and bumped user (bumped e-stop)
+0.65774643	Wood scraps too small to be useful
+0.8617367	Digging through the unlabeled cabinets looking for drill
+0.63994396	Trash bag is ripped
+0.656659	Had to wait for epoxy to cure
+
+
+DATA: Taking out trash
+
+0.62769043	Lathe chuck overtightend
+0.6149803	18 V Drills too large to use with one hand
+0.63821167	Disposable gloves are a large size
+0.6470249	Miter saw is on tall table (awkward to use)
+0.69011295	People forget to put away the clamps
+0.7334298	Someone left sawdust and wood chips everywhere
+0.7000709	Someone squeezed through aisle and bumped user (bumped e-stop)
+0.71946424	Wood scraps too small to be useful
+0.7053688	Digging through the unlabeled cabinets looking for drill
+0.82303256	Trash bag is ripped
+0.6098356	Had to wait for epoxy to cure
+
+
+DATA: Finding clamp
+
+0.7106222	Lathe chuck overtightend
+0.6074694	18 V Drills too large to use with one hand
+0.59767354	Disposable gloves are a large size
+0.6689023	Miter saw is on tall table (awkward to use)
+0.7847286	People forget to put away the clamps
+0.6595715	Someone left sawdust and wood chips everywhere
+0.68737656	Someone squeezed through aisle and bumped user (bumped e-stop)
+0.6705721	Wood scraps too small to be useful
+0.7329075	Digging through the unlabeled cabinets looking for drill
+0.6922378	Trash bag is ripped
+0.6561051	Had to wait for epoxy to cure

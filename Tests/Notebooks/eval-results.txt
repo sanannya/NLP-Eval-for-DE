@@ -1,0 +1,99 @@
+**The Code, followed by the F1 score for BART, then MPNet, then Jina Embeddings V2**
+
+
+No code assigned	
+0.0
+	
+0.0
+	
+0.0
+
+
+Lathe chuck overtightend	
+0.5
+	
+0.75
+	
+0.75
+
+
+18 V Drills too large to use with one hand	
+0.75
+	
+0.7272727272727273
+	
+0.6666666666666666
+
+
+Disposable gloves are a large size	
+0.4
+	
+1.0
+	
+1.0
+
+
+Miter saw is on tall table (awkward to use)	
+0.6666666666666666
+	
+1.0
+	
+1.0
+
+
+People forget to put away the clamps	
+0.5
+	
+1.0
+	
+0.0
+
+
+Someone left sawdust and wood chips everywhere	
+0.8
+	
+0.8
+	
+1.0
+
+
+Someone squeezed through aisle and bumped user (bumped e-stop)	
+0.4
+	
+0.8571428571428571
+	
+0.8235294117647058
+
+
+Wood scraps too small to be useful	
+0.7272727272727273
+	
+0.7272727272727273
+	
+0.8
+
+
+Digging through the unlabeled cabinets looking for drill	
+0.7272727272727273
+	
+0.8571428571428571
+	
+0.9230769230769231
+
+
+Trash bag is ripped	
+0.4
+	
+1.0
+	
+0.8
+
+
+Had to wait for epoxy to cure	
+0.8
+	
+0.9090909090909091
+	
+0.8333333333333334
+
+
