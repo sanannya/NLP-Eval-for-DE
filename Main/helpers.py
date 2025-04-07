@@ -5,7 +5,6 @@ def get_testable_data(inputfilename):
     #returns a 2D array containing testable data (phrases) and their ground truths (see spreadsheet formatting example)
     raw_data = open(inputfilename, "r") 
     data = raw_data.read() 
-
     data_list = data.split("\t") 
 
     #remove extra characters
