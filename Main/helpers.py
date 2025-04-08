@@ -1,3 +1,4 @@
+#---------------------processing input data------------------------
 from datasets import Dataset
 from transformers.pipelines.pt_utils import KeyDataset
 
@@ -69,3 +70,10 @@ def make_dataset(inputfilename, testable_data):
     dataset = Dataset.from_dict(data)
     return dataset
 
+#--------------------model runners-----------------------
+from transformers import pipeline
+
+#pipeline-compatible models only, otherwise use a different runner
+def run_pipeline(task, model):
+    classifier = pipeline(task, model=model)
+    #file open, run through pilot data, etc.. 

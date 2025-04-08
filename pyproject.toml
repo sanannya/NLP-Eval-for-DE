@@ -1,0 +1,8 @@
+[project]
+name = "NLP-Eval-for-DE"
+version = "0.1.0"
+description = "NLP Evaluation for Design Engineering"
+
+[build-system]
+build-backend = "flit_core.buildapi"
+requires = ["flit_core >=3.2,<4"]
