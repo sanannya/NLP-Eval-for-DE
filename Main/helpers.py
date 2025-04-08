@@ -33,9 +33,30 @@ def get_testable_data(inputfilename):
 
     return [testable_data, ground_truths]
 
+def get_codes(inputfilename):
+    #returns an array of the codes, pulled from a tab-split text file
+    raw_data = open(inputfilename, "r")
+    data = raw_data.read()
+    codes = data.split("\t")
+
+    #remove extra characters
+    for string in codes:
+        if "\n" in string:
+            new_string = string.replace("\n", "")
+            #print(string)
+            i = codes.index(string)
+            codes[i] = new_string
+        if '"' in string:
+            new_string = string.replace('"', "")
+            i = codes.index(string)
+            codes[i] = new_string
+
+    raw_data.close() 
+    return codes
 
 
-def make_dataset(inputfilename):
+
+def make_dataset(inputfilename, testable_data):
     #process into a dataset 
     data_numbers = []
     for i in range(len(testable_data)):
