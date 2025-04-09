@@ -77,3 +77,4 @@ from transformers import pipeline
 def run_pipeline(task, model):
     classifier = pipeline(task, model=model)
     #file open, run through pilot data, etc.. 
+    #hehe
