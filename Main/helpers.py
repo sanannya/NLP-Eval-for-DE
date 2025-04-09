@@ -142,4 +142,5 @@ def evaluate(ground_truths, predictions, codes_length):
         labels.append(str(i))
     eval = f1_score(ground_truths, predictions, average=None) 
     mtx = confusion_matrix(ground_truths, predictions, labels)
+    #return correct/incorrect per code
     return [eval, mtx]
