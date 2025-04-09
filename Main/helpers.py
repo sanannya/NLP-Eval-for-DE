@@ -143,12 +143,3 @@ def evaluate(ground_truths, predictions, codes_length):
     eval = f1_score(ground_truths, predictions, average=None) 
     mtx = confusion_matrix(ground_truths, predictions, labels)
     return [eval, mtx]
-
-<<<<<<< HEAD
-=======
-#pipeline-compatible models only, otherwise use a different runner
-def run_pipeline(task, model):
-    classifier = pipeline(task, model=model)
-    #file open, run through pilot data, etc.. 
-    #hehe
->>>>>>> aef947bd6895af0e586ce0a754398ec1ea441a77
