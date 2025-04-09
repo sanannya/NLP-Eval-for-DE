@@ -72,8 +72,83 @@ def make_dataset(testable_data):
 
 #-------------------------------model runners-------------------------------#
 from transformers import pipeline
+from sentence_transformers import SentenceTransformer
 
+from sklearn.metrics import confusion_matrix
+from sklearn.metrics import f1_score
+
+#these functions will collect score results
+
+def get_BART_scores(datafilename, codefilename):
+    all_results = []
+    classifier = pipeline("zero-shot-classification",
+                      model="facebook/bart-large-mnli")
+    testable_data = get_testable_data(datafilename)
+    codes = get_codes(codefilename)
+    predictions = []
+    for i in range (len(testable_data)):
+        max_score = 0
+        idx_of_max = 0
+        sequence_to_classify = KeyDataset(make_dataset(testable_data), "text")[i]
+        for j in range(len(codes)):
+            candidate_labels = codes[j]
+            results = classifier(sequence_to_classify, candidate_labels, multi_label=False) 
+            #print(str(results["scores"][0]) + "\t" + code) 
+            all_results.append(results["scores"][0])
+            if (results["scores"][0] > max_score):
+                idx_of_max = j+1
+                max_score = results["scores"][0]
+        predictions.append(idx_of_max)
+
+    predictions_str = []
+    for pred in predictions:
+        str_pred = str(pred)
+        predictions_str.append(str_pred)
+
+    return [predictions_str, all_results]
+
+def get_MPNET_scores(datafilename, codefilename):
+    model = SentenceTransformer("all-mpnet-base-v2")
+    all_results = [] 
+    predictions = []
+    testable_data = get_testable_data(datafilename)
+    codes = get_codes(codefilename)
+    for i in range(len(testable_data)): 
+        max_score = 0
+        idx_of_max = 0
+        #user_embeddings = model.encode(testable_data[i])
+        #^^old version, replaced w/ dataset access to make eval fair 
+        user_embeddings = model.encode(KeyDataset(make_dataset(testable_data), "text")[i])
+        code_embeddings = model.encode(codes)
+        similarities = model.similarity(user_embeddings, code_embeddings)
+        results = similarities.tolist()
+        for j in range(len(codes)): 
+            all_results.append(results[0][j])
+            if (results[0][j] > max_score):
+                idx_of_max = j+1
+                max_score = results[0][j]
+        predictions.append(idx_of_max)
+
+    predictions_str = []
+    for pred in predictions:
+        str_pred = str(pred)
+        predictions_str.append(str_pred)
+
+    return [predictions_str, all_results]
+
+def evaluate(ground_truths, predictions, codes_length):
+    labels = []
+    for i in range(codes_length):
+        labels.append(str(i))
+    eval = f1_score(ground_truths, predictions, average=None) 
+    mtx = confusion_matrix(ground_truths, predictions, labels)
+    return [eval, mtx]
+
+<<<<<<< HEAD
+=======
 #pipeline-compatible models only, otherwise use a different runner
 def run_pipeline(task, model):
     classifier = pipeline(task, model=model)
     #file open, run through pilot data, etc.. 
+    #hehe
+>>>>>>> aef947bd6895af0e586ce0a754398ec1ea441a77
