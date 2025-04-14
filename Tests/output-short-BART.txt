@@ -1,0 +1,1545 @@
+
+
+DATA: cutting wood
+
+0.13570596277713776	Lathe chuck overtightened
+0.019214455038309097	Drill too large
+0.08069157600402832	Gloves size large
+0.33945927023887634	Tall miter saw
+0.008868400938808918	Clamps scattered around
+0.5714396834373474	Sawdust, wood everywhere
+0.15958517789840698	Bumped into user
+0.003130171447992325	Useless wood scraps
+0.10367526113986969	Unlabeled drill cabinet
+0.00017333294090349227	Ripped trash bag
+0.002064893953502178	Epoxy wait time
+
+
+DATA: didn’t know how to use lathe
+
+0.2485448569059372	Lathe chuck overtightened
+0.07341168820858002	Drill too large
+0.1728672832250595	Gloves size large
+0.013020258396863937	Tall miter saw
+0.03676394373178482	Clamps scattered around
+0.6027039885520935	Sawdust, wood everywhere
+0.7161111831665039	Bumped into user
+0.08371060341596603	Useless wood scraps
+0.14982672035694122	Unlabeled drill cabinet
+0.0017582265427336097	Ripped trash bag
+0.001909442595206201	Epoxy wait time
+
+
+DATA: Finding drill
+
+0.005316999275237322	Lathe chuck overtightened
+0.009977901354432106	Drill too large
+0.09228180348873138	Gloves size large
+0.00046397483674809337	Tall miter saw
+0.0003050105879083276	Clamps scattered around
+0.7098494172096252	Sawdust, wood everywhere
+0.05338988080620766	Bumped into user
+7.65691656852141e-05	Useless wood scraps
+0.08165106177330017	Unlabeled drill cabinet
+0.00016059687186498195	Ripped trash bag
+0.0005116206011734903	Epoxy wait time
+
+
+DATA: Taking out trash
+
+0.15895763039588928	Lathe chuck overtightened
+0.052402593195438385	Drill too large
+0.2107442319393158	Gloves size large
+0.0013877723831683397	Tall miter saw
+0.08153214305639267	Clamps scattered around
+0.5638282299041748	Sawdust, wood everywhere
+0.10686396807432175	Bumped into user
+0.1300550401210785	Useless wood scraps
+0.002006854861974716	Unlabeled drill cabinet
+0.09556780755519867	Ripped trash bag
+0.0003918226866517216	Epoxy wait time
+
+
+DATA: Finding clamp
+
+0.2976692318916321	Lathe chuck overtightened
+0.06701280176639557	Drill too large
+0.20481960475444794	Gloves size large
+0.10897627472877502	Tall miter saw
+0.9038376808166504	Clamps scattered around
+0.5744770169258118	Sawdust, wood everywhere
+0.5755975842475891	Bumped into user
+0.0003260685771238059	Useless wood scraps
+0.0007886635139584541	Unlabeled drill cabinet
+0.002594035817310214	Ripped trash bag
+0.1130395159125328	Epoxy wait time
+
+
+DATA: Loosening the lathe
+
+0.38816356658935547	Lathe chuck overtightened
+0.01689191721379757	Drill too large
+0.09285083413124084	Gloves size large
+0.016147280111908913	Tall miter saw
+0.02822263352572918	Clamps scattered around
+0.6374821066856384	Sawdust, wood everywhere
+0.2612132430076599	Bumped into user
+0.004463606514036655	Useless wood scraps
+0.026683688163757324	Unlabeled drill cabinet
+0.000381523190299049	Ripped trash bag
+0.0012981113977730274	Epoxy wait time
+
+
+DATA: Cleaning up after others
+
+0.02874445542693138	Lathe chuck overtightened
+0.04701591283082962	Drill too large
+0.3214062452316284	Gloves size large
+0.06279964745044708	Tall miter saw
+0.3115922212600708	Clamps scattered around
+0.5313370227813721	Sawdust, wood everywhere
+0.15146683156490326	Bumped into user
+0.0009995504515245557	Useless wood scraps
+0.023152964189648628	Unlabeled drill cabinet
+0.22748583555221558	Ripped trash bag
+0.06952507793903351	Epoxy wait time
+
+
+DATA: Equipment too big
+
+0.6588207483291626	Lathe chuck overtightened
+0.30572324991226196	Drill too large
+0.5829119086265564	Gloves size large
+0.3148419260978699	Tall miter saw
+0.3031822144985199	Clamps scattered around
+0.5828850269317627	Sawdust, wood everywhere
+0.14521373808383942	Bumped into user
+7.449858821928501e-05	Useless wood scraps
+0.11552359908819199	Unlabeled drill cabinet
+0.0005267863161861897	Ripped trash bag
+0.1373048573732376	Epoxy wait time
+
+
+DATA: Too small of wood scraps.
+
+0.43390902876853943	Lathe chuck overtightened
+0.0002782004012260586	Drill too large
+0.0005973843508400023	Gloves size large
+0.02083704248070717	Tall miter saw
+0.009206362999975681	Clamps scattered around
+0.5125213861465454	Sawdust, wood everywhere
+0.7932519316673279	Bumped into user
+0.7553914189338684	Useless wood scraps
+0.12244094908237457	Unlabeled drill cabinet
+0.012217198498547077	Ripped trash bag
+0.010896184481680393	Epoxy wait time
+
+
+DATA: Had to take trash out.
+
+0.18709824979305267	Lathe chuck overtightened
+0.10978558659553528	Drill too large
+0.2495582103729248	Gloves size large
+0.008641784079372883	Tall miter saw
+0.26607805490493774	Clamps scattered around
+0.5542246699333191	Sawdust, wood everywhere
+0.7553274631500244	Bumped into user
+0.11413773149251938	Useless wood scraps
+0.007728541735559702	Unlabeled drill cabinet
+0.4034217596054077	Ripped trash bag
+0.002218152629211545	Epoxy wait time
+
+
+DATA: Had to find a clamp.
+
+0.2630032002925873	Lathe chuck overtightened
+0.13844521343708038	Drill too large
+0.11661387979984283	Gloves size large
+0.13543716073036194	Tall miter saw
+0.5029283761978149	Clamps scattered around
+0.6588776707649231	Sawdust, wood everywhere
+0.7738408446311951	Bumped into user
+0.002498310524970293	Useless wood scraps
+0.010958571918308735	Unlabeled drill cabinet
+0.010904797352850437	Ripped trash bag
+0.07613738626241684	Epoxy wait time
+
+
+DATA: Had to dig in unlabeled container for a 12v drill.
+
+0.026434240862727165	Lathe chuck overtightened
+0.094802625477314	Drill too large
+0.11625389754772186	Gloves size large
+0.0011269818060100079	Tall miter saw
+0.01904936134815216	Clamps scattered around
+0.5110529065132141	Sawdust, wood everywhere
+0.8715402483940125	Bumped into user
+0.00996353942900896	Useless wood scraps
+0.9915921092033386	Unlabeled drill cabinet
+0.013218932785093784	Ripped trash bag
+0.03547237440943718	Epoxy wait time
+
+
+DATA: Got bumped while using sander, accidentally pressed emergency stop button.
+
+0.00519393989816308	Lathe chuck overtightened
+0.02713189832866192	Drill too large
+0.0983925610780716	Gloves size large
+0.0006440951256081462	Tall miter saw
+0.0028722360730171204	Clamps scattered around
+0.7889282703399658	Sawdust, wood everywhere
+0.9876120090484619	Bumped into user
+0.0011619098950177431	Useless wood scraps
+0.0032116728834807873	Unlabeled drill cabinet
+0.000402509409468621	Ripped trash bag
+0.003973619546741247	Epoxy wait time
+
+
+DATA: Had to clean off messy workspace.
+
+0.12247493863105774	Lathe chuck overtightened
+0.040464747697114944	Drill too large
+0.12582771480083466	Gloves size large
+0.22454670071601868	Tall miter saw
+0.6439311504364014	Clamps scattered around
+0.6017007827758789	Sawdust, wood everywhere
+0.6019483804702759	Bumped into user
+0.005198123399168253	Useless wood scraps
+0.2079864740371704	Unlabeled drill cabinet
+0.04770856350660324	Ripped trash bag
+0.11791824549436569	Epoxy wait time
+
+
+DATA: Gloves were too big.
+
+0.3123947083950043	Lathe chuck overtightened
+0.09523949772119522	Drill too large
+0.9934935569763184	Gloves size large
+0.0010202107951045036	Tall miter saw
+0.0004671696515288204	Clamps scattered around
+0.5694941282272339	Sawdust, wood everywhere
+0.6244245171546936	Bumped into user
+0.00022832787362858653	Useless wood scraps
+0.01236217375844717	Unlabeled drill cabinet
+0.0003901172603946179	Ripped trash bag
+0.0015241228975355625	Epoxy wait time
+
+
+DATA: People putting garbage in the scrp bin
+
+0.12332407385110855	Lathe chuck overtightened
+0.10006293654441833	Drill too large
+0.19980749487876892	Gloves size large
+0.0021658733021467924	Tall miter saw
+0.046812888234853745	Clamps scattered around
+0.5239880681037903	Sawdust, wood everywhere
+0.525455892086029	Bumped into user
+0.13711170852184296	Useless wood scraps
+0.003447685856372118	Unlabeled drill cabinet
+0.074730284512043	Ripped trash bag
+0.007091057021170855	Epoxy wait time
+
+
+DATA: People not throwing trash properly ripping the bag
+
+0.1770213395357132	Lathe chuck overtightened
+0.04658328369259834	Drill too large
+0.12299316376447678	Gloves size large
+0.0023980443365871906	Tall miter saw
+0.07981923222541809	Clamps scattered around
+0.6225359439849854	Sawdust, wood everywhere
+0.4571342468261719	Bumped into user
+0.03706284612417221	Useless wood scraps
+0.0037565187085419893	Unlabeled drill cabinet
+0.9860919117927551	Ripped trash bag
+0.0032560762483626604	Epoxy wait time
+
+
+DATA: People not putting things where they go
+
+0.11287236213684082	Lathe chuck overtightened
+0.0636429563164711	Drill too large
+0.17415419220924377	Gloves size large
+0.07234583050012589	Tall miter saw
+0.434150367975235	Clamps scattered around
+0.5638521313667297	Sawdust, wood everywhere
+0.6293269395828247	Bumped into user
+0.02365894615650177	Useless wood scraps
+0.1377168595790863	Unlabeled drill cabinet
+0.22040297091007233	Ripped trash bag
+0.13860979676246643	Epoxy wait time
+
+
+DATA: People not putting things back the way they were found
+
+0.1891457736492157	Lathe chuck overtightened
+0.05815878137946129	Drill too large
+0.1789577156305313	Gloves size large
+0.10247053951025009	Tall miter saw
+0.5330508351325989	Clamps scattered around
+0.6397150754928589	Sawdust, wood everywhere
+0.8039042353630066	Bumped into user
+0.0611247792840004	Useless wood scraps
+0.17837704718112946	Unlabeled drill cabinet
+0.6867681741714478	Ripped trash bag
+0.0863771140575409	Epoxy wait time
+
+
+DATA: People leaving a mess and not cleaning up
+
+0.10891556739807129	Lathe chuck overtightened
+0.1269165426492691	Drill too large
+0.24341458082199097	Gloves size large
+0.07562758773565292	Tall miter saw
+0.41818681359291077	Clamps scattered around
+0.6248186826705933	Sawdust, wood everywhere
+0.3107036054134369	Bumped into user
+0.04358714818954468	Useless wood scraps
+0.13645607233047485	Unlabeled drill cabinet
+0.46703359484672546	Ripped trash bag
+0.0823361873626709	Epoxy wait time
+
+
+DATA: bumped by person using belt sander
+
+0.009287753142416477	Lathe chuck overtightened
+0.041544798761606216	Drill too large
+0.05849074199795723	Gloves size large
+0.0005433096084743738	Tall miter saw
+0.0011193091049790382	Clamps scattered around
+0.7064508199691772	Sawdust, wood everywhere
+0.9923598170280457	Bumped into user
+0.002112114802002907	Useless wood scraps
+0.0033559396397322416	Unlabeled drill cabinet
+0.0007449639961123466	Ripped trash bag
+0.004268845077604055	Epoxy wait time
+
+
+DATA: garbage bag had hole
+
+0.10055908560752869	Lathe chuck overtightened
+0.09895278513431549	Drill too large
+0.03565020486712456	Gloves size large
+0.00017674661648925394	Tall miter saw
+0.0007398343295790255	Clamps scattered around
+0.7144829034805298	Sawdust, wood everywhere
+0.7916437983512878	Bumped into user
+0.014209358021616936	Useless wood scraps
+0.0004471205174922943	Unlabeled drill cabinet
+0.9794906377792358	Ripped trash bag
+0.0010981548111885786	Epoxy wait time
+
+
+DATA: sawdust left on machine
+
+0.15894244611263275	Lathe chuck overtightened
+0.056998979300260544	Drill too large
+0.15414097905158997	Gloves size large
+0.4415915906429291	Tall miter saw
+0.017301559448242188	Clamps scattered around
+0.9909614324569702	Sawdust, wood everywhere
+0.1277083456516266	Bumped into user
+0.001576781738549471	Useless wood scraps
+0.004244765266776085	Unlabeled drill cabinet
+0.0005313981673680246	Ripped trash bag
+0.05226830765604973	Epoxy wait time
+
+
+DATA: lathe chuck tightened too tight
+
+0.9922339916229248	Lathe chuck overtightened
+0.17360235750675201	Drill too large
+0.1220996156334877	Gloves size large
+0.004500207491219044	Tall miter saw
+0.0033528569620102644	Clamps scattered around
+0.5006043910980225	Sawdust, wood everywhere
+0.7194859981536865	Bumped into user
+0.0015386136947199702	Useless wood scraps
+0.0028349466156214476	Unlabeled drill cabinet
+0.007962372153997421	Ripped trash bag
+0.013015102595090866	Epoxy wait time
+
+
+DATA: only found 18V drill which was too big
+
+0.10761912912130356	Lathe chuck overtightened
+0.9970442056655884	Drill too large
+0.2546028792858124	Gloves size large
+0.0007291343063116074	Tall miter saw
+4.024311056127772e-05	Clamps scattered around
+0.770836591720581	Sawdust, wood everywhere
+0.3123457729816437	Bumped into user
+6.635344470851123e-05	Useless wood scraps
+0.39782339334487915	Unlabeled drill cabinet
+8.162322046700865e-05	Ripped trash bag
+0.00015172624262049794	Epoxy wait time
+
+
+DATA: Someone pushed them 
+
+0.4030976891517639	Lathe chuck overtightened
+0.15238475799560547	Drill too large
+0.33992624282836914	Gloves size large
+0.08441812545061111	Tall miter saw
+0.3048836290836334	Clamps scattered around
+0.5256229639053345	Sawdust, wood everywhere
+0.9888585209846497	Bumped into user
+0.03685668483376503	Useless wood scraps
+0.04835324361920357	Unlabeled drill cabinet
+0.21139885485172272	Ripped trash bag
+0.1338036209344864	Epoxy wait time
+
+
+DATA: Finding clamps
+
+0.0935244932770729	Lathe chuck overtightened
+0.03599413484334946	Drill too large
+0.12642180919647217	Gloves size large
+0.02782500348985195	Tall miter saw
+0.9772312641143799	Clamps scattered around
+0.5673850178718567	Sawdust, wood everywhere
+0.31894242763519287	Bumped into user
+7.655904482817277e-05	Useless wood scraps
+0.0011686742072924972	Unlabeled drill cabinet
+0.00022442976478487253	Ripped trash bag
+0.006299423985183239	Epoxy wait time
+
+
+DATA: Loosening the chuck
+
+0.2224326729774475	Lathe chuck overtightened
+0.03586956486105919	Drill too large
+0.15307854115962982	Gloves size large
+0.04581531882286072	Tall miter saw
+0.10426322370767593	Clamps scattered around
+0.6698656678199768	Sawdust, wood everywhere
+0.7840773463249207	Bumped into user
+0.2020077109336853	Useless wood scraps
+0.08121957629919052	Unlabeled drill cabinet
+0.034215547144412994	Ripped trash bag
+0.012116438709199429	Epoxy wait time
+
+
+DATA: people squeezing by and caused him to restart
+
+0.34515199065208435	Lathe chuck overtightened
+0.13824693858623505	Drill too large
+0.23854677379131317	Gloves size large
+0.14442795515060425	Tall miter saw
+0.45174503326416016	Clamps scattered around
+0.7260624766349792	Sawdust, wood everywhere
+0.9763651490211487	Bumped into user
+0.00798978190869093	Useless wood scraps
+0.0816296860575676	Unlabeled drill cabinet
+0.031246323138475418	Ripped trash bag
+0.3315533995628357	Epoxy wait time
+
+
+DATA: finding a drill
+
+0.016369542106986046	Lathe chuck overtightened
+0.012688819319009781	Drill too large
+0.0259554423391819	Gloves size large
+0.0005374880856834352	Tall miter saw
+0.00021806549921166152	Clamps scattered around
+0.605079710483551	Sawdust, wood everywhere
+0.14517880976200104	Bumped into user
+6.967479566810653e-05	Useless wood scraps
+0.17048172652721405	Unlabeled drill cabinet
+9.587095701135695e-05	Ripped trash bag
+0.0007230328628793359	Epoxy wait time
+
+
+DATA: clearing the scrap bin
+
+0.12146489322185516	Lathe chuck overtightened
+0.05180547013878822	Drill too large
+0.2643578350543976	Gloves size large
+0.004543962888419628	Tall miter saw
+0.02354697696864605	Clamps scattered around
+0.5023844838142395	Sawdust, wood everywhere
+0.20146487653255463	Bumped into user
+0.12151248753070831	Useless wood scraps
+0.0010607561562210321	Unlabeled drill cabinet
+0.07300218194723129	Ripped trash bag
+0.00607196195051074	Epoxy wait time
+
+
+DATA: Height of miter saw
+
+0.0016945864772424102	Lathe chuck overtightened
+0.03138786181807518	Drill too large
+0.01864529959857464	Gloves size large
+0.9004672765731812	Tall miter saw
+0.00016877710004337132	Clamps scattered around
+0.7442096471786499	Sawdust, wood everywhere
+0.14397385716438293	Bumped into user
+7.139940862543881e-05	Useless wood scraps
+0.00039105143514461815	Unlabeled drill cabinet
+7.635216024937108e-05	Ripped trash bag
+0.00011689799430314451	Epoxy wait time
+
+
+DATA: Trash in the scrap bin
+
+0.14557570219039917	Lathe chuck overtightened
+0.09284964203834534	Drill too large
+0.15852752327919006	Gloves size large
+0.024105025455355644	Tall miter saw
+0.1422979086637497	Clamps scattered around
+0.5034777522087097	Sawdust, wood everywhere
+0.2364789843559265	Bumped into user
+0.423557847738266	Useless wood scraps
+0.004318976309150457	Unlabeled drill cabinet
+0.03527667745947838	Ripped trash bag
+0.00194062280934304	Epoxy wait time
+
+
+DATA: Ripped Trash bag
+
+0.0265680942684412	Lathe chuck overtightened
+0.032384488731622696	Drill too large
+0.03206130862236023	Gloves size large
+0.00012703827815130353	Tall miter saw
+0.00047345628263428807	Clamps scattered around
+0.535285234451294	Sawdust, wood everywhere
+0.7250557541847229	Bumped into user
+0.0011013493640348315	Useless wood scraps
+0.00033221542253158987	Unlabeled drill cabinet
+0.9990711212158203	Ripped trash bag
+6.626399408560246e-05	Epoxy wait time
+
+
+DATA: Epoxy
+
+0.00150139513425529	Lathe chuck overtightened
+0.00683309230953455	Drill too large
+0.20366428792476654	Gloves size large
+0.06047213450074196	Tall miter saw
+0.0011612793896347284	Clamps scattered around
+0.6896962523460388	Sawdust, wood everywhere
+0.13864146173000336	Bumped into user
+0.00013215460057836026	Useless wood scraps
+0.002330353483557701	Unlabeled drill cabinet
+0.0008394157630391419	Ripped trash bag
+0.5675206184387207	Epoxy wait time
+
+
+DATA: Clamp unavailable
+
+0.3004692792892456	Lathe chuck overtightened
+0.08949796110391617	Drill too large
+0.03683234751224518	Gloves size large
+0.00944952666759491	Tall miter saw
+0.020038055256009102	Clamps scattered around
+0.6851394176483154	Sawdust, wood everywhere
+0.3782648742198944	Bumped into user
+0.1316380500793457	Useless wood scraps
+0.09659890830516815	Unlabeled drill cabinet
+0.004969388712197542	Ripped trash bag
+0.02224618010222912	Epoxy wait time
+
+
+DATA: Drill Unavailable 
+
+0.1468128114938736	Lathe chuck overtightened
+0.06536117941141129	Drill too large
+0.11360044777393341	Gloves size large
+0.003068413119763136	Tall miter saw
+0.019335133954882622	Clamps scattered around
+0.6704252362251282	Sawdust, wood everywhere
+0.11822023242712021	Bumped into user
+0.00758642703294754	Useless wood scraps
+0.8926880359649658	Unlabeled drill cabinet
+0.0009423425071872771	Ripped trash bag
+0.005098553374409676	Epoxy wait time
+
+
+DATA: Lathe was dirty
+
+0.6111006140708923	Lathe chuck overtightened
+0.03553614765405655	Drill too large
+0.1386634111404419	Gloves size large
+0.043532148003578186	Tall miter saw
+0.09459548443555832	Clamps scattered around
+0.505393922328949	Sawdust, wood everywhere
+0.764648973941803	Bumped into user
+0.0021739283110946417	Useless wood scraps
+0.005123878829181194	Unlabeled drill cabinet
+0.12745268642902374	Ripped trash bag
+0.040287189185619354	Epoxy wait time
+
+
+DATA: Accidental emergency stop
+
+0.07578624784946442	Lathe chuck overtightened
+0.0040688347071409225	Drill too large
+0.22607773542404175	Gloves size large
+0.12877382338047028	Tall miter saw
+0.09450701624155045	Clamps scattered around
+0.5876451730728149	Sawdust, wood everywhere
+0.9128197431564331	Bumped into user
+0.0014721674378961325	Useless wood scraps
+0.16286176443099976	Unlabeled drill cabinet
+0.019436463713645935	Ripped trash bag
+0.02395801432430744	Epoxy wait time
+
+
+DATA: Equipment not put away properly
+
+0.22438393533229828	Lathe chuck overtightened
+0.06962933391332626	Drill too large
+0.1701267510652542	Gloves size large
+0.28310710191726685	Tall miter saw
+0.6945508122444153	Clamps scattered around
+0.5377169847488403	Sawdust, wood everywhere
+0.08157841861248016	Bumped into user
+0.00018367527809459716	Useless wood scraps
+0.21455734968185425	Unlabeled drill cabinet
+0.01052086055278778	Ripped trash bag
+0.23108215630054474	Epoxy wait time
+
+
+DATA: People in the way while using power tools
+
+0.19672201573848724	Lathe chuck overtightened
+0.06840655952692032	Drill too large
+0.08593394607305527	Gloves size large
+0.0628470927476883	Tall miter saw
+0.20782151818275452	Clamps scattered around
+0.5930793881416321	Sawdust, wood everywhere
+0.9253706336021423	Bumped into user
+0.0002723571378737688	Useless wood scraps
+0.04345814138650894	Unlabeled drill cabinet
+0.0020833841990679502	Ripped trash bag
+0.07830016314983368	Epoxy wait time
+
+
+DATA: Difficulty finding certain tools
+
+0.0706801563501358	Lathe chuck overtightened
+0.03436623141169548	Drill too large
+0.08875981718301773	Gloves size large
+0.08986358344554901	Tall miter saw
+0.4615668058395386	Clamps scattered around
+0.7126268148422241	Sawdust, wood everywhere
+0.5399788618087769	Bumped into user
+0.0002458292292430997	Useless wood scraps
+0.14443252980709076	Unlabeled drill cabinet
+0.001442166743800044	Ripped trash bag
+0.08059854805469513	Epoxy wait time
+
+
+DATA: Couldnt find proper equipment (gloves)
+
+0.05126039311289787	Lathe chuck overtightened
+0.11927623301744461	Drill too large
+0.12753871083259583	Gloves size large
+0.013053249567747116	Tall miter saw
+0.015117143280804157	Clamps scattered around
+0.5032033324241638	Sawdust, wood everywhere
+0.49336570501327515	Bumped into user
+0.003711846424266696	Useless wood scraps
+0.22214928269386292	Unlabeled drill cabinet
+0.004832820035517216	Ripped trash bag
+0.023401184007525444	Epoxy wait time
+
+
+DATA: She was bumped into
+
+0.4367024302482605	Lathe chuck overtightened
+0.06256980448961258	Drill too large
+0.29222413897514343	Gloves size large
+0.014294052496552467	Tall miter saw
+0.028295021504163742	Clamps scattered around
+0.7332719564437866	Sawdust, wood everywhere
+0.9980140924453735	Bumped into user
+0.00362984836101532	Useless wood scraps
+0.040358636528253555	Unlabeled drill cabinet
+0.014683633111417294	Ripped trash bag
+0.18328550457954407	Epoxy wait time
+
+
+DATA: The lathe was left covered in saw dust
+
+0.4883185029029846	Lathe chuck overtightened
+0.04938281700015068	Drill too large
+0.07101211696863174	Gloves size large
+0.03615918383002281	Tall miter saw
+0.0043661934323608875	Clamps scattered around
+0.971688449382782	Sawdust, wood everywhere
+0.4389648139476776	Bumped into user
+0.0004795092681888491	Useless wood scraps
+0.0021015366073697805	Unlabeled drill cabinet
+0.0001779481681296602	Ripped trash bag
+0.00012827925093006343	Epoxy wait time
+
+
+DATA: The 18V drill was too big for her
+
+0.25597554445266724	Lathe chuck overtightened
+0.9965612292289734	Drill too large
+0.32448267936706543	Gloves size large
+0.00040600355714559555	Tall miter saw
+0.00016341437003575265	Clamps scattered around
+0.597173273563385	Sawdust, wood everywhere
+0.8181042671203613	Bumped into user
+7.75617008912377e-05	Useless wood scraps
+0.036486588418483734	Unlabeled drill cabinet
+6.142709025880322e-05	Ripped trash bag
+0.00022902381897438318	Epoxy wait time
+
+
+DATA: The miter saw was too tall for her
+
+0.20907528698444366	Lathe chuck overtightened
+0.33708295226097107	Drill too large
+0.06224137917160988	Gloves size large
+0.9734143018722534	Tall miter saw
+0.00026719231391325593	Clamps scattered around
+0.638038694858551	Sawdust, wood everywhere
+0.8927488923072815	Bumped into user
+0.00011677110887831077	Useless wood scraps
+0.0005762274377048016	Unlabeled drill cabinet
+7.9678138718009e-05	Ripped trash bag
+0.00014648493379354477	Epoxy wait time
+
+
+DATA: The clamps were not put away
+
+0.28182172775268555	Lathe chuck overtightened
+0.08756781369447708	Drill too large
+0.15198884904384613	Gloves size large
+0.010229835286736488	Tall miter saw
+0.9975705146789551	Clamps scattered around
+0.7719210982322693	Sawdust, wood everywhere
+0.685519814491272	Bumped into user
+0.0005028519663028419	Useless wood scraps
+0.06019302085042	Unlabeled drill cabinet
+0.0005126352771185338	Ripped trash bag
+0.04408200830221176	Epoxy wait time
+
+
+DATA: Someone left pieces of wood that were too small in the scrap bin. 
+
+0.34003517031669617	Lathe chuck overtightened
+0.002065117936581373	Drill too large
+0.001360996742732823	Gloves size large
+0.14740702509880066	Tall miter saw
+0.12002647668123245	Clamps scattered around
+0.7685297131538391	Sawdust, wood everywhere
+0.14121875166893005	Bumped into user
+0.1773819923400879	Useless wood scraps
+0.03278210759162903	Unlabeled drill cabinet
+0.006631175056099892	Ripped trash bag
+0.014986695721745491	Epoxy wait time
+
+
+DATA: Something was tightened too much so the emergency stop had to be used. 
+
+0.5012350678443909	Lathe chuck overtightened
+0.10078062117099762	Drill too large
+0.2517334818840027	Gloves size large
+0.27845054864883423	Tall miter saw
+0.03492787107825279	Clamps scattered around
+0.5816560983657837	Sawdust, wood everywhere
+0.6998840570449829	Bumped into user
+0.0002895683574024588	Useless wood scraps
+0.009788446128368378	Unlabeled drill cabinet
+0.025582071393728256	Ripped trash bag
+0.04465248063206673	Epoxy wait time
+
+
+DATA: The only available drill was too big so she had to looo through unlabeled drawers for a smaller one. 
+
+0.07915179431438446	Lathe chuck overtightened
+0.9315943121910095	Drill too large
+0.014759780839085579	Gloves size large
+0.0034818213898688555	Tall miter saw
+0.0010039809858426452	Clamps scattered around
+0.5126308798789978	Sawdust, wood everywhere
+0.7370957732200623	Bumped into user
+0.0007467709947377443	Useless wood scraps
+0.899124801158905	Unlabeled drill cabinet
+0.0011653769761323929	Ripped trash bag
+0.015305661596357822	Epoxy wait time
+
+
+DATA: There weren’t gloves in her size. 
+
+0.29264506697654724	Lathe chuck overtightened
+0.06787260621786118	Drill too large
+0.382304310798645	Gloves size large
+0.009737735614180565	Tall miter saw
+0.0032230685465037823	Clamps scattered around
+0.7415893077850342	Sawdust, wood everywhere
+0.8069641590118408	Bumped into user
+0.0002531719801481813	Useless wood scraps
+0.01599242351949215	Unlabeled drill cabinet
+0.001685849973000586	Ripped trash bag
+0.021993521600961685	Epoxy wait time
+
+
+DATA: Crowded workspace
+
+0.6553283929824829	Lathe chuck overtightened
+0.41246992349624634	Drill too large
+0.37483832240104675	Gloves size large
+0.09963260591030121	Tall miter saw
+0.5384941697120667	Clamps scattered around
+0.6157359480857849	Sawdust, wood everywhere
+0.7425691485404968	Bumped into user
+0.0016070726560428739	Useless wood scraps
+0.0009601305355317891	Unlabeled drill cabinet
+0.0013825800269842148	Ripped trash bag
+0.2737106382846832	Epoxy wait time
+
+
+DATA: Too big of gloves
+
+0.6724109649658203	Lathe chuck overtightened
+0.3079683184623718	Drill too large
+0.9917953014373779	Gloves size large
+0.005415226332843304	Tall miter saw
+0.0012730394955724478	Clamps scattered around
+0.6147244572639465	Sawdust, wood everywhere
+0.8799331784248352	Bumped into user
+0.0005573722301051021	Useless wood scraps
+0.010072411969304085	Unlabeled drill cabinet
+0.0004562131653074175	Ripped trash bag
+0.04232722893357277	Epoxy wait time
+
+
+DATA: Other people's messes
+
+0.03778740391135216	Lathe chuck overtightened
+0.0997600331902504	Drill too large
+0.21149636805057526	Gloves size large
+0.03961245343089104	Tall miter saw
+0.26714178919792175	Clamps scattered around
+0.6008056402206421	Sawdust, wood everywhere
+0.2246222347021103	Bumped into user
+0.0016820639139041305	Useless wood scraps
+0.0288690198212862	Unlabeled drill cabinet
+0.17297372221946716	Ripped trash bag
+0.05100778862833977	Epoxy wait time
+
+
+DATA: Other people's incorrect use of machines
+
+0.22094611823558807	Lathe chuck overtightened
+0.05747685208916664	Drill too large
+0.09209690988063812	Gloves size large
+0.050183068960905075	Tall miter saw
+0.11904631555080414	Clamps scattered around
+0.7153470516204834	Sawdust, wood everywhere
+0.4234015643596649	Bumped into user
+0.00016082431830000132	Useless wood scraps
+0.07482562214136124	Unlabeled drill cabinet
+0.001100381137803197	Ripped trash bag
+0.09271160513162613	Epoxy wait time
+
+
+DATA: Disorganized tool stock
+
+0.41992029547691345	Lathe chuck overtightened
+0.048071105033159256	Drill too large
+0.10084359347820282	Gloves size large
+0.31890514492988586	Tall miter saw
+0.8230746388435364	Clamps scattered around
+0.5356779098510742	Sawdust, wood everywhere
+0.5144446492195129	Bumped into user
+0.0014355749590322375	Useless wood scraps
+0.5831847190856934	Unlabeled drill cabinet
+0.0005625629564747214	Ripped trash bag
+0.15706957876682281	Epoxy wait time
+
+
+DATA: Ripped trash bag
+
+0.04557937756180763	Lathe chuck overtightened
+0.0552603043615818	Drill too large
+0.05075116828083992	Gloves size large
+0.00015474852989427745	Tall miter saw
+0.0006392684299498796	Clamps scattered around
+0.5637561678886414	Sawdust, wood everywhere
+0.7553128004074097	Bumped into user
+0.0007167648291215301	Useless wood scraps
+0.00030299153877422214	Unlabeled drill cabinet
+0.9990365505218506	Ripped trash bag
+0.0001507628767285496	Epoxy wait time
+
+
+DATA: Dirty workspace
+
+0.3336086869239807	Lathe chuck overtightened
+0.03292393684387207	Drill too large
+0.11807873845100403	Gloves size large
+0.06925469636917114	Tall miter saw
+0.5982635617256165	Clamps scattered around
+0.5466905832290649	Sawdust, wood everywhere
+0.5348792672157288	Bumped into user
+0.00785747729241848	Useless wood scraps
+0.1714344024658203	Unlabeled drill cabinet
+0.31236642599105835	Ripped trash bag
+0.05888427421450615	Epoxy wait time
+
+
+DATA: Miter saw too high
+
+0.22802594304084778	Lathe chuck overtightened
+0.39875656366348267	Drill too large
+0.21219806373119354	Gloves size large
+0.977247953414917	Tall miter saw
+0.0033959886059165	Clamps scattered around
+0.783669650554657	Sawdust, wood everywhere
+0.7942251563072205	Bumped into user
+0.0005897876108065248	Useless wood scraps
+0.0022950000129640102	Unlabeled drill cabinet
+0.0017544871661812067	Ripped trash bag
+0.0029938085936009884	Epoxy wait time
+
+
+DATA: 18V too large
+
+0.6842749714851379	Lathe chuck overtightened
+0.4621344208717346	Drill too large
+0.47387173771858215	Gloves size large
+0.23486120998859406	Tall miter saw
+0.11087711900472641	Clamps scattered around
+0.5348008871078491	Sawdust, wood everywhere
+0.8201888799667358	Bumped into user
+0.002399172866716981	Useless wood scraps
+0.04755900800228119	Unlabeled drill cabinet
+0.0239313542842865	Ripped trash bag
+0.04217506945133209	Epoxy wait time
+
+
+DATA: Bumped emergency stop
+
+0.06936871260404587	Lathe chuck overtightened
+0.010814735665917397	Drill too large
+0.14288517832756042	Gloves size large
+0.001960566034540534	Tall miter saw
+0.019061407074332237	Clamps scattered around
+0.5999767780303955	Sawdust, wood everywhere
+0.9430784583091736	Bumped into user
+0.000976678798906505	Useless wood scraps
+0.026530742645263672	Unlabeled drill cabinet
+0.001862071338109672	Ripped trash bag
+0.006697917357087135	Epoxy wait time
+
+
+DATA: Pressed the emergency stop button
+
+0.17645561695098877	Lathe chuck overtightened
+0.07406430691480637	Drill too large
+0.2624495327472687	Gloves size large
+0.12908218801021576	Tall miter saw
+0.03242595121264458	Clamps scattered around
+0.6289322376251221	Sawdust, wood everywhere
+0.3566022515296936	Bumped into user
+0.004078465513885021	Useless wood scraps
+0.013647424057126045	Unlabeled drill cabinet
+0.006891479715704918	Ripped trash bag
+0.0321936197578907	Epoxy wait time
+
+
+DATA: Had to clean out extra saw dust
+
+0.049149367958307266	Lathe chuck overtightened
+0.0693904235959053	Drill too large
+0.06792721152305603	Gloves size large
+0.49392586946487427	Tall miter saw
+0.0005988224875181913	Clamps scattered around
+0.9920185804367065	Sawdust, wood everywhere
+0.6867883801460266	Bumped into user
+0.00036205549258738756	Useless wood scraps
+0.02431323565542698	Unlabeled drill cabinet
+0.0018235250608995557	Ripped trash bag
+0.0021327082067728043	Epoxy wait time
+
+
+DATA: Had to find 12V since there was only 18V
+
+0.4462136924266815	Lathe chuck overtightened
+0.13268759846687317	Drill too large
+0.29960131645202637	Gloves size large
+0.27775922417640686	Tall miter saw
+0.2125202715396881	Clamps scattered around
+0.6966360807418823	Sawdust, wood everywhere
+0.9371349811553955	Bumped into user
+0.0020311838015913963	Useless wood scraps
+0.027386266738176346	Unlabeled drill cabinet
+0.03911588340997696	Ripped trash bag
+0.2065405547618866	Epoxy wait time
+
+
+DATA: Applying epoxy was difficult due to large gloves
+
+0.177925243973732	Lathe chuck overtightened
+0.043104711920022964	Drill too large
+0.9933205246925354	Gloves size large
+0.09071800857782364	Tall miter saw
+0.010023389011621475	Clamps scattered around
+0.5837107300758362	Sawdust, wood everywhere
+0.2712005376815796	Bumped into user
+0.0012636446626856923	Useless wood scraps
+0.11220525950193405	Unlabeled drill cabinet
+0.045614611357450485	Ripped trash bag
+0.4852597117424011	Epoxy wait time
+
+
+DATA: saw dust left
+
+0.08947646617889404	Lathe chuck overtightened
+0.14041614532470703	Drill too large
+0.2343585193157196	Gloves size large
+0.19706228375434875	Tall miter saw
+0.10887562483549118	Clamps scattered around
+0.990393340587616	Sawdust, wood everywhere
+0.34575891494750977	Bumped into user
+0.008997811004519463	Useless wood scraps
+0.034449078142642975	Unlabeled drill cabinet
+0.030482161790132523	Ripped trash bag
+0.05711808428168297	Epoxy wait time
+
+
+DATA: equipment left too tight
+
+0.5084686279296875	Lathe chuck overtightened
+0.14398841559886932	Drill too large
+0.1701933890581131	Gloves size large
+0.3545222580432892	Tall miter saw
+0.07952473312616348	Clamps scattered around
+0.525946319103241	Sawdust, wood everywhere
+0.1262994110584259	Bumped into user
+0.0001610211911611259	Useless wood scraps
+0.03927984833717346	Unlabeled drill cabinet
+0.0025565370451658964	Ripped trash bag
+0.2684330940246582	Epoxy wait time
+
+
+DATA: trash needs to be taken out in new/sturdy bag
+
+0.07682870328426361	Lathe chuck overtightened
+0.05947175621986389	Drill too large
+0.16039951145648956	Gloves size large
+0.09423869848251343	Tall miter saw
+0.24915863573551178	Clamps scattered around
+0.5382013916969299	Sawdust, wood everywhere
+0.36514440178871155	Bumped into user
+0.16175036132335663	Useless wood scraps
+0.02460409142076969	Unlabeled drill cabinet
+0.0601184219121933	Ripped trash bag
+0.02599584124982357	Epoxy wait time
+
+
+DATA: interrupted on lathe by someone bumping them
+
+0.8052511215209961	Lathe chuck overtightened
+0.08986297994852066	Drill too large
+0.24163798987865448	Gloves size large
+0.04483712837100029	Tall miter saw
+0.022527294233441353	Clamps scattered around
+0.5432924032211304	Sawdust, wood everywhere
+0.9774728417396545	Bumped into user
+0.005227949470281601	Useless wood scraps
+0.03759167715907097	Unlabeled drill cabinet
+0.001436035381630063	Ripped trash bag
+0.008092663250863552	Epoxy wait time
+
+
+DATA: machinery left too high for use
+
+0.5258053541183472	Lathe chuck overtightened
+0.22034278512001038	Drill too large
+0.12819349765777588	Gloves size large
+0.17545954883098602	Tall miter saw
+0.3543851375579834	Clamps scattered around
+0.6165503859519958	Sawdust, wood everywhere
+0.0025989869609475136	Bumped into user
+0.0012924920301884413	Useless wood scraps
+0.25338977575302124	Unlabeled drill cabinet
+0.0011962078278884292	Ripped trash bag
+0.14952567219734192	Epoxy wait time
+
+
+DATA: Having to throw away the unusable scraps
+
+0.41715094447135925	Lathe chuck overtightened
+0.18301060795783997	Drill too large
+0.3078415095806122	Gloves size large
+0.26583927869796753	Tall miter saw
+0.5808755159378052	Clamps scattered around
+0.5313596129417419	Sawdust, wood everywhere
+0.5402060151100159	Bumped into user
+0.6849435567855835	Useless wood scraps
+0.17608124017715454	Unlabeled drill cabinet
+0.5889405012130737	Ripped trash bag
+0.08201279491186142	Epoxy wait time
+
+
+DATA: Replacing the garbage bag
+
+0.04310121759772301	Lathe chuck overtightened
+0.03853191062808037	Drill too large
+0.06783522665500641	Gloves size large
+0.0006878937128931284	Tall miter saw
+0.0005836584605276585	Clamps scattered around
+0.6494115591049194	Sawdust, wood everywhere
+0.7207221984863281	Bumped into user
+0.00040412438102066517	Useless wood scraps
+0.000585880596190691	Unlabeled drill cabinet
+0.061682768166065216	Ripped trash bag
+0.0007759056170471013	Epoxy wait time
+
+
+DATA: Cleaning the lathe
+
+0.31734177470207214	Lathe chuck overtightened
+0.025232724845409393	Drill too large
+0.11779283732175827	Gloves size large
+0.01371082104742527	Tall miter saw
+0.020347191020846367	Clamps scattered around
+0.611788272857666	Sawdust, wood everywhere
+0.06621862202882767	Bumped into user
+0.000618775375187397	Useless wood scraps
+0.02175968326628208	Unlabeled drill cabinet
+0.0004092025919817388	Ripped trash bag
+0.004831480793654919	Epoxy wait time
+
+
+DATA: Restarting the lathe from getting bumped into 
+
+0.6914259791374207	Lathe chuck overtightened
+0.05566127598285675	Drill too large
+0.11620365083217621	Gloves size large
+0.006418637000024319	Tall miter saw
+0.11050718277692795	Clamps scattered around
+0.5343137383460999	Sawdust, wood everywhere
+0.9736838340759277	Bumped into user
+0.0022428224328905344	Useless wood scraps
+0.0736209899187088	Unlabeled drill cabinet
+0.003119150409474969	Ripped trash bag
+0.008993587456643581	Epoxy wait time
+
+
+DATA: Can’t find the right drill size because of clutter
+
+0.16984117031097412	Lathe chuck overtightened
+0.04024210572242737	Drill too large
+0.00835704430937767	Gloves size large
+0.02930203266441822	Tall miter saw
+0.4965047538280487	Clamps scattered around
+0.6495586633682251	Sawdust, wood everywhere
+0.4793735146522522	Bumped into user
+0.006360625382512808	Useless wood scraps
+0.5959608554840088	Unlabeled drill cabinet
+0.004960026126354933	Ripped trash bag
+0.03778855502605438	Epoxy wait time
+
+
+DATA: Not a full range of glove sizes 
+
+0.32758763432502747	Lathe chuck overtightened
+0.09731493890285492	Drill too large
+0.07673102617263794	Gloves size large
+0.01660165935754776	Tall miter saw
+0.059595413506031036	Clamps scattered around
+0.7671664357185364	Sawdust, wood everywhere
+0.8823138475418091	Bumped into user
+0.0003253105969633907	Useless wood scraps
+0.016617558896541595	Unlabeled drill cabinet
+0.0024292205926030874	Ripped trash bag
+0.0932675376534462	Epoxy wait time
+
+
+DATA: Bolts too tightened on lathe 
+
+0.9727199077606201	Lathe chuck overtightened
+0.03355235606431961	Drill too large
+0.03878968209028244	Gloves size large
+0.0335300974547863	Tall miter saw
+0.000534729624632746	Clamps scattered around
+0.6909776926040649	Sawdust, wood everywhere
+0.378468781709671	Bumped into user
+0.0001058757261489518	Useless wood scraps
+0.0018250759458169341	Unlabeled drill cabinet
+0.00011680807074299082	Ripped trash bag
+0.0014464284759014845	Epoxy wait time
+
+
+DATA: Table top is too high
+
+0.4758915305137634	Lathe chuck overtightened
+0.38873913884162903	Drill too large
+0.14472481608390808	Gloves size large
+0.023238055408000946	Tall miter saw
+0.006098045501857996	Clamps scattered around
+0.5127986669540405	Sawdust, wood everywhere
+0.6451768279075623	Bumped into user
+0.0029314702842384577	Useless wood scraps
+0.035975027829408646	Unlabeled drill cabinet
+0.0002078951511066407	Ripped trash bag
+0.025314318016171455	Epoxy wait time
+
+
+DATA: Cleaning up the machine
+
+0.31818488240242004	Lathe chuck overtightened
+0.06413944810628891	Drill too large
+0.3157745897769928	Gloves size large
+0.28005754947662354	Tall miter saw
+0.13708870112895966	Clamps scattered around
+0.5809095501899719	Sawdust, wood everywhere
+0.07734841853380203	Bumped into user
+0.0013024264480918646	Useless wood scraps
+0.0037715977523475885	Unlabeled drill cabinet
+0.001519241719506681	Ripped trash bag
+0.24308764934539795	Epoxy wait time
+
+
+DATA: Finding the correct drill
+
+0.09250843524932861	Lathe chuck overtightened
+0.01751633919775486	Drill too large
+0.06874573230743408	Gloves size large
+0.004053443670272827	Tall miter saw
+0.0005369706195779145	Clamps scattered around
+0.5547651648521423	Sawdust, wood everywhere
+0.20070810616016388	Bumped into user
+5.097684697830118e-05	Useless wood scraps
+0.09483712166547775	Unlabeled drill cabinet
+0.00014826192636974156	Ripped trash bag
+0.005242525599896908	Epoxy wait time
+
+
+DATA: Gloves were too big
+
+0.3002859652042389	Lathe chuck overtightened
+0.1342058926820755	Drill too large
+0.9953657388687134	Gloves size large
+0.0006333210621960461	Tall miter saw
+0.00028786208713427186	Clamps scattered around
+0.6027914881706238	Sawdust, wood everywhere
+0.6369668245315552	Bumped into user
+0.00017466802091803402	Useless wood scraps
+0.007713298313319683	Unlabeled drill cabinet
+0.0003147498064208776	Ripped trash bag
+0.0007289061904884875	Epoxy wait time
+
+
+DATA: Trash was full 
+
+0.36816519498825073	Lathe chuck overtightened
+0.34931549429893494	Drill too large
+0.39315420389175415	Gloves size large
+0.02123154141008854	Tall miter saw
+0.12942349910736084	Clamps scattered around
+0.5910764336585999	Sawdust, wood everywhere
+0.5929883718490601	Bumped into user
+0.07406261563301086	Useless wood scraps
+0.00889628380537033	Unlabeled drill cabinet
+0.024642353877425194	Ripped trash bag
+0.01333674043416977	Epoxy wait time
+
+
+DATA: Scrap bin not used correctly 
+
+0.012965355068445206	Lathe chuck overtightened
+0.02665545418858528	Drill too large
+0.05522169545292854	Gloves size large
+0.00015990356041584164	Tall miter saw
+0.0077104270458221436	Clamps scattered around
+0.6058788299560547	Sawdust, wood everywhere
+0.31576287746429443	Bumped into user
+0.16908375918865204	Useless wood scraps
+0.0013791908277198672	Unlabeled drill cabinet
+0.21938543021678925	Ripped trash bag
+0.0005918371025472879	Epoxy wait time
+
+
+DATA: Someone left machine as they used it
+
+0.339456707239151	Lathe chuck overtightened
+0.07627903670072556	Drill too large
+0.2521410286426544	Gloves size large
+0.2760698199272156	Tall miter saw
+0.06066884845495224	Clamps scattered around
+0.7719972133636475	Sawdust, wood everywhere
+0.10199294239282608	Bumped into user
+0.00026460905792191625	Useless wood scraps
+0.054097697138786316	Unlabeled drill cabinet
+0.0009695957996882498	Ripped trash bag
+0.24371793866157532	Epoxy wait time
+
+
+DATA: Someone bumped into her
+
+0.19599495828151703	Lathe chuck overtightened
+0.04316534847021103	Drill too large
+0.24876588582992554	Gloves size large
+0.02976178005337715	Tall miter saw
+0.012135082855820656	Clamps scattered around
+0.6974781155586243	Sawdust, wood everywhere
+0.9963826537132263	Bumped into user
+0.0017044373089447618	Useless wood scraps
+0.01234550029039383	Unlabeled drill cabinet
+0.005984527058899403	Ripped trash bag
+0.07614649087190628	Epoxy wait time
+
+
+DATA: Trash was ripped
+
+0.32376235723495483	Lathe chuck overtightened
+0.1463252454996109	Drill too large
+0.20125296711921692	Gloves size large
+0.005772594828158617	Tall miter saw
+0.3649246394634247	Clamps scattered around
+0.500062882900238	Sawdust, wood everywhere
+0.6525761485099792	Bumped into user
+0.09672681242227554	Useless wood scraps
+0.02418227680027485	Unlabeled drill cabinet
+0.9009823799133301	Ripped trash bag
+0.0006095352582633495	Epoxy wait time
+
+
+DATA: Pieces that were too small were left in the trash
+
+0.1879766285419464	Lathe chuck overtightened
+0.0050896708853542805	Drill too large
+0.02018481120467186	Gloves size large
+0.10993032902479172	Tall miter saw
+0.08681556582450867	Clamps scattered around
+0.7599448561668396	Sawdust, wood everywhere
+0.03336635231971741	Bumped into user
+0.20427662134170532	Useless wood scraps
+0.018955465406179428	Unlabeled drill cabinet
+0.13023020327091217	Ripped trash bag
+0.07461783289909363	Epoxy wait time
+
+
+DATA: Gloves only had size large
+
+0.05811809003353119	Lathe chuck overtightened
+0.08865466713905334	Drill too large
+0.9870061874389648	Gloves size large
+0.014335358515381813	Tall miter saw
+0.00016918314213398844	Clamps scattered around
+0.7340074777603149	Sawdust, wood everywhere
+0.7131581902503967	Bumped into user
+0.0001684727903921157	Useless wood scraps
+0.002652388298884034	Unlabeled drill cabinet
+0.00044667546171694994	Ripped trash bag
+0.009330235421657562	Epoxy wait time
+
+
+DATA: The drill she wanted was buried in the cabinet 
+
+0.0755252093076706	Lathe chuck overtightened
+0.062157317996025085	Drill too large
+0.05806410685181618	Gloves size large
+0.00018251087749376893	Tall miter saw
+0.00015532251563854516	Clamps scattered around
+0.5105102062225342	Sawdust, wood everywhere
+0.2576887309551239	Bumped into user
+0.0009568238747306168	Useless wood scraps
+0.26755934953689575	Unlabeled drill cabinet
+0.00014282674237620085	Ripped trash bag
+0.0001989525044336915	Epoxy wait time
+
+
+DATA: Got bumped into
+
+0.4030502438545227	Lathe chuck overtightened
+0.11670243740081787	Drill too large
+0.30489277839660645	Gloves size large
+0.10471852123737335	Tall miter saw
+0.13843993842601776	Clamps scattered around
+0.629772961139679	Sawdust, wood everywhere
+0.9945507645606995	Bumped into user
+0.02435734122991562	Useless wood scraps
+0.22392751276493073	Unlabeled drill cabinet
+0.11267019063234329	Ripped trash bag
+0.23896773159503937	Epoxy wait time
+
+
+DATA: Gloves too large
+
+0.25284796953201294	Lathe chuck overtightened
+0.016646768897771835	Drill too large
+0.9950732588768005	Gloves size large
+0.00113888259511441	Tall miter saw
+0.0009775259532034397	Clamps scattered around
+0.5641455054283142	Sawdust, wood everywhere
+0.7534286379814148	Bumped into user
+0.0002286965900566429	Useless wood scraps
+0.011019912548363209	Unlabeled drill cabinet
+0.0004033989389427006	Ripped trash bag
+0.012471574358642101	Epoxy wait time
+
+
+DATA: Finding a clamp
+
+0.25165000557899475	Lathe chuck overtightened
+0.0460674986243248	Drill too large
+0.11095775663852692	Gloves size large
+0.06795378029346466	Tall miter saw
+0.7692599296569824	Clamps scattered around
+0.5647538900375366	Sawdust, wood everywhere
+0.5477232933044434	Bumped into user
+0.0004221630224492401	Useless wood scraps
+0.0012339563108980656	Unlabeled drill cabinet
+0.0007211429765447974	Ripped trash bag
+0.03948923945426941	Epoxy wait time
+
+
+DATA: Chuck too tight
+
+0.8937591910362244	Lathe chuck overtightened
+0.16991470754146576	Drill too large
+0.33739322423934937	Gloves size large
+0.1651083528995514	Tall miter saw
+0.07876348495483398	Clamps scattered around
+0.5485792756080627	Sawdust, wood everywhere
+0.9415341019630432	Bumped into user
+0.004950708709657192	Useless wood scraps
+0.003235691459849477	Unlabeled drill cabinet
+0.0359642319381237	Ripped trash bag
+0.056213390082120895	Epoxy wait time
+
+
+DATA: Saw dust not cleaned up
+
+0.014913945458829403	Lathe chuck overtightened
+0.03531903401017189	Drill too large
+0.0787363052368164	Gloves size large
+0.5569247007369995	Tall miter saw
+0.0056991660967469215	Clamps scattered around
+0.9943860769271851	Sawdust, wood everywhere
+0.3926558196544647	Bumped into user
+0.0004650093906093389	Useless wood scraps
+0.05280767381191254	Unlabeled drill cabinet
+0.002375023439526558	Ripped trash bag
+0.0007400249596685171	Epoxy wait time
+
+
+DATA: Rip in trash bag
+
+0.02918919175863266	Lathe chuck overtightened
+0.01703736186027527	Drill too large
+0.027995487675070763	Gloves size large
+0.0001614267093827948	Tall miter saw
+0.0005963007570244372	Clamps scattered around
+0.6381900906562805	Sawdust, wood everywhere
+0.6235132813453674	Bumped into user
+0.0038044708780944347	Useless wood scraps
+0.00039508118061348796	Unlabeled drill cabinet
+0.9978436231613159	Ripped trash bag
+7.545758853666484e-05	Epoxy wait time
+
+
+DATA: Wood in recycled materials was too small to be used
+
+0.20649123191833496	Lathe chuck overtightened
+0.0004176941583864391	Drill too large
+0.0005471815238706768	Gloves size large
+0.06476470828056335	Tall miter saw
+0.03474894165992737	Clamps scattered around
+0.5255307555198669	Sawdust, wood everywhere
+0.050514787435531616	Bumped into user
+0.3503536880016327	Useless wood scraps
+0.019115732982754707	Unlabeled drill cabinet
+0.016405431553721428	Ripped trash bag
+0.0024972492828965187	Epoxy wait time
+
+
+DATA: Someone bumped the user causing them to hit the emergency stop and they had to restart the machine
+
+0.486599326133728	Lathe chuck overtightened
+0.0471898652613163	Drill too large
+0.16095086932182312	Gloves size large
+0.3920219838619232	Tall miter saw
+0.04677088186144829	Clamps scattered around
+0.7233408689498901	Sawdust, wood everywhere
+0.9898869395256042	Bumped into user
+0.0003773208591155708	Useless wood scraps
+0.020898278802633286	Unlabeled drill cabinet
+0.0013389082159847021	Ripped trash bag
+0.12018116563558578	Epoxy wait time
+
+
+DATA: The last person left shavings that required clean up
+
+0.17635725438594818	Lathe chuck overtightened
+0.06544531881809235	Drill too large
+0.2426162213087082	Gloves size large
+0.14688114821910858	Tall miter saw
+0.3178386986255646	Clamps scattered around
+0.676190197467804	Sawdust, wood everywhere
+0.18239152431488037	Bumped into user
+0.007689697202295065	Useless wood scraps
+0.07941711694002151	Unlabeled drill cabinet
+0.20977020263671875	Ripped trash bag
+0.02697169780731201	Epoxy wait time
+
+
+DATA: The user had to loosen the chuck 
+
+0.7329222559928894	Lathe chuck overtightened
+0.09950260818004608	Drill too large
+0.1497780829668045	Gloves size large
+0.172269806265831	Tall miter saw
+0.06348520517349243	Clamps scattered around
+0.6591600179672241	Sawdust, wood everywhere
+0.6224731206893921	Bumped into user
+0.017625583335757256	Useless wood scraps
+0.07013911008834839	Unlabeled drill cabinet
+0.0340224914252758	Ripped trash bag
+0.050798214972019196	Epoxy wait time
+
+
+DATA: The gloves were too big when trying to epoxy 
+
+0.27770480513572693	Lathe chuck overtightened
+0.11319106072187424	Drill too large
+0.984565258026123	Gloves size large
+0.0005912119522690773	Tall miter saw
+0.0018472049850970507	Clamps scattered around
+0.5114514231681824	Sawdust, wood everywhere
+0.49513036012649536	Bumped into user
+0.0002957921242341399	Useless wood scraps
+0.007075129076838493	Unlabeled drill cabinet
+0.0004374432028271258	Ripped trash bag
+0.49354487657546997	Epoxy wait time
+
+
+DATA: The wood scraps were too small so they needed to be thrown out
+
+0.18787135183811188	Lathe chuck overtightened
+0.0003009300562553108	Drill too large
+0.0004591680772136897	Gloves size large
+0.09243204444646835	Tall miter saw
+0.010411092080175877	Clamps scattered around
+0.7748613357543945	Sawdust, wood everywhere
+0.1725568324327469	Bumped into user
+0.948531985282898	Useless wood scraps
+0.029713047668337822	Unlabeled drill cabinet
+0.12090039253234863	Ripped trash bag
+0.002661078469827771	Epoxy wait time
+
+
+DATA: The garbage bag was ripped so it needed to be replaced
+
+0.05420101433992386	Lathe chuck overtightened
+0.04075177013874054	Drill too large
+0.1335964947938919	Gloves size large
+0.0008156434632837772	Tall miter saw
+0.0010900241322815418	Clamps scattered around
+0.7484647631645203	Sawdust, wood everywhere
+0.6441395878791809	Bumped into user
+0.0007309966022148728	Useless wood scraps
+0.0003860554425045848	Unlabeled drill cabinet
+0.9956895112991333	Ripped trash bag
+0.001274566282518208	Epoxy wait time
