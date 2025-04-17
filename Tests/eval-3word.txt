@@ -1,4 +1,4 @@
-**SHORT Code, followed by the F1 score for BART, BERT, MPNet, Jina Embeddings V2**
+**LONG Code, followed by the F1 score for BART, BERT, MPNet, Jina Embeddings V2**
 
 
 No code assigned	

@@ -1,0 +1,1545 @@
+
+
+DATA: cutting wood
+
+0.24185095727443695	The lathe chuck was tightened too much, so it was loosened with pliers
+0.28228211402893066	Only 18 V drills were displayed, which are too big to use with one hand
+0.09997308999300003	Only size large disposable gloves were available, so using epoxy was a struggle
+0.3898376226425171	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.11126607656478882	People forgot to put the clamps away, so they needed to be searched for
+0.3711162507534027	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.29821091890335083	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.33589768409729004	wood scraps were too small to be useful to anyone, so they were trashed
+0.318502813577652	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.09831098467111588	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.15697988867759705	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: didn’t know how to use lathe
+
+0.632481038570404	The lathe chuck was tightened too much, so it was loosened with pliers
+0.40283942222595215	Only 18 V drills were displayed, which are too big to use with one hand
+0.10567901283502579	Only size large disposable gloves were available, so using epoxy was a struggle
+0.34048348665237427	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.27711382508277893	People forgot to put the clamps away, so they needed to be searched for
+0.6203264594078064	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.47742030024528503	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.2395322322845459	wood scraps were too small to be useful to anyone, so they were trashed
+0.31991803646087646	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.2480277419090271	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.12565556168556213	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Finding drill
+
+0.2754880487918854	The lathe chuck was tightened too much, so it was loosened with pliers
+0.5386736989021301	Only 18 V drills were displayed, which are too big to use with one hand
+0.10666269809007645	Only size large disposable gloves were available, so using epoxy was a struggle
+0.24921241402626038	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.3226761221885681	People forgot to put the clamps away, so they needed to be searched for
+0.23901164531707764	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.32590270042419434	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.0771796926856041	wood scraps were too small to be useful to anyone, so they were trashed
+0.6477949619293213	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.1591690331697464	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.06188270077109337	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Taking out trash
+
+0.059034060686826706	The lathe chuck was tightened too much, so it was loosened with pliers
+0.04916192591190338	Only 18 V drills were displayed, which are too big to use with one hand
+0.10560286045074463	Only size large disposable gloves were available, so using epoxy was a struggle
+0.12728935480117798	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.2118212878704071	People forgot to put the clamps away, so they needed to be searched for
+0.22292818129062653	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.16992038488388062	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.33392077684402466	wood scraps were too small to be useful to anyone, so they were trashed
+0.2363482564687729	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.509151816368103	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.13954897224903107	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Finding clamp
+
+0.22400695085525513	The lathe chuck was tightened too much, so it was loosened with pliers
+0.03255092352628708	Only 18 V drills were displayed, which are too big to use with one hand
+0.011286879889667034	Only size large disposable gloves were available, so using epoxy was a struggle
+0.08493193984031677	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.345925897359848	People forgot to put the clamps away, so they needed to be searched for
+0.06931562721729279	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.25893840193748474	the emergency stop button of the lathe was bumped, as someone squeezed by
+-0.0300896093249321	wood scraps were too small to be useful to anyone, so they were trashed
+0.03618689253926277	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.06004282832145691	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.0060465773567557335	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Loosening the lathe
+
+0.7146672010421753	The lathe chuck was tightened too much, so it was loosened with pliers
+0.25916576385498047	Only 18 V drills were displayed, which are too big to use with one hand
+0.07971778512001038	Only size large disposable gloves were available, so using epoxy was a struggle
+0.31822440028190613	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.21367187798023224	People forgot to put the clamps away, so they needed to be searched for
+0.5561286211013794	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.5033883452415466	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.09509454667568207	wood scraps were too small to be useful to anyone, so they were trashed
+0.2810893654823303	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.18909084796905518	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.06879916787147522	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Cleaning up after others
+
+-0.07103875279426575	The lathe chuck was tightened too much, so it was loosened with pliers
+-0.014924172312021255	Only 18 V drills were displayed, which are too big to use with one hand
+0.04237150028347969	Only size large disposable gloves were available, so using epoxy was a struggle
+0.14736321568489075	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.10739915072917938	People forgot to put the clamps away, so they needed to be searched for
+0.12051726132631302	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.16638320684432983	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.08150029927492142	wood scraps were too small to be useful to anyone, so they were trashed
+0.07433174550533295	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.13348250091075897	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.1277884840965271	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Equipment too big
+
+0.21146097779273987	The lathe chuck was tightened too much, so it was loosened with pliers
+0.2688257396221161	Only 18 V drills were displayed, which are too big to use with one hand
+0.21179404854774475	Only size large disposable gloves were available, so using epoxy was a struggle
+0.2657940983772278	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.16531220078468323	People forgot to put the clamps away, so they needed to be searched for
+0.11762405186891556	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.16346293687820435	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.044276751577854156	wood scraps were too small to be useful to anyone, so they were trashed
+0.2567487359046936	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.12622708082199097	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.05511043965816498	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Too small of wood scraps.
+
+0.3653407692909241	The lathe chuck was tightened too much, so it was loosened with pliers
+0.31517675518989563	Only 18 V drills were displayed, which are too big to use with one hand
+0.22458752989768982	Only size large disposable gloves were available, so using epoxy was a struggle
+0.3254413604736328	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.3025623559951782	People forgot to put the clamps away, so they needed to be searched for
+0.462896466255188	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.23981784284114838	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.6494273543357849	wood scraps were too small to be useful to anyone, so they were trashed
+0.2551525831222534	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.32284480333328247	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.21602711081504822	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Had to take trash out.
+
+0.2595284879207611	The lathe chuck was tightened too much, so it was loosened with pliers
+0.09014146029949188	Only 18 V drills were displayed, which are too big to use with one hand
+0.17306479811668396	Only size large disposable gloves were available, so using epoxy was a struggle
+0.12367649376392365	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.3039136230945587	People forgot to put the clamps away, so they needed to be searched for
+0.30482301115989685	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.2081274688243866	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.3712543249130249	wood scraps were too small to be useful to anyone, so they were trashed
+0.06598206609487534	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.5828374028205872	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.33024442195892334	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Had to find a clamp.
+
+0.39525893330574036	The lathe chuck was tightened too much, so it was loosened with pliers
+0.14275649189949036	Only 18 V drills were displayed, which are too big to use with one hand
+0.26147347688674927	Only size large disposable gloves were available, so using epoxy was a struggle
+0.25812315940856934	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.5443744659423828	People forgot to put the clamps away, so they needed to be searched for
+0.22421394288539886	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.32207462191581726	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.0783071294426918	wood scraps were too small to be useful to anyone, so they were trashed
+0.10353109985589981	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.22856386005878448	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.2720298767089844	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Had to dig in unlabeled container for a 12v drill.
+
+0.2798885107040405	The lathe chuck was tightened too much, so it was loosened with pliers
+0.4795958399772644	Only 18 V drills were displayed, which are too big to use with one hand
+0.26624518632888794	Only size large disposable gloves were available, so using epoxy was a struggle
+0.1810324490070343	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.3761252760887146	People forgot to put the clamps away, so they needed to be searched for
+0.28950703144073486	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.26852402091026306	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.20745232701301575	wood scraps were too small to be useful to anyone, so they were trashed
+0.6251401901245117	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.3107556998729706	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.3104575276374817	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Got bumped while using sander, accidentally pressed emergency stop button.
+
+0.40310215950012207	The lathe chuck was tightened too much, so it was loosened with pliers
+0.20480932295322418	Only 18 V drills were displayed, which are too big to use with one hand
+0.23280851542949677	Only size large disposable gloves were available, so using epoxy was a struggle
+0.2163797914981842	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.2580820322036743	People forgot to put the clamps away, so they needed to be searched for
+0.3553736209869385	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.5821406841278076	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.1349906325340271	wood scraps were too small to be useful to anyone, so they were trashed
+0.1919586956501007	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.273898720741272	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.3133291006088257	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Had to clean off messy workspace.
+
+0.3135792016983032	The lathe chuck was tightened too much, so it was loosened with pliers
+0.11390629410743713	Only 18 V drills were displayed, which are too big to use with one hand
+0.224672332406044	Only size large disposable gloves were available, so using epoxy was a struggle
+0.32833582162857056	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.29434454441070557	People forgot to put the clamps away, so they needed to be searched for
+0.4494154453277588	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.27028191089630127	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.2734721004962921	wood scraps were too small to be useful to anyone, so they were trashed
+0.17103789746761322	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.3071891665458679	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.43221887946128845	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Gloves were too big.
+
+0.23217502236366272	The lathe chuck was tightened too much, so it was loosened with pliers
+0.316739022731781	Only 18 V drills were displayed, which are too big to use with one hand
+0.5185559391975403	Only size large disposable gloves were available, so using epoxy was a struggle
+0.25426217913627625	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.2933166027069092	People forgot to put the clamps away, so they needed to be searched for
+0.1465318351984024	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.24349123239517212	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.17492817342281342	wood scraps were too small to be useful to anyone, so they were trashed
+0.14189743995666504	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.24651676416397095	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.23466579616069794	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: People putting garbage in the scrp bin
+
+0.07146202027797699	The lathe chuck was tightened too much, so it was loosened with pliers
+0.025161609053611755	Only 18 V drills were displayed, which are too big to use with one hand
+0.05956770107150078	Only size large disposable gloves were available, so using epoxy was a struggle
+0.07578719407320023	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.2803822159767151	People forgot to put the clamps away, so they needed to be searched for
+0.22138941287994385	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.18534144759178162	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.38089483976364136	wood scraps were too small to be useful to anyone, so they were trashed
+0.1289764940738678	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.4656485915184021	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.06115633249282837	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: People not throwing trash properly ripping the bag
+
+0.14534594118595123	The lathe chuck was tightened too much, so it was loosened with pliers
+0.0777214765548706	Only 18 V drills were displayed, which are too big to use with one hand
+0.132538303732872	Only size large disposable gloves were available, so using epoxy was a struggle
+0.0660424754023552	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.19046622514724731	People forgot to put the clamps away, so they needed to be searched for
+0.19950681924819946	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.18423597514629364	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.32056573033332825	wood scraps were too small to be useful to anyone, so they were trashed
+0.019786447286605835	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.5728407502174377	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.05237464979290962	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: People not putting things where they go
+
+0.11639880388975143	The lathe chuck was tightened too much, so it was loosened with pliers
+0.12215737998485565	Only 18 V drills were displayed, which are too big to use with one hand
+0.09661076217889786	Only size large disposable gloves were available, so using epoxy was a struggle
+0.16044464707374573	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.38018798828125	People forgot to put the clamps away, so they needed to be searched for
+0.14162981510162354	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.17783793807029724	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.24531421065330505	wood scraps were too small to be useful to anyone, so they were trashed
+0.17143145203590393	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.3144766092300415	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.1601831018924713	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: People not putting things back the way they were found
+
+0.19744634628295898	The lathe chuck was tightened too much, so it was loosened with pliers
+0.08253335952758789	Only 18 V drills were displayed, which are too big to use with one hand
+0.09039381146430969	Only size large disposable gloves were available, so using epoxy was a struggle
+0.1654905080795288	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.37165567278862	People forgot to put the clamps away, so they needed to be searched for
+0.36210522055625916	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.17267271876335144	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.44095686078071594	wood scraps were too small to be useful to anyone, so they were trashed
+0.19867344200611115	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.4012020528316498	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.21855926513671875	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: People leaving a mess and not cleaning up
+
+0.0727148950099945	The lathe chuck was tightened too much, so it was loosened with pliers
+0.052005521953105927	Only 18 V drills were displayed, which are too big to use with one hand
+0.06329561024904251	Only size large disposable gloves were available, so using epoxy was a struggle
+0.1335238218307495	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.24171657860279083	People forgot to put the clamps away, so they needed to be searched for
+0.2228797972202301	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.22566965222358704	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.2831555902957916	wood scraps were too small to be useful to anyone, so they were trashed
+0.0785571038722992	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.2755056321620941	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.12785860896110535	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: bumped by person using belt sander
+
+0.24099859595298767	The lathe chuck was tightened too much, so it was loosened with pliers
+0.17600023746490479	Only 18 V drills were displayed, which are too big to use with one hand
+0.174448162317276	Only size large disposable gloves were available, so using epoxy was a struggle
+0.29916277527809143	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.13693767786026	People forgot to put the clamps away, so they needed to be searched for
+0.27817147970199585	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.5142280459403992	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.0348362922668457	wood scraps were too small to be useful to anyone, so they were trashed
+0.22431471943855286	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.15681850910186768	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.09144482016563416	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: garbage bag had hole
+
+0.2560131549835205	The lathe chuck was tightened too much, so it was loosened with pliers
+0.09126807749271393	Only 18 V drills were displayed, which are too big to use with one hand
+0.19697122275829315	Only size large disposable gloves were available, so using epoxy was a struggle
+0.06295450776815414	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.25696223974227905	People forgot to put the clamps away, so they needed to be searched for
+0.2940399646759033	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.218572735786438	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.3234737515449524	wood scraps were too small to be useful to anyone, so they were trashed
+0.1290598213672638	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.6959083080291748	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.217402383685112	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: sawdust left on machine
+
+0.37213343381881714	The lathe chuck was tightened too much, so it was loosened with pliers
+0.1750091016292572	Only 18 V drills were displayed, which are too big to use with one hand
+0.10405216366052628	Only size large disposable gloves were available, so using epoxy was a struggle
+0.29030871391296387	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.19225025177001953	People forgot to put the clamps away, so they needed to be searched for
+0.653643012046814	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.3049546480178833	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.4569542407989502	wood scraps were too small to be useful to anyone, so they were trashed
+0.16019949316978455	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.3608803153038025	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.1974959820508957	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: lathe chuck tightened too tight
+
+0.7867922186851501	The lathe chuck was tightened too much, so it was loosened with pliers
+0.21655529737472534	Only 18 V drills were displayed, which are too big to use with one hand
+0.1105385571718216	Only size large disposable gloves were available, so using epoxy was a struggle
+0.1613674759864807	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.21455103158950806	People forgot to put the clamps away, so they needed to be searched for
+0.507676362991333	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.40814685821533203	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.08250588923692703	wood scraps were too small to be useful to anyone, so they were trashed
+0.1710999310016632	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.20370356738567352	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.19169771671295166	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: only found 18V drill which was too big
+
+0.29825669527053833	The lathe chuck was tightened too much, so it was loosened with pliers
+0.6185864210128784	Only 18 V drills were displayed, which are too big to use with one hand
+0.1759299784898758	Only size large disposable gloves were available, so using epoxy was a struggle
+0.20073603093624115	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.16178828477859497	People forgot to put the clamps away, so they needed to be searched for
+0.19041791558265686	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.18093430995941162	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.13590790331363678	wood scraps were too small to be useful to anyone, so they were trashed
+0.5705775618553162	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.18145805597305298	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.07870078086853027	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Someone pushed them 
+
+0.30305612087249756	The lathe chuck was tightened too much, so it was loosened with pliers
+0.2186547815799713	Only 18 V drills were displayed, which are too big to use with one hand
+0.0350322462618351	Only size large disposable gloves were available, so using epoxy was a struggle
+0.04512927681207657	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.34493720531463623	People forgot to put the clamps away, so they needed to be searched for
+0.20812354981899261	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.44657495617866516	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.16649600863456726	wood scraps were too small to be useful to anyone, so they were trashed
+0.03912855684757233	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.3290777802467346	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.10692489892244339	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Finding clamps
+
+0.254710853099823	The lathe chuck was tightened too much, so it was loosened with pliers
+0.12686869502067566	Only 18 V drills were displayed, which are too big to use with one hand
+0.1165132224559784	Only size large disposable gloves were available, so using epoxy was a struggle
+0.16224604845046997	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.5036230683326721	People forgot to put the clamps away, so they needed to be searched for
+0.11079628765583038	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.26217132806777954	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.0013577640056610107	wood scraps were too small to be useful to anyone, so they were trashed
+0.14635789394378662	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.08288808166980743	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.055952414870262146	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Loosening the chuck
+
+0.6066957712173462	The lathe chuck was tightened too much, so it was loosened with pliers
+0.28463444113731384	Only 18 V drills were displayed, which are too big to use with one hand
+0.12403220683336258	Only size large disposable gloves were available, so using epoxy was a struggle
+0.20601612329483032	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.20596861839294434	People forgot to put the clamps away, so they needed to be searched for
+0.31278055906295776	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.3950961232185364	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.0394207164645195	wood scraps were too small to be useful to anyone, so they were trashed
+0.289339542388916	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.2462465614080429	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.13304346799850464	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: people squeezing by and caused him to restart
+
+0.23486343026161194	The lathe chuck was tightened too much, so it was loosened with pliers
+0.11700146645307541	Only 18 V drills were displayed, which are too big to use with one hand
+0.13369973003864288	Only size large disposable gloves were available, so using epoxy was a struggle
+0.0700293704867363	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.33511096239089966	People forgot to put the clamps away, so they needed to be searched for
+0.17037920653820038	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.538497269153595	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.06459212303161621	wood scraps were too small to be useful to anyone, so they were trashed
+0.049260351806879044	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.25952354073524475	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.14165642857551575	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: finding a drill
+
+0.28005626797676086	The lathe chuck was tightened too much, so it was loosened with pliers
+0.5492486953735352	Only 18 V drills were displayed, which are too big to use with one hand
+0.17276343703269958	Only size large disposable gloves were available, so using epoxy was a struggle
+0.2626555562019348	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.3005722165107727	People forgot to put the clamps away, so they needed to be searched for
+0.2302136868238449	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.30631136894226074	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.08856123685836792	wood scraps were too small to be useful to anyone, so they were trashed
+0.672157883644104	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.15028460323810577	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.08744795620441437	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: clearing the scrap bin
+
+0.21049091219902039	The lathe chuck was tightened too much, so it was loosened with pliers
+0.11754457652568817	Only 18 V drills were displayed, which are too big to use with one hand
+0.10442455112934113	Only size large disposable gloves were available, so using epoxy was a struggle
+0.14045527577400208	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.1899585723876953	People forgot to put the clamps away, so they needed to be searched for
+0.3583821952342987	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.21090328693389893	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.4108714759349823	wood scraps were too small to be useful to anyone, so they were trashed
+0.20470894873142242	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.35868626832962036	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.10372604429721832	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Height of miter saw
+
+0.18813392519950867	The lathe chuck was tightened too much, so it was loosened with pliers
+0.3355633020401001	Only 18 V drills were displayed, which are too big to use with one hand
+0.09052254259586334	Only size large disposable gloves were available, so using epoxy was a struggle
+0.6276121139526367	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.054344192147254944	People forgot to put the clamps away, so they needed to be searched for
+0.2658710777759552	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.27732300758361816	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.10618498921394348	wood scraps were too small to be useful to anyone, so they were trashed
+0.26133090257644653	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.0890025794506073	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+-0.011231840588152409	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Trash in the scrap bin
+
+0.23735740780830383	The lathe chuck was tightened too much, so it was loosened with pliers
+0.11751631647348404	Only 18 V drills were displayed, which are too big to use with one hand
+0.08345422148704529	Only size large disposable gloves were available, so using epoxy was a struggle
+0.10872270911931992	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.3145206570625305	People forgot to put the clamps away, so they needed to be searched for
+0.37647294998168945	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.19892723858356476	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.537175178527832	wood scraps were too small to be useful to anyone, so they were trashed
+0.21800711750984192	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.5938845276832581	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.13777607679367065	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Ripped Trash bag
+
+0.20294013619422913	The lathe chuck was tightened too much, so it was loosened with pliers
+0.05712989717721939	Only 18 V drills were displayed, which are too big to use with one hand
+0.1899028867483139	Only size large disposable gloves were available, so using epoxy was a struggle
+0.03795401751995087	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.21382082998752594	People forgot to put the clamps away, so they needed to be searched for
+0.2982839345932007	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.20005108416080475	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.39792126417160034	wood scraps were too small to be useful to anyone, so they were trashed
+0.07492123544216156	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.7422407865524292	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.16973361372947693	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Epoxy
+
+0.24791474640369415	The lathe chuck was tightened too much, so it was loosened with pliers
+0.03254961967468262	Only 18 V drills were displayed, which are too big to use with one hand
+0.5209490060806274	Only size large disposable gloves were available, so using epoxy was a struggle
+0.07526923716068268	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.1261514574289322	People forgot to put the clamps away, so they needed to be searched for
+0.2863542437553406	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.15704751014709473	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.15726616978645325	wood scraps were too small to be useful to anyone, so they were trashed
+0.05191995948553085	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.23233351111412048	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.556106686592102	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Clamp unavailable
+
+0.3613276481628418	The lathe chuck was tightened too much, so it was loosened with pliers
+0.12196283787488937	Only 18 V drills were displayed, which are too big to use with one hand
+0.18656152486801147	Only size large disposable gloves were available, so using epoxy was a struggle
+0.09871814399957657	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.49392563104629517	People forgot to put the clamps away, so they needed to be searched for
+0.16003896296024323	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.2386312335729599	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.08524912595748901	wood scraps were too small to be useful to anyone, so they were trashed
+0.03992314636707306	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.17963477969169617	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.13975216448307037	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Drill Unavailable 
+
+0.41016748547554016	The lathe chuck was tightened too much, so it was loosened with pliers
+0.5733674764633179	Only 18 V drills were displayed, which are too big to use with one hand
+0.20306295156478882	Only size large disposable gloves were available, so using epoxy was a struggle
+0.21007616817951202	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.3109135627746582	People forgot to put the clamps away, so they needed to be searched for
+0.3172761797904968	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.3235667943954468	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.18788686394691467	wood scraps were too small to be useful to anyone, so they were trashed
+0.5180537700653076	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.23092979192733765	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.20575422048568726	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Lathe was dirty
+
+0.6746140718460083	The lathe chuck was tightened too much, so it was loosened with pliers
+0.3268900513648987	Only 18 V drills were displayed, which are too big to use with one hand
+0.19988152384757996	Only size large disposable gloves were available, so using epoxy was a struggle
+0.32553917169570923	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.3287959098815918	People forgot to put the clamps away, so they needed to be searched for
+0.8455175161361694	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.5366657972335815	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.37506136298179626	wood scraps were too small to be useful to anyone, so they were trashed
+0.22753386199474335	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.37525656819343567	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.257984459400177	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Accidental emergency stop
+
+0.1067269966006279	The lathe chuck was tightened too much, so it was loosened with pliers
+0.06512593477964401	Only 18 V drills were displayed, which are too big to use with one hand
+0.14827316999435425	Only size large disposable gloves were available, so using epoxy was a struggle
+0.07567013800144196	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.2677679657936096	People forgot to put the clamps away, so they needed to be searched for
+0.0973188653588295	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.48227012157440186	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.06224203109741211	wood scraps were too small to be useful to anyone, so they were trashed
+0.06848911195993423	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.18583998084068298	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.22643430531024933	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Equipment not put away properly
+
+0.3338090181350708	The lathe chuck was tightened too much, so it was loosened with pliers
+0.1919347047805786	Only 18 V drills were displayed, which are too big to use with one hand
+0.1275205910205841	Only size large disposable gloves were available, so using epoxy was a struggle
+0.22416028380393982	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.32975828647613525	People forgot to put the clamps away, so they needed to be searched for
+0.3795052170753479	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.26267391443252563	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.23415441811084747	wood scraps were too small to be useful to anyone, so they were trashed
+0.24057038128376007	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.37039056420326233	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.19321395456790924	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: People in the way while using power tools
+
+0.2787898778915405	The lathe chuck was tightened too much, so it was loosened with pliers
+0.4293299913406372	Only 18 V drills were displayed, which are too big to use with one hand
+0.19302773475646973	Only size large disposable gloves were available, so using epoxy was a struggle
+0.38683611154556274	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.30475565791130066	People forgot to put the clamps away, so they needed to be searched for
+0.34986013174057007	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.43607571721076965	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.10515576601028442	wood scraps were too small to be useful to anyone, so they were trashed
+0.3653828501701355	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.10654095560312271	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.10648725181818008	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Difficulty finding certain tools
+
+0.27821415662765503	The lathe chuck was tightened too much, so it was loosened with pliers
+0.30669155716896057	Only 18 V drills were displayed, which are too big to use with one hand
+0.20956015586853027	Only size large disposable gloves were available, so using epoxy was a struggle
+0.24505829811096191	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.2525593340396881	People forgot to put the clamps away, so they needed to be searched for
+0.18135252594947815	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.17711958289146423	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.051467034965753555	wood scraps were too small to be useful to anyone, so they were trashed
+0.3588787317276001	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.09910397231578827	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.028539055958390236	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Couldnt find proper equipment (gloves)
+
+0.18148073554039001	The lathe chuck was tightened too much, so it was loosened with pliers
+0.3208940625190735	Only 18 V drills were displayed, which are too big to use with one hand
+0.5331631898880005	Only size large disposable gloves were available, so using epoxy was a struggle
+0.27572357654571533	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.26773887872695923	People forgot to put the clamps away, so they needed to be searched for
+0.24975432455539703	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.2106577754020691	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.1305972784757614	wood scraps were too small to be useful to anyone, so they were trashed
+0.2822764813899994	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.21409697830677032	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.26322370767593384	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: She was bumped into
+
+0.14873138070106506	The lathe chuck was tightened too much, so it was loosened with pliers
+0.09428681433200836	Only 18 V drills were displayed, which are too big to use with one hand
+0.037352368235588074	Only size large disposable gloves were available, so using epoxy was a struggle
+0.1533999741077423	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.2293148785829544	People forgot to put the clamps away, so they needed to be searched for
+0.17382565140724182	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.48935389518737793	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.09697431325912476	wood scraps were too small to be useful to anyone, so they were trashed
+0.12784385681152344	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.21542949974536896	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.1118961051106453	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: The lathe was left covered in saw dust
+
+0.5792466998100281	The lathe chuck was tightened too much, so it was loosened with pliers
+0.2865849733352661	Only 18 V drills were displayed, which are too big to use with one hand
+0.16932310163974762	Only size large disposable gloves were available, so using epoxy was a struggle
+0.3354383409023285	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.3289870619773865	People forgot to put the clamps away, so they needed to be searched for
+0.8438647389411926	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.5169936418533325	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.43749043345451355	wood scraps were too small to be useful to anyone, so they were trashed
+0.23387162387371063	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.3939330577850342	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.26433640718460083	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: The 18V drill was too big for her
+
+0.3339226245880127	The lathe chuck was tightened too much, so it was loosened with pliers
+0.6383346915245056	Only 18 V drills were displayed, which are too big to use with one hand
+0.22139093279838562	Only size large disposable gloves were available, so using epoxy was a struggle
+0.2661020755767822	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.21275117993354797	People forgot to put the clamps away, so they needed to be searched for
+0.2633659243583679	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.31223031878471375	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.15339526534080505	wood scraps were too small to be useful to anyone, so they were trashed
+0.5051968097686768	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.21135133504867554	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.21010270714759827	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: The miter saw was too tall for her
+
+0.2916043698787689	The lathe chuck was tightened too much, so it was loosened with pliers
+0.29607093334198	Only 18 V drills were displayed, which are too big to use with one hand
+0.170279398560524	Only size large disposable gloves were available, so using epoxy was a struggle
+0.5625902414321899	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.17989060282707214	People forgot to put the clamps away, so they needed to be searched for
+0.29137325286865234	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.3529660105705261	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.23672731220722198	wood scraps were too small to be useful to anyone, so they were trashed
+0.23300644755363464	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.22625403106212616	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.09809304028749466	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: The clamps were not put away
+
+0.5177496075630188	The lathe chuck was tightened too much, so it was loosened with pliers
+0.19974994659423828	Only 18 V drills were displayed, which are too big to use with one hand
+0.20247036218643188	Only size large disposable gloves were available, so using epoxy was a struggle
+0.1963326632976532	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.6731944680213928	People forgot to put the clamps away, so they needed to be searched for
+0.4118879437446594	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.3988407850265503	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.24803316593170166	wood scraps were too small to be useful to anyone, so they were trashed
+0.10451960563659668	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.3922165036201477	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.34062349796295166	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Someone left pieces of wood that were too small in the scrap bin. 
+
+0.4197651147842407	The lathe chuck was tightened too much, so it was loosened with pliers
+0.3095318675041199	Only 18 V drills were displayed, which are too big to use with one hand
+0.1568601131439209	Only size large disposable gloves were available, so using epoxy was a struggle
+0.24801947176456451	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.4479191303253174	People forgot to put the clamps away, so they needed to be searched for
+0.55173259973526	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.3687282204627991	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.7472050189971924	wood scraps were too small to be useful to anyone, so they were trashed
+0.3015144467353821	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.5504913330078125	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.22516955435276031	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Something was tightened too much so the emergency stop had to be used. 
+
+0.4222428798675537	The lathe chuck was tightened too much, so it was loosened with pliers
+0.17729982733726501	Only 18 V drills were displayed, which are too big to use with one hand
+0.19963036477565765	Only size large disposable gloves were available, so using epoxy was a struggle
+0.1653047502040863	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.4760291874408722	People forgot to put the clamps away, so they needed to be searched for
+0.2621379494667053	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.5577453374862671	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.12373237311840057	wood scraps were too small to be useful to anyone, so they were trashed
+0.076268270611763	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.35764312744140625	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.2849613428115845	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: The only available drill was too big so she had to looo through unlabeled drawers for a smaller one. 
+
+0.32520633935928345	The lathe chuck was tightened too much, so it was loosened with pliers
+0.5307183861732483	Only 18 V drills were displayed, which are too big to use with one hand
+0.35762226581573486	Only size large disposable gloves were available, so using epoxy was a struggle
+0.3072334825992584	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.3362138867378235	People forgot to put the clamps away, so they needed to be searched for
+0.31689906120300293	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.33986711502075195	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.2834087908267975	wood scraps were too small to be useful to anyone, so they were trashed
+0.6228039264678955	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.2649342119693756	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.23390522599220276	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: There weren’t gloves in her size. 
+
+0.09817582368850708	The lathe chuck was tightened too much, so it was loosened with pliers
+0.3288198709487915	Only 18 V drills were displayed, which are too big to use with one hand
+0.4868963360786438	Only size large disposable gloves were available, so using epoxy was a struggle
+0.184686541557312	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.2107120156288147	People forgot to put the clamps away, so they needed to be searched for
+0.13291563093662262	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.21457387506961823	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.21530891954898834	wood scraps were too small to be useful to anyone, so they were trashed
+0.19334514439105988	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.17741750180721283	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.1621319204568863	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Crowded workspace
+
+0.1091746911406517	The lathe chuck was tightened too much, so it was loosened with pliers
+0.18236859142780304	Only 18 V drills were displayed, which are too big to use with one hand
+0.06256086379289627	Only size large disposable gloves were available, so using epoxy was a struggle
+0.2536448836326599	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.1730976104736328	People forgot to put the clamps away, so they needed to be searched for
+0.16221950948238373	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.27223265171051025	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.02052413672208786	wood scraps were too small to be useful to anyone, so they were trashed
+0.19421911239624023	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.04016164690256119	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.09533960372209549	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Too big of gloves
+
+0.17928485572338104	The lathe chuck was tightened too much, so it was loosened with pliers
+0.3384799361228943	Only 18 V drills were displayed, which are too big to use with one hand
+0.5191307067871094	Only size large disposable gloves were available, so using epoxy was a struggle
+0.3004194498062134	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.23187904059886932	People forgot to put the clamps away, so they needed to be searched for
+0.10160190612077713	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.23946541547775269	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.07880283892154694	wood scraps were too small to be useful to anyone, so they were trashed
+0.1977233737707138	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.1567818522453308	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.16727226972579956	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Other people's messes
+
+0.02669353038072586	The lathe chuck was tightened too much, so it was loosened with pliers
+0.020190708339214325	Only 18 V drills were displayed, which are too big to use with one hand
+0.1424979567527771	Only size large disposable gloves were available, so using epoxy was a struggle
+0.1480456292629242	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.27503955364227295	People forgot to put the clamps away, so they needed to be searched for
+0.17784813046455383	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.1921480894088745	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.2783002555370331	wood scraps were too small to be useful to anyone, so they were trashed
+0.09295746684074402	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.28203174471855164	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.17394837737083435	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Other people's incorrect use of machines
+
+0.1749669909477234	The lathe chuck was tightened too much, so it was loosened with pliers
+0.20065703988075256	Only 18 V drills were displayed, which are too big to use with one hand
+0.15242856740951538	Only size large disposable gloves were available, so using epoxy was a struggle
+0.27134400606155396	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.24447834491729736	People forgot to put the clamps away, so they needed to be searched for
+0.29603177309036255	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.3593065142631531	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.14222803711891174	wood scraps were too small to be useful to anyone, so they were trashed
+0.18717321753501892	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.16535207629203796	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.1384904384613037	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Disorganized tool stock
+
+0.28862079977989197	The lathe chuck was tightened too much, so it was loosened with pliers
+0.3526954650878906	Only 18 V drills were displayed, which are too big to use with one hand
+0.1970486342906952	Only size large disposable gloves were available, so using epoxy was a struggle
+0.22178292274475098	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.2717922627925873	People forgot to put the clamps away, so they needed to be searched for
+0.35573700070381165	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.2318471074104309	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.2521677613258362	wood scraps were too small to be useful to anyone, so they were trashed
+0.36664479970932007	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.23142871260643005	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.1118239164352417	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Ripped trash bag
+
+0.20294013619422913	The lathe chuck was tightened too much, so it was loosened with pliers
+0.05712989717721939	Only 18 V drills were displayed, which are too big to use with one hand
+0.1899028867483139	Only size large disposable gloves were available, so using epoxy was a struggle
+0.03795401751995087	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.21382082998752594	People forgot to put the clamps away, so they needed to be searched for
+0.2982839345932007	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.20005108416080475	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.39792126417160034	wood scraps were too small to be useful to anyone, so they were trashed
+0.07492123544216156	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.7422407865524292	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.16973361372947693	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Dirty workspace
+
+0.09794564545154572	The lathe chuck was tightened too much, so it was loosened with pliers
+0.055321142077445984	Only 18 V drills were displayed, which are too big to use with one hand
+0.15947875380516052	Only size large disposable gloves were available, so using epoxy was a struggle
+0.27256765961647034	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.1532171666622162	People forgot to put the clamps away, so they needed to be searched for
+0.36156103014945984	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.15728037059307098	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.21894679963588715	wood scraps were too small to be useful to anyone, so they were trashed
+0.16232596337795258	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.18718957901000977	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.21469441056251526	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Miter saw too high
+
+0.40185752511024475	The lathe chuck was tightened too much, so it was loosened with pliers
+0.3270508050918579	Only 18 V drills were displayed, which are too big to use with one hand
+0.15163199603557587	Only size large disposable gloves were available, so using epoxy was a struggle
+0.6283522844314575	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.1315431296825409	People forgot to put the clamps away, so they needed to be searched for
+0.3671688437461853	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.3550984561443329	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.14371751248836517	wood scraps were too small to be useful to anyone, so they were trashed
+0.23166333138942719	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.1750481128692627	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.11966904997825623	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: 18V too large
+
+0.09775812178850174	The lathe chuck was tightened too much, so it was loosened with pliers
+0.41207531094551086	Only 18 V drills were displayed, which are too big to use with one hand
+0.08389133960008621	Only size large disposable gloves were available, so using epoxy was a struggle
+0.10495302081108093	The miter saw is a bit uncomfortable to use since it’s on a tall table
+-0.013956097885966301	People forgot to put the clamps away, so they needed to be searched for
+0.03356862813234329	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.041800014674663544	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.07564677298069	wood scraps were too small to be useful to anyone, so they were trashed
+0.27154311537742615	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.05598156154155731	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.06053071841597557	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Bumped emergency stop
+
+0.14441661536693573	The lathe chuck was tightened too much, so it was loosened with pliers
+0.08710464835166931	Only 18 V drills were displayed, which are too big to use with one hand
+0.1411626935005188	Only size large disposable gloves were available, so using epoxy was a struggle
+0.14995510876178741	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.24172267317771912	People forgot to put the clamps away, so they needed to be searched for
+0.10984504222869873	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.5700563788414001	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.06019819155335426	wood scraps were too small to be useful to anyone, so they were trashed
+0.10588538646697998	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.1752631664276123	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.18556290864944458	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Pressed the emergency stop button
+
+0.2433432936668396	The lathe chuck was tightened too much, so it was loosened with pliers
+0.16273684799671173	Only 18 V drills were displayed, which are too big to use with one hand
+0.16569975018501282	Only size large disposable gloves were available, so using epoxy was a struggle
+0.0717664584517479	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.3343159556388855	People forgot to put the clamps away, so they needed to be searched for
+0.1931600570678711	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.5966348648071289	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.10308524966239929	wood scraps were too small to be useful to anyone, so they were trashed
+0.09874717891216278	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.297202467918396	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.26920655369758606	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Had to clean out extra saw dust
+
+0.4968563914299011	The lathe chuck was tightened too much, so it was loosened with pliers
+0.310080349445343	Only 18 V drills were displayed, which are too big to use with one hand
+0.16891515254974365	Only size large disposable gloves were available, so using epoxy was a struggle
+0.37950560450553894	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.34965676069259644	People forgot to put the clamps away, so they needed to be searched for
+0.6569128036499023	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.3640221357345581	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.41179585456848145	wood scraps were too small to be useful to anyone, so they were trashed
+0.23775683343410492	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.40471601486206055	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.2834121286869049	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Had to find 12V since there was only 18V
+
+0.1499432921409607	The lathe chuck was tightened too much, so it was loosened with pliers
+0.42849865555763245	Only 18 V drills were displayed, which are too big to use with one hand
+0.1264343410730362	Only size large disposable gloves were available, so using epoxy was a struggle
+0.14250169694423676	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.2015724629163742	People forgot to put the clamps away, so they needed to be searched for
+0.14561541378498077	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.12111049890518188	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.14909720420837402	wood scraps were too small to be useful to anyone, so they were trashed
+0.44196420907974243	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.24310731887817383	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.17280234396457672	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Applying epoxy was difficult due to large gloves
+
+0.3025301992893219	The lathe chuck was tightened too much, so it was loosened with pliers
+0.31073981523513794	Only 18 V drills were displayed, which are too big to use with one hand
+0.7936502695083618	Only size large disposable gloves were available, so using epoxy was a struggle
+0.33494165539741516	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.20186138153076172	People forgot to put the clamps away, so they needed to be searched for
+0.24439400434494019	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.3085337281227112	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.07455222308635712	wood scraps were too small to be useful to anyone, so they were trashed
+0.2496715486049652	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.19034171104431152	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.563502311706543	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: saw dust left
+
+0.3205781579017639	The lathe chuck was tightened too much, so it was loosened with pliers
+0.2017950415611267	Only 18 V drills were displayed, which are too big to use with one hand
+0.08249536156654358	Only size large disposable gloves were available, so using epoxy was a struggle
+0.19951868057250977	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.3006724715232849	People forgot to put the clamps away, so they needed to be searched for
+0.5045418739318848	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.300665020942688	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.3961396813392639	wood scraps were too small to be useful to anyone, so they were trashed
+0.11305045336484909	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.4088003635406494	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.20123080909252167	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: equipment left too tight
+
+0.3642805814743042	The lathe chuck was tightened too much, so it was loosened with pliers
+0.1710163950920105	Only 18 V drills were displayed, which are too big to use with one hand
+0.24048560857772827	Only size large disposable gloves were available, so using epoxy was a struggle
+0.20405595004558563	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.40077805519104004	People forgot to put the clamps away, so they needed to be searched for
+0.29010331630706787	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.3152753710746765	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.18885016441345215	wood scraps were too small to be useful to anyone, so they were trashed
+0.20423129200935364	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.3462045192718506	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.25146543979644775	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: trash needs to be taken out in new/sturdy bag
+
+0.093891441822052	The lathe chuck was tightened too much, so it was loosened with pliers
+-0.01433938555419445	Only 18 V drills were displayed, which are too big to use with one hand
+0.08456724882125854	Only size large disposable gloves were available, so using epoxy was a struggle
+0.1219523549079895	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.09919209033250809	People forgot to put the clamps away, so they needed to be searched for
+0.2161545753479004	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.09962379187345505	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.2511763870716095	wood scraps were too small to be useful to anyone, so they were trashed
+0.1298643946647644	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.6159256100654602	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.006081883795559406	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: interrupted on lathe by someone bumping them
+
+0.5393819212913513	The lathe chuck was tightened too much, so it was loosened with pliers
+0.2382843792438507	Only 18 V drills were displayed, which are too big to use with one hand
+0.06264817714691162	Only size large disposable gloves were available, so using epoxy was a struggle
+0.30596232414245605	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.2591381072998047	People forgot to put the clamps away, so they needed to be searched for
+0.5267820358276367	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.7920041084289551	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.10849082469940186	wood scraps were too small to be useful to anyone, so they were trashed
+0.2548145651817322	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.16496357321739197	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.11262540519237518	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: machinery left too high for use
+
+0.2991882562637329	The lathe chuck was tightened too much, so it was loosened with pliers
+0.22185839712619781	Only 18 V drills were displayed, which are too big to use with one hand
+0.1484251171350479	Only size large disposable gloves were available, so using epoxy was a struggle
+0.2723644971847534	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.21592527627944946	People forgot to put the clamps away, so they needed to be searched for
+0.39339011907577515	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.3830704391002655	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.18353211879730225	wood scraps were too small to be useful to anyone, so they were trashed
+0.20904892683029175	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.16657844185829163	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.2669118046760559	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Having to throw away the unusable scraps
+
+0.22943103313446045	The lathe chuck was tightened too much, so it was loosened with pliers
+0.1599539816379547	Only 18 V drills were displayed, which are too big to use with one hand
+0.19532136619091034	Only size large disposable gloves were available, so using epoxy was a struggle
+0.18820732831954956	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.3166351318359375	People forgot to put the clamps away, so they needed to be searched for
+0.3974232077598572	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.1969103217124939	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.5665979981422424	wood scraps were too small to be useful to anyone, so they were trashed
+0.16701000928878784	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.4683801531791687	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.2089090198278427	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Replacing the garbage bag
+
+0.09230776131153107	The lathe chuck was tightened too much, so it was loosened with pliers
+-0.03592323884367943	Only 18 V drills were displayed, which are too big to use with one hand
+0.14234915375709534	Only size large disposable gloves were available, so using epoxy was a struggle
+0.08171332627534866	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.08019094169139862	People forgot to put the clamps away, so they needed to be searched for
+0.15751191973686218	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.04917994141578674	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.18266171216964722	wood scraps were too small to be useful to anyone, so they were trashed
+0.16835540533065796	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.6806071996688843	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.0570545494556427	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Cleaning the lathe
+
+0.45846009254455566	The lathe chuck was tightened too much, so it was loosened with pliers
+0.19465602934360504	Only 18 V drills were displayed, which are too big to use with one hand
+0.1483999788761139	Only size large disposable gloves were available, so using epoxy was a struggle
+0.269239604473114	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.18191859126091003	People forgot to put the clamps away, so they needed to be searched for
+0.7680155634880066	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.3578377366065979	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.25587698817253113	wood scraps were too small to be useful to anyone, so they were trashed
+0.2085813283920288	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.21549218893051147	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.1584852933883667	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Restarting the lathe from getting bumped into 
+
+0.5024983286857605	The lathe chuck was tightened too much, so it was loosened with pliers
+0.19872978329658508	Only 18 V drills were displayed, which are too big to use with one hand
+0.06963872909545898	Only size large disposable gloves were available, so using epoxy was a struggle
+0.27279481291770935	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.21501006186008453	People forgot to put the clamps away, so they needed to be searched for
+0.5512402653694153	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.6554561853408813	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.10695819556713104	wood scraps were too small to be useful to anyone, so they were trashed
+0.26904064416885376	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.1486860066652298	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.08189267665147781	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Can’t find the right drill size because of clutter
+
+0.24202150106430054	The lathe chuck was tightened too much, so it was loosened with pliers
+0.48233848810195923	Only 18 V drills were displayed, which are too big to use with one hand
+0.17573332786560059	Only size large disposable gloves were available, so using epoxy was a struggle
+0.22595098614692688	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.1702273190021515	People forgot to put the clamps away, so they needed to be searched for
+0.1279516965150833	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.20122206211090088	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.02615656517446041	wood scraps were too small to be useful to anyone, so they were trashed
+0.6495063304901123	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.05381288379430771	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+-0.005189498886466026	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Not a full range of glove sizes 
+
+-0.0046800244599580765	The lathe chuck was tightened too much, so it was loosened with pliers
+0.3081461191177368	Only 18 V drills were displayed, which are too big to use with one hand
+0.37758034467697144	Only size large disposable gloves were available, so using epoxy was a struggle
+0.09207431226968765	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.11483342200517654	People forgot to put the clamps away, so they needed to be searched for
+-0.04673254117369652	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.11166149377822876	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.004325910471379757	wood scraps were too small to be useful to anyone, so they were trashed
+0.19228535890579224	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.02983267232775688	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+-0.034761540591716766	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Bolts too tightened on lathe 
+
+0.7010234594345093	The lathe chuck was tightened too much, so it was loosened with pliers
+0.23542667925357819	Only 18 V drills were displayed, which are too big to use with one hand
+0.07033203542232513	Only size large disposable gloves were available, so using epoxy was a struggle
+0.12719929218292236	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.2505393922328949	People forgot to put the clamps away, so they needed to be searched for
+0.5337211489677429	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.3387984335422516	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.11269567906856537	wood scraps were too small to be useful to anyone, so they were trashed
+0.15851658582687378	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.16242817044258118	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.11019523441791534	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Table top is too high
+
+0.1973353922367096	The lathe chuck was tightened too much, so it was loosened with pliers
+0.12307589501142502	Only 18 V drills were displayed, which are too big to use with one hand
+0.07985945045948029	Only size large disposable gloves were available, so using epoxy was a struggle
+0.41910070180892944	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.09001263976097107	People forgot to put the clamps away, so they needed to be searched for
+0.08142083883285522	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.14408636093139648	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.07089396566152573	wood scraps were too small to be useful to anyone, so they were trashed
+0.12877511978149414	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.0795772597193718	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.09494873136281967	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Cleaning up the machine
+
+0.15579447150230408	The lathe chuck was tightened too much, so it was loosened with pliers
+0.07888315618038177	Only 18 V drills were displayed, which are too big to use with one hand
+0.15208275616168976	Only size large disposable gloves were available, so using epoxy was a struggle
+0.24700196087360382	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.2006080597639084	People forgot to put the clamps away, so they needed to be searched for
+0.45512574911117554	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.22344417870044708	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.20307022333145142	wood scraps were too small to be useful to anyone, so they were trashed
+0.22034116089344025	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.23904311656951904	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.25902068614959717	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Finding the correct drill
+
+0.283738374710083	The lathe chuck was tightened too much, so it was loosened with pliers
+0.5214360952377319	Only 18 V drills were displayed, which are too big to use with one hand
+0.12330065667629242	Only size large disposable gloves were available, so using epoxy was a struggle
+0.2501712441444397	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.1684350073337555	People forgot to put the clamps away, so they needed to be searched for
+0.20374052226543427	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.26875847578048706	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.012829072773456573	wood scraps were too small to be useful to anyone, so they were trashed
+0.592827320098877	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.08261188864707947	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.05497956648468971	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Gloves were too big
+
+0.23832371830940247	The lathe chuck was tightened too much, so it was loosened with pliers
+0.30139368772506714	Only 18 V drills were displayed, which are too big to use with one hand
+0.46846914291381836	Only size large disposable gloves were available, so using epoxy was a struggle
+0.2172115594148636	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.2473350465297699	People forgot to put the clamps away, so they needed to be searched for
+0.1195879876613617	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.21574783325195312	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.11121940612792969	wood scraps were too small to be useful to anyone, so they were trashed
+0.1455293893814087	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.22545143961906433	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.2162100374698639	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Trash was full 
+
+0.23243549466133118	The lathe chuck was tightened too much, so it was loosened with pliers
+0.16775989532470703	Only 18 V drills were displayed, which are too big to use with one hand
+0.1653490662574768	Only size large disposable gloves were available, so using epoxy was a struggle
+0.03262000530958176	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.36650195717811584	People forgot to put the clamps away, so they needed to be searched for
+0.31138092279434204	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.18615184724330902	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.49123790860176086	wood scraps were too small to be useful to anyone, so they were trashed
+0.10289676487445831	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.5874996185302734	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.22441309690475464	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Scrap bin not used correctly 
+
+0.26689010858535767	The lathe chuck was tightened too much, so it was loosened with pliers
+0.14058555662631989	Only 18 V drills were displayed, which are too big to use with one hand
+0.07486739754676819	Only size large disposable gloves were available, so using epoxy was a struggle
+0.1172190010547638	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.18745440244674683	People forgot to put the clamps away, so they needed to be searched for
+0.29986292123794556	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.12780191004276276	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.44061022996902466	wood scraps were too small to be useful to anyone, so they were trashed
+0.11380741000175476	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.4324817657470703	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.09889253973960876	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Someone left machine as they used it
+
+0.3271692991256714	The lathe chuck was tightened too much, so it was loosened with pliers
+0.20313310623168945	Only 18 V drills were displayed, which are too big to use with one hand
+0.1326976865530014	Only size large disposable gloves were available, so using epoxy was a struggle
+0.19968733191490173	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.41643762588500977	People forgot to put the clamps away, so they needed to be searched for
+0.4543713927268982	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.474448025226593	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.2778569459915161	wood scraps were too small to be useful to anyone, so they were trashed
+0.21256805956363678	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.39504456520080566	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.2579423487186432	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Someone bumped into her
+
+0.1402093768119812	The lathe chuck was tightened too much, so it was loosened with pliers
+0.0658160001039505	Only 18 V drills were displayed, which are too big to use with one hand
+-0.01980435475707054	Only size large disposable gloves were available, so using epoxy was a struggle
+0.06119874492287636	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.26518726348876953	People forgot to put the clamps away, so they needed to be searched for
+0.14478230476379395	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.36860814690589905	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.07327181100845337	wood scraps were too small to be useful to anyone, so they were trashed
+0.07488646358251572	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.24572139978408813	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.08825724571943283	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Trash was ripped
+
+0.1711806058883667	The lathe chuck was tightened too much, so it was loosened with pliers
+0.06537483632564545	Only 18 V drills were displayed, which are too big to use with one hand
+0.13419130444526672	Only size large disposable gloves were available, so using epoxy was a struggle
+0.04225607216358185	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.15149766206741333	People forgot to put the clamps away, so they needed to be searched for
+0.29276135563850403	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.1620120257139206	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.4100954830646515	wood scraps were too small to be useful to anyone, so they were trashed
+-0.06032431870698929	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.5805799961090088	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.1875314712524414	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Pieces that were too small were left in the trash
+
+0.30115604400634766	The lathe chuck was tightened too much, so it was loosened with pliers
+0.2708551287651062	Only 18 V drills were displayed, which are too big to use with one hand
+0.2548735737800598	Only size large disposable gloves were available, so using epoxy was a struggle
+0.13759195804595947	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.4002666473388672	People forgot to put the clamps away, so they needed to be searched for
+0.3960733413696289	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.21330812573432922	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.6287891864776611	wood scraps were too small to be useful to anyone, so they were trashed
+0.26000165939331055	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.5966428518295288	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.24135126173496246	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Gloves only had size large
+
+0.11371777951717377	The lathe chuck was tightened too much, so it was loosened with pliers
+0.3490806818008423	Only 18 V drills were displayed, which are too big to use with one hand
+0.5333669185638428	Only size large disposable gloves were available, so using epoxy was a struggle
+0.12131288647651672	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.1784040778875351	People forgot to put the clamps away, so they needed to be searched for
+0.054398585110902786	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.12027168273925781	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.08709047734737396	wood scraps were too small to be useful to anyone, so they were trashed
+0.20166544616222382	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.15044498443603516	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.09558306634426117	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: The drill she wanted was buried in the cabinet 
+
+0.31031039357185364	The lathe chuck was tightened too much, so it was loosened with pliers
+0.4183274507522583	Only 18 V drills were displayed, which are too big to use with one hand
+0.2004292607307434	Only size large disposable gloves were available, so using epoxy was a struggle
+0.22201356291770935	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.3660735487937927	People forgot to put the clamps away, so they needed to be searched for
+0.37076881527900696	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.3336816728115082	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.2902754247188568	wood scraps were too small to be useful to anyone, so they were trashed
+0.5561511516571045	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.30480170249938965	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.2628970742225647	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Got bumped into
+
+0.17017123103141785	The lathe chuck was tightened too much, so it was loosened with pliers
+0.09364533424377441	Only 18 V drills were displayed, which are too big to use with one hand
+0.04701936990022659	Only size large disposable gloves were available, so using epoxy was a struggle
+0.1406809538602829	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.24778124690055847	People forgot to put the clamps away, so they needed to be searched for
+0.16664215922355652	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.44329291582107544	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.12047985196113586	wood scraps were too small to be useful to anyone, so they were trashed
+0.1150641068816185	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.22023940086364746	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.12692956626415253	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Gloves too large
+
+0.13186973333358765	The lathe chuck was tightened too much, so it was loosened with pliers
+0.2663164436817169	Only 18 V drills were displayed, which are too big to use with one hand
+0.4654254913330078	Only size large disposable gloves were available, so using epoxy was a struggle
+0.19980618357658386	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.1152341365814209	People forgot to put the clamps away, so they needed to be searched for
+-0.006710246205329895	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.13012075424194336	the emergency stop button of the lathe was bumped, as someone squeezed by
+-0.019661227241158485	wood scraps were too small to be useful to anyone, so they were trashed
+0.186564102768898	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.048148658126592636	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.07739713788032532	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Finding a clamp
+
+0.20906506478786469	The lathe chuck was tightened too much, so it was loosened with pliers
+0.04648265987634659	Only 18 V drills were displayed, which are too big to use with one hand
+0.0543607659637928	Only size large disposable gloves were available, so using epoxy was a struggle
+0.10987001657485962	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.3333669900894165	People forgot to put the clamps away, so they needed to be searched for
+0.04511437565088272	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.2651437819004059	the emergency stop button of the lathe was bumped, as someone squeezed by
+-0.04269768297672272	wood scraps were too small to be useful to anyone, so they were trashed
+0.08314091712236404	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.03969214856624603	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.021378114819526672	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Chuck too tight
+
+0.44742321968078613	The lathe chuck was tightened too much, so it was loosened with pliers
+0.1762247085571289	Only 18 V drills were displayed, which are too big to use with one hand
+0.0811723917722702	Only size large disposable gloves were available, so using epoxy was a struggle
+0.10801654309034348	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.26095956563949585	People forgot to put the clamps away, so they needed to be searched for
+0.18913088738918304	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.30366602540016174	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.06089625507593155	wood scraps were too small to be useful to anyone, so they were trashed
+0.15437936782836914	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.15435978770256042	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.14794687926769257	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Saw dust not cleaned up
+
+0.4078056812286377	The lathe chuck was tightened too much, so it was loosened with pliers
+0.21588286757469177	Only 18 V drills were displayed, which are too big to use with one hand
+0.1295478343963623	Only size large disposable gloves were available, so using epoxy was a struggle
+0.3690108060836792	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.20607203245162964	People forgot to put the clamps away, so they needed to be searched for
+0.6663895845413208	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.30298879742622375	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.37926238775253296	wood scraps were too small to be useful to anyone, so they were trashed
+0.14179491996765137	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.3222515881061554	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.19028392434120178	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Rip in trash bag
+
+0.19897961616516113	The lathe chuck was tightened too much, so it was loosened with pliers
+0.07689697295427322	Only 18 V drills were displayed, which are too big to use with one hand
+0.11272162199020386	Only size large disposable gloves were available, so using epoxy was a struggle
+0.015368230640888214	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.2029094398021698	People forgot to put the clamps away, so they needed to be searched for
+0.2328452169895172	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.1650581657886505	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.3356359302997589	wood scraps were too small to be useful to anyone, so they were trashed
+0.04585452750325203	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.557533323764801	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.22216223180294037	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Wood in recycled materials was too small to be used
+
+0.28742673993110657	The lathe chuck was tightened too much, so it was loosened with pliers
+0.18658776581287384	Only 18 V drills were displayed, which are too big to use with one hand
+0.23563280701637268	Only size large disposable gloves were available, so using epoxy was a struggle
+0.25094568729400635	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.19932518899440765	People forgot to put the clamps away, so they needed to be searched for
+0.42254969477653503	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.1768902838230133	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.6400036811828613	wood scraps were too small to be useful to anyone, so they were trashed
+0.16490168869495392	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.37777307629585266	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.22132638096809387	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Someone bumped the user causing them to hit the emergency stop and they had to restart the machine
+
+0.24436482787132263	The lathe chuck was tightened too much, so it was loosened with pliers
+0.11133508384227753	Only 18 V drills were displayed, which are too big to use with one hand
+0.09272618591785431	Only size large disposable gloves were available, so using epoxy was a struggle
+0.061490222811698914	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.33429190516471863	People forgot to put the clamps away, so they needed to be searched for
+0.2025684416294098	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.4779444634914398	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.14333659410476685	wood scraps were too small to be useful to anyone, so they were trashed
+0.00912521779537201	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.2654303014278412	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.17091801762580872	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: The last person left shavings that required clean up
+
+0.24595849215984344	The lathe chuck was tightened too much, so it was loosened with pliers
+0.17137807607650757	Only 18 V drills were displayed, which are too big to use with one hand
+0.16156786680221558	Only size large disposable gloves were available, so using epoxy was a struggle
+0.21784676611423492	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.4143960475921631	People forgot to put the clamps away, so they needed to be searched for
+0.5009297728538513	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.30426692962646484	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.51827073097229	wood scraps were too small to be useful to anyone, so they were trashed
+0.1690492331981659	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.48114216327667236	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.3273773789405823	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: The user had to loosen the chuck 
+
+0.6225103735923767	The lathe chuck was tightened too much, so it was loosened with pliers
+0.3609442114830017	Only 18 V drills were displayed, which are too big to use with one hand
+0.22473964095115662	Only size large disposable gloves were available, so using epoxy was a struggle
+0.22087346017360687	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.3655122220516205	People forgot to put the clamps away, so they needed to be searched for
+0.4263242483139038	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.5511927008628845	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.16483087837696075	wood scraps were too small to be useful to anyone, so they were trashed
+0.297595739364624	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.3864004909992218	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.23950821161270142	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: The gloves were too big when trying to epoxy 
+
+0.2629587948322296	The lathe chuck was tightened too much, so it was loosened with pliers
+0.29242435097694397	Only 18 V drills were displayed, which are too big to use with one hand
+0.7713496685028076	Only size large disposable gloves were available, so using epoxy was a struggle
+0.24469217658042908	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.21732240915298462	People forgot to put the clamps away, so they needed to be searched for
+0.2149653136730194	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.22195589542388916	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.12688496708869934	wood scraps were too small to be useful to anyone, so they were trashed
+0.20528879761695862	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.20333868265151978	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.5332401394844055	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: The wood scraps were too small so they needed to be thrown out
+
+0.3937743902206421	The lathe chuck was tightened too much, so it was loosened with pliers
+0.245839923620224	Only 18 V drills were displayed, which are too big to use with one hand
+0.20293521881103516	Only size large disposable gloves were available, so using epoxy was a struggle
+0.2141568958759308	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.39027366042137146	People forgot to put the clamps away, so they needed to be searched for
+0.5356186628341675	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.3000069558620453	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.7973230481147766	wood scraps were too small to be useful to anyone, so they were trashed
+0.18920665979385376	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.5292825698852539	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.3130967319011688	Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: The garbage bag was ripped so it needed to be replaced
+
+0.27536678314208984	The lathe chuck was tightened too much, so it was loosened with pliers
+0.09561416506767273	Only 18 V drills were displayed, which are too big to use with one hand
+0.22289898991584778	Only size large disposable gloves were available, so using epoxy was a struggle
+0.07889114320278168	The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.3256794810295105	People forgot to put the clamps away, so they needed to be searched for
+0.3788682818412781	The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.17400729656219482	the emergency stop button of the lathe was bumped, as someone squeezed by
+0.4189299941062927	wood scraps were too small to be useful to anyone, so they were trashed
+0.11323927342891693	Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.8826037049293518	the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.2854536771774292	Epoxy needs to cure for 24 hours, so going home for the day was necessary

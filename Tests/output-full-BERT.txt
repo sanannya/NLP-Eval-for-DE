@@ -1,0 +1,1545 @@
+
+
+DATA: cutting wood
+
+0.061979133635759354	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.11546661704778671	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.11727283149957657	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.08958308398723602	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.07983935624361038	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.44270867109298706	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.11175160109996796	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.4923863112926483	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.16557219624519348	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.08722589164972305	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.015500521287322044	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: didn’t know how to use lathe
+
+0.3209579885005951	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.0440351665019989	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.08355849981307983	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.26149675250053406	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.06565132737159729	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.30788975954055786	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.22053547203540802	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.16097809374332428	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.1055910661816597	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.056905489414930344	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.035054054111242294	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Finding drill
+
+-0.029259318485856056	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.3709784150123596	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+-0.012187959626317024	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.04030526056885719	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.1810920089483261	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.11009915173053741	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.102683424949646	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.1058066338300705	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.49579161405563354	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.018811941146850586	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.031186595559120178	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Taking out trash
+
+0.14773906767368317	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.0347076840698719	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.036608949303627014	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.04994410276412964	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.15231460332870483	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.17079207301139832	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.12328150123357773	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.2324468046426773	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.06908045709133148	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.5404391884803772	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.06935220211744308	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Finding clamp
+
+0.020310353487730026	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.024470601230859756	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.04803158715367317	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+-0.02635735645890236	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.610044538974762	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.05671986937522888	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.2215367555618286	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.07774306833744049	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.19896438717842102	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.03824084624648094	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.05872984975576401	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Loosening the lathe
+
+0.5521148443222046	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+-0.052522238343954086	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.0792544037103653	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.15382051467895508	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.06962569802999496	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.3092889189720154	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.22122514247894287	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.02354627475142479	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.14498688280582428	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.16810885071754456	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+-0.006637617014348507	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Cleaning up after others
+
+0.06603838503360748	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+-0.030198954045772552	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+-0.038897544145584106	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.023763349279761314	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.11520857363939285	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.1383456289768219	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.05681018903851509	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.09827414900064468	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.0805194228887558	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.16150641441345215	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.0377085916697979	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Equipment too big
+
+0.17620088160037994	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.4169818162918091	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.40239423513412476	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.1916676014661789	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.1156986802816391	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.04343729093670845	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.07668139040470123	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.21396024525165558	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.10231969505548477	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.08748838305473328	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.040337756276130676	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Too small of wood scraps.
+
+0.16491341590881348	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.23700281977653503	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.15860983729362488	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.11247818171977997	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.14499135315418243	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.3860003352165222	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.0809706598520279	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.7586289644241333	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.21780478954315186	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.19471703469753265	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.04091830551624298	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Had to take trash out.
+
+0.19411757588386536	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.06477096676826477	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.06987768411636353	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.06415541470050812	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.20466125011444092	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.20540344715118408	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.15178334712982178	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.2947559356689453	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.09810814261436462	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.5829880833625793	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.13114988803863525	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Had to find a clamp.
+
+0.04695580154657364	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.05961800366640091	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.07484626770019531	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.02303236350417137	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.592846691608429	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.09459943324327469	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.24028080701828003	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.1429194062948227	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.2291802316904068	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.09206125885248184	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.09732384234666824	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Had to dig in unlabeled container for a 12v drill.
+
+-0.006834318861365318	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.3131335973739624	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.12243293225765228	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.09469319880008698	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.13415804505348206	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.09000945091247559	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.06988076865673065	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.14813897013664246	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.6637011766433716	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.07541749626398087	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.05668117478489876	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Got bumped while using sander, accidentally pressed emergency stop button.
+
+0.15093940496444702	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.09581117331981659	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.10101466625928879	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.07378333806991577	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.2749229669570923	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.15415692329406738	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.7065882682800293	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.17146986722946167	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.14343386888504028	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.25875914096832275	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.1333363950252533	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Had to clean off messy workspace.
+
+0.14029428362846375	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.015489701181650162	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.1423966884613037	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.0019464530050754547	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.23025642335414886	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.24108834564685822	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.15243227779865265	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.22464312613010406	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.2376539409160614	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.24278512597084045	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.14325159788131714	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Gloves were too big.
+
+0.25387996435165405	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.3970787525177002	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.6525645852088928	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.12311877310276031	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.1703331619501114	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.10850134491920471	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.14633971452713013	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.24829815328121185	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.00469709187746048	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.1819905936717987	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.03085997886955738	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: People putting garbage in the scrp bin
+
+0.13587039709091187	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.013447713106870651	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.08740177750587463	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.041981130838394165	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.24787071347236633	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.16473513841629028	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.24061289429664612	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.2613394856452942	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.06113310903310776	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.3458763062953949	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+-0.07776637375354767	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: People not throwing trash properly ripping the bag
+
+0.19243267178535461	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.0065646907314658165	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.08016245067119598	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.02722453884780407	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.1931457221508026	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.17670994997024536	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.1471349596977234	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.18372389674186707	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.09603513777256012	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.5706673264503479	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+-0.06827345490455627	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: People not putting things where they go
+
+0.005930051207542419	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+-0.02473309263586998	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+-0.021107403561472893	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+-0.07389466464519501	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.2538861036300659	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.009205994196236134	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+-0.019497301429510117	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.049845267087221146	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.04939642548561096	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+-0.03577934205532074	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+-0.06684521585702896	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: People not putting things back the way they were found
+
+0.07821393013000488	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.005145946517586708	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+-0.008760659024119377	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+-0.011603467166423798	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.29300612211227417	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.14623184502124786	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.0896747037768364	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.15677320957183838	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.1177581399679184	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.18581604957580566	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+-0.048335716128349304	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: People leaving a mess and not cleaning up
+
+0.10606633126735687	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+-0.05998770520091057	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.02948766201734543	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.03247082978487015	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.23488450050354004	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.20056483149528503	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.11750943958759308	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.09523001313209534	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.13318049907684326	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.1429213434457779	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.02246336080133915	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: bumped by person using belt sander
+
+0.09438413381576538	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.12056618928909302	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.13181689381599426	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.08735834062099457	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.19437578320503235	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.08776766061782837	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.455848753452301	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.19653040170669556	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.06956043094396591	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.2209925651550293	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+-0.04302242770791054	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: garbage bag had hole
+
+0.2035624235868454	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.10265640914440155	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.16344666481018066	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.03823047876358032	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.10824465751647949	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.2450162023305893	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.17105460166931152	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.26425230503082275	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.1173987165093422	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.5955036878585815	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.0028102206997573376	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: sawdust left on machine
+
+0.21374213695526123	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.01026732288300991	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.024314753711223602	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.207794189453125	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.0773329883813858	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.5294055938720703	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.17502546310424805	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.11844106763601303	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.061220813542604446	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.1834430694580078	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+-0.024612510576844215	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: lathe chuck tightened too tight
+
+0.7872558832168579	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.09993025660514832	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.072251096367836	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.15370100736618042	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.16041645407676697	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.2446584403514862	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.23522736132144928	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.13026659190654755	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.04978154972195625	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.2535170316696167	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.04019783064723015	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: only found 18V drill which was too big
+
+0.0706309899687767	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.7229932546615601	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.2506020665168762	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.12522774934768677	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.017651816830039024	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.07383041083812714	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.0534626729786396	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.14568206667900085	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.19623123109340668	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.040266409516334534	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.04439959675073624	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Someone pushed them 
+
+0.11937732249498367	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.07247895747423172	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+-0.02450782060623169	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.018482569605112076	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.12643450498580933	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.018230263143777847	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.29677337408065796	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.15733948349952698	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.04687047004699707	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.13777369260787964	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+-0.09933307766914368	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Finding clamps
+
+0.01809898391366005	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.03030787594616413	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.06775933504104614	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+-0.03131001070141792	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.6310242414474487	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.06889351457357407	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.21231529116630554	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.10824892669916153	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.1956762671470642	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.043382130563259125	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.05120998993515968	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Loosening the chuck
+
+0.5543261766433716	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+-0.024853963404893875	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.09605054557323456	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.0018157092854380608	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.08123024553060532	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.08485135436058044	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.08225373923778534	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.034096814692020416	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.05468379333615303	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.1710449755191803	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.03049066662788391	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: people squeezing by and caused him to restart
+
+0.13524627685546875	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.007275829091668129	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+-0.021551135927438736	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+-0.03500935062766075	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.17953792214393616	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.03452965244650841	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.17320600152015686	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+-0.02498883754014969	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+-0.0333184078335762	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.13382455706596375	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+-0.03481622040271759	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: finding a drill
+
+-0.04476901516318321	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.3780636787414551	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+-0.008435755968093872	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.055217444896698	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.16657744348049164	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.1046864241361618	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.10412507504224777	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.10435884445905685	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.5044119358062744	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.01463780552148819	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.021049384027719498	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: clearing the scrap bin
+
+0.060835760086774826	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+-0.006265284959226847	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.06975399702787399	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.046050604432821274	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.1853943169116974	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.1610967218875885	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.12423175573348999	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.3346708416938782	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.12344485521316528	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.2608458995819092	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.020547274500131607	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Height of miter saw
+
+0.1692866086959839	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.11207321286201477	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.09787368774414062	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.6037821769714355	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+-0.10620898753404617	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.20117872953414917	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.09797482937574387	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.007810497656464577	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+-0.011933373287320137	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.015521257184445858	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+-0.02842799760401249	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Trash in the scrap bin
+
+0.10718642920255661	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.05663499981164932	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.0338471382856369	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.08159944415092468	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.14212185144424438	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.1911996752023697	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.18527176976203918	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.4215759038925171	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.09376499056816101	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.4949458837509155	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+-0.03481629863381386	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Ripped Trash bag
+
+0.2815970778465271	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.05328480899333954	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.08562958240509033	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.021527312695980072	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.21256957948207855	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.28069961071014404	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.24937137961387634	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.3013884425163269	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.09767648577690125	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.882514238357544	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+-0.0372275784611702	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Epoxy
+
+0.08273689448833466	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+-0.03679243475198746	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.267633318901062	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+-0.03460436314344406	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.02272067591547966	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.01915929466485977	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.05130238085985184	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.06684540957212448	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+-0.026660427451133728	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+-0.021879516541957855	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.5696661472320557	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Clamp unavailable
+
+0.062356892973184586	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.03650011122226715	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.16655725240707397	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.0041382526978850365	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.47335150837898254	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.07198987901210785	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.19779133796691895	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.14453616738319397	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.3129976987838745	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.07946843653917313	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.05384606868028641	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Drill Unavailable 
+
+0.02213011309504509	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.3377266526222229	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.12168014794588089	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.062462545931339264	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.1148948073387146	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.12072007358074188	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.10081759840250015	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.17450852692127228	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.5816827416419983	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.065855011343956	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.031637512147426605	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Lathe was dirty
+
+0.5033445358276367	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.020930254831910133	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.11532372236251831	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.20207946002483368	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.07235020399093628	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.44835302233695984	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.2963297665119171	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.20592421293258667	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.06779986619949341	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.3111710846424103	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.03291530907154083	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Accidental emergency stop
+
+0.032729871571063995	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+-0.0074058035388588905	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.04839964583516121	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.05308640003204346	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.12217295169830322	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.00949152372777462	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.3359728455543518	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.03594864159822464	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.08944027125835419	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.07007872313261032	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.13843131065368652	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Equipment not put away properly
+
+0.11215094476938248	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.05164637044072151	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.14989937841892242	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.0711933895945549	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.19649375975131989	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.082760751247406	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.11098572611808777	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.14254087209701538	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.22596639394760132	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.12659196555614471	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.050318699330091476	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: People in the way while using power tools
+
+-0.01550340373069048	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.1549435555934906	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.14719320833683014	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.09067323803901672	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.14696308970451355	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+-0.0225413478910923	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.11050309240818024	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.15126127004623413	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.14005716145038605	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+-0.05121837928891182	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.05360129475593567	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Difficulty finding certain tools
+
+0.054875120520591736	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.06503447890281677	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.11399142444133759	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.08111812174320221	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.1641426384449005	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.10588063299655914	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.11152902990579605	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.1488664746284485	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.21134865283966064	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+-0.013338404707610607	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.021013449877500534	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Couldnt find proper equipment (gloves)
+
+0.08104552328586578	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.10572613030672073	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.3760371208190918	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.048073843121528625	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.24101808667182922	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.16178002953529358	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.18881741166114807	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.17581401765346527	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.26575005054473877	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.14253854751586914	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.050991348922252655	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: She was bumped into
+
+0.17583250999450684	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.05213984474539757	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.08839914202690125	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.008652718737721443	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.16124404966831207	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.17694580554962158	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.5504070520401001	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.1493566781282425	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+-0.005630322732031345	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.2619934678077698	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+-0.018870245665311813	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: The lathe was left covered in saw dust
+
+0.5016210675239563	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.03400689363479614	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.06667597591876984	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.2854521870613098	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.13525742292404175	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.5552911162376404	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.31810393929481506	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.10592786967754364	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.10023366659879684	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.3516809940338135	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+-0.0037043828051537275	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: The 18V drill was too big for her
+
+0.07716765254735947	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.6979265213012695	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.22082245349884033	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.11851801723241806	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.020601194351911545	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.007394997403025627	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.027364840731024742	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.12519599497318268	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.1959693729877472	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.050685666501522064	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.06794801354408264	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: The miter saw was too tall for her
+
+0.29790201783180237	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.28186285495758057	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.11952164769172668	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.6991584300994873	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+-0.017663270235061646	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.22462677955627441	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.07934407144784927	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.12278709560632706	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+-0.005924050230532885	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.1175658255815506	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.0015761093236505985	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: The clamps were not put away
+
+0.1812966763973236	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.03775491937994957	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.11994165182113647	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+-0.0247916541993618	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.6146247386932373	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.12684333324432373	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.27140530943870544	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.18968045711517334	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.12315677106380463	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.2216709703207016	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.02913563698530197	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Someone left pieces of wood that were too small in the scrap bin. 
+
+0.2334970235824585	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.22643622756004333	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.12256093323230743	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.14201167225837708	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.17385061085224152	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.3545251786708832	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.22089818120002747	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.6434853076934814	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.20067352056503296	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.3069809675216675	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+-0.046121448278427124	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Something was tightened too much so the emergency stop had to be used. 
+
+0.38520610332489014	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.2376393973827362	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.23600906133651733	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.13945679366588593	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.24111530184745789	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.1483461707830429	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.3734095096588135	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.3101431429386139	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.04872160777449608	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.2760721445083618	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.20221784710884094	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: The only available drill was too big so she had to looo through unlabeled drawers for a smaller one. 
+
+0.21716104447841644	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.4934941530227661	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.3757786154747009	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.15933117270469666	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.191572904586792	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.11738933622837067	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.09473253786563873	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.3475193381309509	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.46686670184135437	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.10941402614116669	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.06617962568998337	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: There weren’t gloves in her size. 
+
+0.10253414511680603	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.1812736988067627	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.5998630523681641	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.06346487998962402	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.11188838630914688	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.06515833735466003	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.07045359909534454	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.11107534170150757	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.1020907387137413	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.0681961178779602	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+-0.014084681868553162	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Crowded workspace
+
+0.136541485786438	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.04138491675257683	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.1086234450340271	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+-0.06466881185770035	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.20697569847106934	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.0821598619222641	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.0933951586484909	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.13258443772792816	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.09468228369951248	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.08192656934261322	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.033187318593263626	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Too big of gloves
+
+0.1952725052833557	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.4093906879425049	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.6416195034980774	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.13843290507793427	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.12869839370250702	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.032310355454683304	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.12225550413131714	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.1768120527267456	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.03304697945713997	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.09697629511356354	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.016010982915759087	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Other people's messes
+
+0.037478961050510406	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.023974360898137093	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.028110535815358162	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.067475825548172	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.16044485569000244	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+-0.08599774539470673	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.052366405725479126	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.08133683353662491	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+-0.04183309152722359	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.024992400780320168	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+-0.09508859366178513	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Other people's incorrect use of machines
+
+0.002375462092459202	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.07950256019830704	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.08177460730075836	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.1404264122247696	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.13117779791355133	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+-0.03008969873189926	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.10701438784599304	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.18932320177555084	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.020316017791628838	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.01804199442267418	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+-0.05051132291555405	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Disorganized tool stock
+
+0.1056813895702362	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.07907015085220337	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.16203412413597107	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.07069596648216248	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.13819202780723572	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.10200609266757965	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.1337827891111374	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.08051399141550064	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.19984205067157745	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.1407318264245987	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.010916683822870255	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Ripped trash bag
+
+0.2815970778465271	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.05328480899333954	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.08562958240509033	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.021527312695980072	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.21256957948207855	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.28069961071014404	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.24937137961387634	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.3013884425163269	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.09767648577690125	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.882514238357544	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+-0.0372275784611702	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Dirty workspace
+
+0.0821743756532669	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.060708701610565186	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.10989239066839218	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+-0.0296782199293375	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.13018673658370972	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.1815451830625534	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.11340034008026123	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.232987642288208	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.17901508510112762	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.134242981672287	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.06373803317546844	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Miter saw too high
+
+0.3092555105686188	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.2304714322090149	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.07296949625015259	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.6104045510292053	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+-0.050399050116539	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.2061839997768402	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.08540397882461548	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.09015194326639175	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+-0.02942192554473877	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.059504736214876175	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+-0.016337282955646515	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: 18V too large
+
+0.018334096297621727	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.5271654725074768	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.2505863308906555	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.09362895786762238	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+-0.049676381051540375	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+-0.08200407773256302	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+-0.055805373936891556	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.03700549900531769	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+-0.012529152445495129	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+-0.07153913378715515	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.04826612398028374	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Bumped emergency stop
+
+0.11672791838645935	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.022709576413035393	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.12577028572559357	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.022119224071502686	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.23798081278800964	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.0977468490600586	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.7213711738586426	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.0878315269947052	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.0398881733417511	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.16657590866088867	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.13170738518238068	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Pressed the emergency stop button
+
+0.15572835505008698	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.0409935787320137	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.07209238409996033	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.03232445940375328	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.19961076974868774	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.09278128296136856	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.6031965613365173	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.03641073778271675	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.10839580744504929	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.17345798015594482	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.1347023844718933	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Had to clean out extra saw dust
+
+0.20354655385017395	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.05680503323674202	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.09790229797363281	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.23508687317371368	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.12662369012832642	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.44832974672317505	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.18958976864814758	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.1657274067401886	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.19744974374771118	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.29739850759506226	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.13467662036418915	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Had to find 12V since there was only 18V
+
+-0.07851751148700714	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.24386176466941833	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.07678442448377609	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.08924871683120728	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+-0.03257641941308975	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+-0.0059064715169370174	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+-0.04657783731818199	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.010358056984841824	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.12488886713981628	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+-0.08755878359079361	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.11266402900218964	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Applying epoxy was difficult due to large gloves
+
+0.20997409522533417	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.21317347884178162	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.627726674079895	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.05757978558540344	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.17478293180465698	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.0983201339840889	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.18442586064338684	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.19771736860275269	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.06987735629081726	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.09618712961673737	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.3264866769313812	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: saw dust left
+
+0.3128546178340912	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.04445353522896767	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.04726641625165939	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.27402910590171814	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.1257924735546112	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.4619758427143097	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.2244175672531128	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.0939188003540039	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.09325496852397919	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.2777305543422699	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+-0.016852525994181633	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: equipment left too tight
+
+0.3993425667285919	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.21608394384384155	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.18482241034507751	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.10741002857685089	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.2475171685218811	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.13858330249786377	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.14624625444412231	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.22483432292938232	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.151938796043396	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.20903488993644714	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.07443151623010635	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: trash needs to be taken out in new/sturdy bag
+
+0.1429367959499359	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.09029550850391388	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.05490516871213913	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.06443987041711807	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.19229626655578613	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.18013714253902435	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.15861448645591736	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.2470235675573349	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.1501140296459198	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.5257747173309326	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.12699829041957855	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: interrupted on lathe by someone bumping them
+
+0.3057308495044708	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+-0.010120956227183342	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.005821065045893192	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.10912026464939117	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.20653554797172546	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.19238677620887756	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.5141308307647705	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.10599880665540695	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.0893927589058876	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.16256771981716156	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+-0.0680689662694931	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: machinery left too high for use
+
+0.1683717966079712	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.31287524104118347	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.2244785875082016	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.24369806051254272	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.1081572100520134	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.04040560871362686	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.08726508915424347	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.25927624106407166	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.03421149402856827	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.08593176305294037	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.04691901057958603	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Having to throw away the unusable scraps
+
+0.052883315831422806	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.06879238784313202	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.19821541011333466	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.08438166975975037	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.2738296091556549	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.12389151006937027	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.11281483620405197	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.39155489206314087	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.221275195479393	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.20177577435970306	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.08497610688209534	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Replacing the garbage bag
+
+0.17969480156898499	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+-0.0051878951489925385	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.12297184765338898	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.002306743524968624	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.15141698718070984	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.21490584313869476	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.16329939663410187	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.1961359828710556	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.0660034716129303	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.6490262746810913	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+-0.03327902406454086	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Cleaning the lathe
+
+0.40057453513145447	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+-0.05608758702874184	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.04473339021205902	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.15908187627792358	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.0797034502029419	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.46373313665390015	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.1965964138507843	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.0691489577293396	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.1638549268245697	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.21601355075836182	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.06214898079633713	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Restarting the lathe from getting bumped into 
+
+0.37451648712158203	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+-0.023009229451417923	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.014296410605311394	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.0943480059504509	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.18061380088329315	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.25508207082748413	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.4786209464073181	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+-0.005716106854379177	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.06619744002819061	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.24229347705841064	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.0044791968539357185	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Can’t find the right drill size because of clutter
+
+0.07019070535898209	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.2997925281524658	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.20128339529037476	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.14136146008968353	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.19106397032737732	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.045327167958021164	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.07518596947193146	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.12299608439207077	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.411385715007782	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.0260629765689373	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.017179017886519432	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Not a full range of glove sizes 
+
+0.036353059113025665	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.19522687792778015	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.5375303030014038	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.16948580741882324	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.10243569314479828	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.01723628118634224	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+-0.009286003187298775	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.061815109103918076	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.14258795976638794	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+-0.0016182474792003632	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+-0.014965756796300411	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Bolts too tightened on lathe 
+
+0.6222501993179321	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.14204120635986328	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.11197733879089355	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.1947655975818634	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.2000894844532013	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.292208194732666	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.3352717161178589	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.147395521402359	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.07129710912704468	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.31234127283096313	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+-0.008189781568944454	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Table top is too high
+
+0.17425033450126648	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.23765313625335693	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.12286990880966187	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.38805127143859863	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+-0.001972060650587082	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.07901673018932343	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.03310468792915344	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.13409847021102905	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.037475090473890305	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.04252748563885689	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.029455658048391342	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Cleaning up the machine
+
+0.07620038092136383	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+-0.0099696209654212	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.0683382898569107	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.0770743191242218	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.08135797083377838	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.24958845973014832	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.11457276344299316	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.09151378273963928	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.16101747751235962	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.15835466980934143	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.07465618848800659	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Finding the correct drill
+
+0.013496732339262962	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.2977953851222992	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+-0.027474774047732353	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.03357575833797455	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.1561093032360077	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.12848736345767975	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.0907735675573349	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.10703247040510178	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.44772398471832275	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.08672285079956055	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.05404592305421829	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Gloves were too big
+
+0.25726354122161865	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.4117216467857361	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.6549777984619141	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.13145531713962555	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.17384257912635803	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.10844476521015167	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.14788958430290222	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.24711677432060242	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.011632172390818596	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.17157858610153198	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.038116563111543655	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Trash was full 
+
+0.27655717730522156	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.10609637200832367	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.15400999784469604	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.08426251262426376	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.1540338099002838	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.3064587414264679	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.17854702472686768	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.28934985399246216	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.00821338314563036	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.5853211879730225	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.05662185326218605	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Scrap bin not used correctly 
+
+0.07271355390548706	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.0832856148481369	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.11873682588338852	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.1315460503101349	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.10329823940992355	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.10095681995153427	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.15596720576286316	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.42198386788368225	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.10163572430610657	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.22855693101882935	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.036071740090847015	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Someone left machine as they used it
+
+0.16671569645404816	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.11339067667722702	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.12731491029262543	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.15065529942512512	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.12225889414548874	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.09237328171730042	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.23146289587020874	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.24163806438446045	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.022625161334872246	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.1315317153930664	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+-0.03911702707409859	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Someone bumped into her
+
+0.08876128494739532	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.047918111085891724	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.009724649600684643	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.04086834564805031	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.14189106225967407	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.07020352780818939	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.5857607126235962	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.12108007818460464	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.04237578064203262	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.16569510102272034	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+-0.11355246603488922	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Trash was ripped
+
+0.3221438527107239	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.057425908744335175	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.08756813406944275	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.02075180783867836	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.22460702061653137	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.36164844036102295	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.2744144797325134	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.3665243983268738	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.07056902348995209	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.7912087440490723	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.00849725492298603	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Pieces that were too small were left in the trash
+
+0.3738754093647003	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.20117107033729553	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.14785811305046082	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.05842801555991173	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.21562306582927704	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.29549020528793335	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.16561338305473328	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.43649643659591675	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.11275620758533478	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.4892759919166565	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.000701000913977623	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Gloves only had size large
+
+0.10188315808773041	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.40451234579086304	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.8030452728271484	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.12389197200536728	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.09696607291698456	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.023075422272086143	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.0660426914691925	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.11100898683071136	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.07665561139583588	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.031039364635944366	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.05032111331820488	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: The drill she wanted was buried in the cabinet 
+
+0.14000770449638367	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.21545685827732086	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.02669673040509224	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.03697595000267029	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.10546242445707321	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.1981900930404663	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.1613888144493103	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.11326759308576584	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.547682523727417	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.21208345890045166	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+-0.012257709167897701	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Got bumped into
+
+0.10687007009983063	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.05214350298047066	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.05827079713344574	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+-0.03802122920751572	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.2407034933567047	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.13016800582408905	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.599528968334198	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.1137300431728363	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.06924714893102646	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.22493422031402588	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+-0.017807770520448685	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Gloves too large
+
+0.2031865119934082	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.3904135227203369	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.6609964966773987	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.11413182318210602	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.1476384401321411	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.06157002970576286	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.10674907267093658	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.18208155035972595	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.04091364145278931	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.08786381781101227	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.029331818222999573	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Finding a clamp
+
+0.004542998969554901	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.035724811255931854	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.05139017850160599	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+-0.011024890467524529	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.5951709747314453	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.05241401121020317	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.22320608794689178	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.07721609622240067	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.2124442160129547	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.03416835516691208	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.048817481845617294	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Chuck too tight
+
+0.6181473731994629	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.15688323974609375	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.08743242174386978	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.07315049320459366	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.10961511731147766	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.056301116943359375	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.07653892040252686	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.14303651452064514	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+-0.019318966194987297	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.15517157316207886	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.07092387974262238	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Saw dust not cleaned up
+
+0.21998970210552216	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.018819304183125496	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.05721697583794594	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.24898609519004822	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.12709417939186096	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.5262551307678223	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.21704649925231934	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.16288569569587708	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.18622630834579468	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.2621347904205322	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.034666985273361206	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Rip in trash bag
+
+0.21647945046424866	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.06883316487073898	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.062169548124074936	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.027574174106121063	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.14060068130493164	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.23525962233543396	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.18767419457435608	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.24127191305160522	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.09262371063232422	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.8020623922348022	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+-0.04176203906536102	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Wood in recycled materials was too small to be used
+
+0.17412912845611572	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.2559428811073303	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.23439645767211914	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.12320056557655334	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.125668004155159	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.37462466955184937	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.08926358819007874	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.6295601725578308	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.16700592637062073	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.2487967312335968	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.08278246223926544	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: Someone bumped the user causing them to hit the emergency stop and they had to restart the machine
+
+0.14561299979686737	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.08119267225265503	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.05753748118877411	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.0971551239490509	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.2626735270023346	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.10670654475688934	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.6022993922233582	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.1734762340784073	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.06162238121032715	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.1698407232761383	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.07826129347085953	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: The last person left shavings that required clean up
+
+0.21560265123844147	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.04655876010656357	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.10203956067562103	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.052437253296375275	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.2177915871143341	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.23252317309379578	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.13749682903289795	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.1475398689508438	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.15201035141944885	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.21219618618488312	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.1145477369427681	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: The user had to loosen the chuck 
+
+0.4797123074531555	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.08047083020210266	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.1259451061487198	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.08200423419475555	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.13106155395507812	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.07388104498386383	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.2285938262939453	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.17839986085891724	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.050034299492836	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.14673066139221191	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.1302562654018402	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: The gloves were too big when trying to epoxy 
+
+0.21042943000793457	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.26924583315849304	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.5910597443580627	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.0761728286743164	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.18392498791217804	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.04116692394018173	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.1308893859386444	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.15517613291740417	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.015760619193315506	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.06066548079252243	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.37085598707199097	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: The wood scraps were too small so they needed to be thrown out
+
+0.2566513419151306	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.21990787982940674	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.1670219600200653	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.09173041582107544	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.317615270614624	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.3933612108230591	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.1375432014465332	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.7406461834907532	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.20690803229808807	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.32233482599258423	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.1704374998807907	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
+
+
+DATA: The garbage bag was ripped so it needed to be replaced
+
+0.302337110042572	Lathe chuck overtightened: The lathe chuck was tightened too much, so it was loosened with pliers
+0.02776625193655491	Drill too large: Only 18 V drills were displayed, which are too big to use with one hand
+0.1615966558456421	Gloves size large: Only size large disposable gloves were available, so using epoxy was a struggle
+0.032556019723415375	Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table
+0.29559555649757385	Clamps scattered around: People forgot to put the clamps away, so they needed to be searched for
+0.32019147276878357	Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so it was cleaned up
+0.2590422034263611	Bumped into user: the emergency stop button of the lathe was bumped, as someone squeezed by
+0.324689656496048	Useless wood scraps: wood scraps were too small to be useful to anyone, so they were trashed
+0.09874239563941956	Unlabeled drill cabinet: Needing to dig through the unlabeled cabinets to find a smaller 12 V hand drill
+0.7698628902435303	Ripped trash bag: the trash bag was ripped, so thetrash was taken out and the bag was replaced
+0.1225128024816513	Epoxy wait time: Epoxy needs to cure for 24 hours, so going home for the day was necessary
