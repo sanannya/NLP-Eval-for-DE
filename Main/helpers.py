@@ -7,6 +7,7 @@ def get_testable_data(inputfilename):
     raw_data = open(inputfilename, "r") 
     data = raw_data.read() 
     data_list = data.split("\t") 
+    data_list = data.split("\n") 
 
     #remove extra characters
     for string in data_list:
@@ -32,7 +33,8 @@ def get_testable_data(inputfilename):
         elif (len(string) > 0):
             ground_truths.append(string)
 
-    return [testable_data, ground_truths]
+    #ground truths array is empty if there are none
+    return [testable_data, ground_truths, data_list]
 
 def get_codes(inputfilename):
     #returns an array of the codes, pulled from a tab-split text file
@@ -53,7 +55,7 @@ def get_codes(inputfilename):
             codes[i] = new_string
 
     raw_data.close() 
-    return [codes, len[codes]]
+    return [codes, len(codes)]
 
 
 
@@ -77,14 +79,16 @@ from sentence_transformers import SentenceTransformer
 from sklearn.metrics import confusion_matrix
 from sklearn.metrics import f1_score
 
-#these functions will collect score results
+from transformers import AutoModel
+from numpy.linalg import norm
+cos_sim = lambda a,b: (a @ b.T) / (norm(a)*norm(b))
 
-def get_BART_scores(datafilename, codefilename):
+#these functions will run the models, return [model predictions, similarity scores in order of the codes]
+
+def get_BART_scores(testable_data, codes):
     all_results = []
     classifier = pipeline("zero-shot-classification",
                       model="facebook/bart-large-mnli")
-    testable_data = get_testable_data(datafilename)
-    codes = get_codes(codefilename)
     predictions = []
     for i in range (len(testable_data)):
         max_score = 0
@@ -107,12 +111,40 @@ def get_BART_scores(datafilename, codefilename):
 
     return [predictions_str, all_results]
 
-def get_MPNET_scores(datafilename, codefilename):
+def get_BERT_scores(testable_data, codes):
+    #this is a sentence transformers fine tuned version of BERT trained on various databases
+    #https://huggingface.co/sentence-transformers/static-similarity-mrl-multilingual-v1
+    model = SentenceTransformer("tomaarsen/static-similarity-mrl-multilingual-v1")
+    predictions = []
+    all_results = []
+    for i in range(len(testable_data)): 
+        max_score = 0
+        idx_of_max = 0
+        #user_embeddings = model.encode(testable_data[i])
+        user_embeddings = model.encode(KeyDataset(make_dataset(testable_data), "text")[i])
+        code_embeddings = model.encode(codes)
+        similarities = model.similarity(user_embeddings, code_embeddings)
+        results = similarities.tolist()
+        for j in range(len(codes)): 
+            #print(results)
+            all_results.append(results[0][j])
+            if (results[0][j] > max_score):
+                idx_of_max = j+1
+                max_score = results[0][j]
+        predictions.append(idx_of_max)
+
+    predictions_str = []
+    for pred in predictions:
+        str_pred = str(pred)
+        predictions_str.append(str_pred)
+
+    return [predictions_str, all_results]
+    
+
+def get_MPNET_scores(testable_data, codes):
     model = SentenceTransformer("all-mpnet-base-v2")
     all_results = [] 
     predictions = []
-    testable_data = get_testable_data(datafilename)
-    codes = get_codes(codefilename)
     for i in range(len(testable_data)): 
         max_score = 0
         idx_of_max = 0
@@ -128,6 +160,34 @@ def get_MPNET_scores(datafilename, codefilename):
                 idx_of_max = j+1
                 max_score = results[0][j]
         predictions.append(idx_of_max)
+
+    predictions_str = []
+    for pred in predictions:
+        str_pred = str(pred)
+        predictions_str.append(str_pred)
+
+    return [predictions_str, all_results]
+
+def get_Jina_scores(testable_data, codes):
+    model = AutoModel.from_pretrained('jinaai/jina-embeddings-v2-base-en', trust_remote_code=True) # trust_remote_code is needed to use the encode method
+    code_embeddings = model.encode(codes)
+    all_results = [] 
+    predictions = []
+    results = []
+    for i in range(len(testable_data)): 
+        max_score = 0
+        idx_of_max = 0
+        user_embeddings = model.encode(testable_data[i])
+        for k in range(len(codes)):
+            results.append(cos_sim(user_embeddings, code_embeddings[k]))
+        for j in range(len(codes)): 
+            #print(results)
+            all_results.append(results[j])
+            if (results[j] > max_score):
+                idx_of_max = j+1
+                max_score = results[j]
+        predictions.append(idx_of_max)
+    results = []
 
     predictions_str = []
     for pred in predictions:
