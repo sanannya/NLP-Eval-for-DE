@@ -6,8 +6,11 @@ def get_testable_data(inputfilename):
     #returns a 2D array containing testable data (phrases) and their ground truths (see spreadsheet formatting example)
     raw_data = open(inputfilename, "r") 
     data = raw_data.read() 
-    data_list = data.split("\t") 
-    data_list = data.split("\n") 
+
+    data_list = data.split("\n")
+    for i in range(len(data_list)):
+        d = data_list[i].split("\t")
+        data_list[i] = d
 
     #remove extra characters
     for string in data_list:
@@ -25,16 +28,15 @@ def get_testable_data(inputfilename):
 
     testable_data = []
     ground_truths = []
-    count = 0
-    for string in data_list:
-        if (len(string) > 2):
-            testable_data.append(string)
-            count += 1
-        elif (len(string) > 0):
-            ground_truths.append(string)
+    for p in range(len(data_list)):
+        if (type(data_list[p]) == list):
+            testable_data.append(data_list[p][0])
+            ground_truths.append(data_list[p][1])
+        elif (type(data_list[p]) == string):
+            testable_data.append(data_list[p])
 
     #ground truths array is empty if there are none
-    return [testable_data, ground_truths, data_list]
+    return [testable_data, ground_truths]
 
 def get_codes(inputfilename):
     #returns an array of the codes, pulled from a tab-split text file
@@ -140,8 +142,7 @@ def get_BERT_scores(testable_data, codes):
 
     return [predictions_str, all_results]
     
-
-def get_MPNET_scores(testable_data, codes):
+def get_MPNet_scores(testable_data, codes):
     model = SentenceTransformer("all-mpnet-base-v2")
     all_results = [] 
     predictions = []
@@ -200,6 +201,7 @@ def evaluate(ground_truths, predictions, codes_length):
     labels = []
     for i in range(codes_length):
         labels.append(str(i))
+    labels.append(str(codes_length))
     eval = f1_score(ground_truths, predictions, average=None) 
     mtx = confusion_matrix(ground_truths, predictions, labels)
     #return correct/incorrect per code
