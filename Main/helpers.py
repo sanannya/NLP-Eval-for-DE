@@ -42,7 +42,7 @@ def get_codes(inputfilename):
     #returns an array of the codes, pulled from a tab-split text file
     raw_data = open(inputfilename, "r")
     data = raw_data.read()
-    codes = data.split("\t")
+    codes = data.split("\n")
 
     #remove extra characters
     for string in codes:
@@ -51,10 +51,20 @@ def get_codes(inputfilename):
             #print(string)
             i = codes.index(string)
             codes[i] = new_string
+    for string in codes:
+        if "\t" in string:
+            new_string = string.replace("\t", "")
+            #print(string)
+            i = codes.index(string)
+            codes[i] = new_string
         if '"' in string:
             new_string = string.replace('"', "")
             i = codes.index(string)
             codes[i] = new_string
+
+    for code in codes:
+        if len(code) == 0:
+            codes.remove(code)
 
     raw_data.close() 
     return [codes, len(codes)]
@@ -89,9 +99,11 @@ cos_sim = lambda a,b: (a @ b.T) / (norm(a)*norm(b))
 
 def get_BART_scores(testable_data, codes):
     all_results = []
+    results = []
     classifier = pipeline("zero-shot-classification",
                       model="facebook/bart-large-mnli")
     predictions = []
+    record = []
     for i in range (len(testable_data)):
         max_score = 0
         idx_of_max = 0
@@ -100,11 +112,13 @@ def get_BART_scores(testable_data, codes):
             candidate_labels = codes[j]
             results = classifier(sequence_to_classify, candidate_labels, multi_label=False) 
             #print(str(results["scores"][0]) + "\t" + code) 
-            all_results.append(results["scores"][0])
+            record.append(results["scores"][0])
             if (results["scores"][0] > max_score):
                 idx_of_max = j+1
                 max_score = results["scores"][0]
         predictions.append(idx_of_max)
+        all_results.append(record)
+        record = []
 
     predictions_str = []
     for pred in predictions:
@@ -119,6 +133,7 @@ def get_BERT_scores(testable_data, codes):
     model = SentenceTransformer("tomaarsen/static-similarity-mrl-multilingual-v1")
     predictions = []
     all_results = []
+    record = []
     for i in range(len(testable_data)): 
         max_score = 0
         idx_of_max = 0
@@ -129,11 +144,13 @@ def get_BERT_scores(testable_data, codes):
         results = similarities.tolist()
         for j in range(len(codes)): 
             #print(results)
-            all_results.append(results[0][j])
+            record.append(results[0][j])
             if (results[0][j] > max_score):
                 idx_of_max = j+1
                 max_score = results[0][j]
         predictions.append(idx_of_max)
+        all_results.append(record)
+        record = []
 
     predictions_str = []
     for pred in predictions:
@@ -146,6 +163,7 @@ def get_MPNet_scores(testable_data, codes):
     model = SentenceTransformer("all-mpnet-base-v2")
     all_results = [] 
     predictions = []
+    record = []
     for i in range(len(testable_data)): 
         max_score = 0
         idx_of_max = 0
@@ -156,11 +174,13 @@ def get_MPNet_scores(testable_data, codes):
         similarities = model.similarity(user_embeddings, code_embeddings)
         results = similarities.tolist()
         for j in range(len(codes)): 
-            all_results.append(results[0][j])
+            record.append(results[0][j])
             if (results[0][j] > max_score):
                 idx_of_max = j+1
                 max_score = results[0][j]
         predictions.append(idx_of_max)
+        all_results.append(record)
+        record = []
 
     predictions_str = []
     for pred in predictions:
@@ -178,7 +198,7 @@ def get_Jina_scores(testable_data, codes):
     for i in range(len(testable_data)): 
         max_score = 0
         idx_of_max = 0
-        user_embeddings = model.encode(testable_data[i])
+        user_embeddings = model.encode(KeyDataset(make_dataset(testable_data), "text")[i])
         for k in range(len(codes)):
             results.append(cos_sim(user_embeddings, code_embeddings[k]))
         for j in range(len(codes)): 
@@ -188,7 +208,8 @@ def get_Jina_scores(testable_data, codes):
                 idx_of_max = j+1
                 max_score = results[j]
         predictions.append(idx_of_max)
-    results = []
+        all_results.append(results)
+        results = []
 
     predictions_str = []
     for pred in predictions:
@@ -198,11 +219,11 @@ def get_Jina_scores(testable_data, codes):
     return [predictions_str, all_results]
 
 def evaluate(ground_truths, predictions, codes_length):
-    labels = []
+    labels_nums = []
     for i in range(codes_length):
-        labels.append(str(i))
-    labels.append(str(codes_length))
+        labels_nums.append(str(i))
+    labels_nums.append(str(codes_length))
     eval = f1_score(ground_truths, predictions, average=None) 
-    mtx = confusion_matrix(ground_truths, predictions, labels)
+    mtx = confusion_matrix(ground_truths, predictions, labels=labels_nums)
     #return correct/incorrect per code
     return [eval, mtx]
