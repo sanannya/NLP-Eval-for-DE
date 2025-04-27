@@ -2,7 +2,7 @@ import os, sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath("helpers.py"))))
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath("main.py"))))
 
-from Main import helpers, main
+from NLP_Eval_for_DE import helpers, driver
 #accessing Main files
 
 #testing everything w/ the 3-word pain points + 103 participant inputs & their ground truths
