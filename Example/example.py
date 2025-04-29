@@ -1,9 +1,6 @@
-from NLP_Eval_for_DE import driver, helpers
+from NLP_Eval_for_DE import helpers, process_data, results
 
-# Call the functions
-driver.func1()
+results.get_predictions("BART", "C:\\Users\\engrla\\NLP-Eval-for-DE\\Example\\Pain points data-ground truth.txt", "C:\\Users\\engrla\\NLP-Eval-for-DE\\Example\\pain_point_codes_desc")
+results.get_scores("BART", "C:\\Users\\engrla\\NLP-Eval-for-DE\\Example\\Pain points data-ground truth.txt", "C:\\Users\\engrla\\NLP-Eval-for-DE\\Example\\pain_point_codes_desc")
 
-codes = helpers.get_codes("C:\\Users\\engrla\\NLP-Eval-for-DE\\NLP_Eval_for_DE\\Tests\\pain_points_codes_3word.txt")
-testable_data = helpers.get_testable_data("C:\\Users\\engrla\\NLP-Eval-for-DE\\NLP_Eval_for_DE\\Tests\\Pain points data-ground truth.txt")
-predictions = helpers.get_BART_scores(testable_data[0], codes[0])
-print(predictions[1])
+#write example evals next

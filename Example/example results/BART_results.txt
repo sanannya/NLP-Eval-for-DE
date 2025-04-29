@@ -1,0 +1,309 @@
+cutting wood	2
+
+
+didn’t know how to use lathe	1
+
+
+Finding drill	5
+
+
+Taking out trash	8
+
+
+Finding clamp	5
+
+
+Loosening the lathe	2
+
+
+Cleaning up after others	6
+
+
+Equipment too big	3
+
+
+Too small of wood scraps.	7
+
+
+Had to take trash out.	8
+
+
+Had to find a clamp.	5
+
+
+Had to dig in unlabeled container for a 12v drill.	5
+
+
+Got bumped while using sander, accidentally pressed emergency stop button.	8
+
+
+Had to clean off messy workspace.	6
+
+
+Gloves were too big.	2
+
+
+People putting garbage in the scrp bin	8
+
+
+People not throwing trash properly ripping the bag	10
+
+
+People not putting things where they go	7
+
+
+People not putting things back the way they were found	8
+
+
+People leaving a mess and not cleaning up	8
+
+
+bumped by person using belt sander	8
+
+
+garbage bag had hole	2
+
+
+sawdust left on machine	8
+
+
+lathe chuck tightened too tight	1
+
+
+only found 18V drill which was too big	5
+
+
+Someone pushed them 	7
+
+
+Finding clamps	5
+
+
+Loosening the chuck	7
+
+
+people squeezing by and caused him to restart	7
+
+
+finding a drill	5
+
+
+clearing the scrap bin	6
+
+
+Height of miter saw	5
+
+
+Trash in the scrap bin	8
+
+
+Ripped Trash bag	8
+
+
+Epoxy	5
+
+
+Clamp unavailable	5
+
+
+Drill Unavailable 	5
+
+
+Lathe was dirty	8
+
+
+Accidental emergency stop	2
+
+
+Equipment not put away properly	8
+
+
+People in the way while using power tools	7
+
+
+Difficulty finding certain tools	5
+
+
+Couldnt find proper equipment (gloves)	5
+
+
+She was bumped into	7
+
+
+The lathe was left covered in saw dust	8
+
+
+The 18V drill was too big for her	2
+
+
+The miter saw was too tall for her	2
+
+
+The clamps were not put away	1
+
+
+Someone left pieces of wood that were too small in the scrap bin. 	8
+
+
+Something was tightened too much so the emergency stop had to be used. 	8
+
+
+The only available drill was too big so she had to looo through unlabeled drawers for a smaller one. 	5
+
+
+There weren’t gloves in her size. 	5
+
+
+Crowded workspace	7
+
+
+Too big of gloves	2
+
+
+Other people's messes	8
+
+
+Other people's incorrect use of machines	8
+
+
+Disorganized tool stock	3
+
+
+Ripped trash bag	8
+
+
+Dirty workspace	8
+
+
+Miter saw too high	1
+
+
+18V too large	2
+
+
+Bumped emergency stop	8
+
+
+Pressed the emergency stop button	1
+
+
+Had to clean out extra saw dust	6
+
+
+Had to find 12V since there was only 18V	5
+
+
+Applying epoxy was difficult due to large gloves	3
+
+
+saw dust left	8
+
+
+equipment left too tight	7
+
+
+trash needs to be taken out in new/sturdy bag	10
+
+
+interrupted on lathe by someone bumping them	7
+
+
+machinery left too high for use	8
+
+
+Having to throw away the unusable scraps	8
+
+
+Replacing the garbage bag	6
+
+
+Cleaning the lathe	6
+
+
+Restarting the lathe from getting bumped into 	8
+
+
+Can’t find the right drill size because of clutter	5
+
+
+Not a full range of glove sizes 	5
+
+
+Bolts too tightened on lathe 	1
+
+
+Table top is too high	2
+
+
+Cleaning up the machine	6
+
+
+Finding the correct drill	5
+
+
+Gloves were too big	2
+
+
+Trash was full 	8
+
+
+Scrap bin not used correctly 	8
+
+
+Someone left machine as they used it	8
+
+
+Someone bumped into her	7
+
+
+Trash was ripped	8
+
+
+Pieces that were too small were left in the trash	8
+
+
+Gloves only had size large	3
+
+
+The drill she wanted was buried in the cabinet 	2
+
+
+Got bumped into	7
+
+
+Gloves too large	2
+
+
+Finding a clamp	5
+
+
+Chuck too tight	7
+
+
+Saw dust not cleaned up	8
+
+
+Rip in trash bag	10
+
+
+Wood in recycled materials was too small to be used	8
+
+
+Someone bumped the user causing them to hit the emergency stop and they had to restart the machine	8
+
+
+The last person left shavings that required clean up	6
+
+
+The user had to loosen the chuck 	8
+
+
+The gloves were too big when trying to epoxy 	3
+
+
+The wood scraps were too small so they needed to be thrown out	10
+
+
+The garbage bag was ripped so it needed to be replaced	8
+
+
