@@ -1,5 +1,3 @@
-# main.py
-# Import specific modules instead of using *
 from NLP_Eval_for_DE import driver, helpers
 
 # Call the functions
