@@ -2,7 +2,7 @@
 import sys
 from NLP_Eval_for_DE import process_data, helpers
 
-def get_predictions(model_name, inputs_datafile, codes_datafile):
+def get_predictions(model_name, inputs_datafile, codes_datafile, outputname):
     testable_data = process_data.get_testable_data(inputs_datafile)
     codes = process_data.get_codes(codes_datafile)
     if (model_name=="BART"):
@@ -16,14 +16,14 @@ def get_predictions(model_name, inputs_datafile, codes_datafile):
 
     #print(predictions[1])
 
-    with open(model_name + '_results.txt', 'w') as f:
+    with open(outputname + '.txt', 'w') as f:
         sys.stdout = f
 
         for i in range(len(testable_data[0])):
             print (testable_data[0][i] + "\t" + predictions[0][i])
             print ("\n")
 
-def get_scores(model_name, inputs_datafile, codes_datafile):
+def get_scores(model_name, inputs_datafile, codes_datafile, outputname):
         testable_data = process_data.get_testable_data(inputs_datafile)
         codes = process_data.get_codes(codes_datafile)
         if (model_name=="BART"):
@@ -35,7 +35,7 @@ def get_scores(model_name, inputs_datafile, codes_datafile):
         if (model_name=="Jina Embeddings V2"):
             predictions = helpers.get_Jina_scores(testable_data[0], codes[0])
 
-        with open(model_name + '_scores.txt', 'w') as f:
+        with open(outputname + '.txt', 'w') as f:
             sys.stdout = f
 
             for i in range(len(testable_data[0])):
