@@ -1,5 +1,6 @@
 #this file is for getting the info from helper functions into txt format
 import sys
+import csv 
 from NLP_Eval_for_DE import process_data, helpers
 
 def get_predictions(model_name, inputs_datafile, codes_datafile, outputname):
@@ -14,14 +15,17 @@ def get_predictions(model_name, inputs_datafile, codes_datafile, outputname):
     if (model_name=="Jina Embeddings V2"):
         predictions = helpers.get_Jina_scores(testable_data[0], codes[0])
 
-    #print(predictions[1])
+    new_data = []
+    for i in range(len(testable_data[0])):
+        new_data.append({"Data": testable_data[0][i], "Prediction": predictions[0][i]})
 
-    with open(outputname + '.txt', 'w') as f:
-        sys.stdout = f
+    filename = outputname + '.csv'
+    fieldnames = ['Data', 'Prediction']
 
-        for i in range(len(testable_data[0])):
-            print (testable_data[0][i] + "\t" + predictions[0][i])
-            print ("\n")
+    with open(filename, 'w', newline='') as file:
+        writer = csv.DictWriter(file, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(new_data)
 
 def get_scores(model_name, inputs_datafile, codes_datafile, outputname):
         testable_data = process_data.get_testable_data(inputs_datafile)
@@ -35,12 +39,35 @@ def get_scores(model_name, inputs_datafile, codes_datafile, outputname):
         if (model_name=="Jina Embeddings V2"):
             predictions = helpers.get_Jina_scores(testable_data[0], codes[0])
 
-        with open(outputname + '.txt', 'w') as f:
-            sys.stdout = f
+        new_data = []
+        for i in range(len(testable_data[0])):
+            for j in range(len(codes[0])):
+                new_data.append({"Data": testable_data[0][i], "Score": str(predictions[1][i][j]), 'Code': codes[0][j]})
 
-            for i in range(len(testable_data[0])):
-                print ("DATA: " + testable_data[0][i])
-                print ("\n")
-                for j in range(len(codes[0])):
-                    print(str(predictions[1][i][j]) + "\t" + codes[0][j])
-                print("\n")
+        filename = outputname + '.csv'
+        fieldnames = ['Data', 'Score', 'Code']
+
+        with open(filename, 'w', newline='') as file:
+            writer = csv.DictWriter(file, fieldnames=fieldnames)
+            writer.writeheader()
+            writer.writerows(new_data)
+
+def get_evaluation(model_name, inputs_datafile, codes_datafile, outputname):
+    testable_data = process_data.get_testable_data(inputs_datafile)
+    codes = process_data.get_codes(codes_datafile)
+    if (model_name=="BART"):
+        predictions = helpers.get_BART_scores(testable_data[0], codes[0])
+    if (model_name=="BERT"):
+        predictions = helpers.get_BERT_scores(testable_data[0], codes[0])
+    if (model_name=="MPNet"):
+        predictions = helpers.get_MPNet_scores(testable_data[0], codes[0])
+    if (model_name=="Jina Embeddings V2"):
+        predictions = helpers.get_Jina_scores(testable_data[0], codes[0])
+
+    with open(outputname + '.txt', 'w') as f:
+        sys.stdout = f
+
+        print(helpers.evaluate(testable_data[1], predictions[0], codes[1])[0])
+        print(helpers.evaluate(testable_data[1], predictions[0], codes[1])[1])
+
+    #REPLACE THIS WITH CSV FORMAT OUTPUT NEXT
