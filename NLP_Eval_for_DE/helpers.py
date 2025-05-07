@@ -2,8 +2,7 @@
 from transformers import pipeline
 from sentence_transformers import SentenceTransformer
 
-from sklearn.metrics import confusion_matrix
-from sklearn.metrics import f1_score
+from sklearn.metrics import confusion_matrix, f1_score, cohen_kappa_score
 
 from transformers import AutoModel
 from numpy.linalg import norm
@@ -142,7 +141,8 @@ def evaluate(ground_truths, predictions, codes_length):
     for i in range(codes_length):
         labels_nums.append(str(i))
     labels_nums.append(str(codes_length))
-    eval = f1_score(ground_truths, predictions, average=None) 
+    f1s = f1_score(ground_truths, predictions, average=None) 
     mtx = confusion_matrix(ground_truths, predictions, labels=labels_nums)
+    kappa = cohen_kappa_score(ground_truths, predictions, labels=labels_nums, weights=None, sample_weight=None)
     #return correct/incorrect per code
-    return [eval, mtx]
+    return [mtx, f1s, kappa]

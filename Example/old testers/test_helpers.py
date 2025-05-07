@@ -21,7 +21,7 @@ testable_data = process_data.get_testable_data("C:\\Users\\engrla\\NLP-Eval-for-
 # print(testable_data[1])
 # print(helpers.get_BERT_scores(testable_data[0],codes[0]))
 
-# predictions = helpers.get_MPNet_scores(testable_data[0], codes[0])
+predictions = helpers.get_BART_scores(testable_data[0], codes[0])
 # print(predictions[1])
 # print(helpers.evaluate(testable_data[1], predictions[0], codes[1])[0])
 # print(helpers.evaluate(testable_data[1], predictions[0], codes[1])[1])
@@ -29,6 +29,7 @@ testable_data = process_data.get_testable_data("C:\\Users\\engrla\\NLP-Eval-for-
 # print(predictions[1])
 # print(helpers.evaluate(testable_data[1], predictions[0], codes[1])[0])
 # print(helpers.evaluate(testable_data[1], predictions[0], codes[1])[1])
+print(helpers.evaluate(testable_data[1], predictions[0], codes[1])[2])
 
-predictions = helpers.get_BERT_scores(testable_data[0], codes[0])
-print(predictions[0])
+# predictions = helpers.get_BERT_scores(testable_data[0], codes[0])
+# print(predictions[0])
