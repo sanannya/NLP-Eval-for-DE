@@ -1,70 +1,42 @@
+import csv
 from datasets import Dataset
 #-------------------------------processing input data-------------------------------#
 def get_testable_data(inputfilename):
-    #returns a 2D array containing testable data (phrases) and their ground truths (see spreadsheet formatting example)
-    raw_data = open(inputfilename, "r") 
-    data = raw_data.read() 
-
-    data_list = data.split("\n")
-    for i in range(len(data_list)):
-        d = data_list[i].split("\t")
-        data_list[i] = d
-
-    #remove extra characters
-    for string in data_list:
-        if "\n" in string:
-            new_string = string.replace("\n", "")
-            #print(string)
-            i = data_list.index(string)
-            data_list[i] = new_string
-        if '"' in string:
-            new_string = string.replace('"', "")
-            i = data_list.index(string)
-            data_list[i] = new_string
-
-    raw_data.close() 
-
+    data = []
+    with open(inputfilename, 'r') as file:
+            csv_reader = csv.DictReader(file)
+            for row in csv_reader:
+                data.append(row)
+    categories = list(data[0].keys())
     testable_data = []
     ground_truths = []
-    for p in range(len(data_list)):
-        if (type(data_list[p]) == list):
-            testable_data.append(data_list[p][0])
-            ground_truths.append(data_list[p][1])
-        elif (type(data_list[p]) == string):
-            testable_data.append(data_list[p])
+    if (len(categories)==1):
+        for dictn in data:
+            for key, value in dictn.items():
+                testable_data.append(value)
+    else:
+        for dictn in data:
+            for key, value in dictn.items():
+                if (key==categories[0]):
+                    testable_data.append(value)
+                elif (key==categories[1]):
+                    ground_truths.append(value)
 
-    #ground truths array is empty if there are none
+    testable_data = [s for s in testable_data if s]
+    ground_truths = [s for s in ground_truths if s]
+
     return [testable_data, ground_truths]
 
 def get_codes(inputfilename):
-    #returns an array of the codes, pulled from a tab-split text file
-    raw_data = open(inputfilename, "r")
-    data = raw_data.read()
-    codes = data.split("\n")
-
-    #remove extra characters
-    for string in codes:
-        if "\n" in string:
-            new_string = string.replace("\n", "")
-            #print(string)
-            i = codes.index(string)
-            codes[i] = new_string
-    for string in codes:
-        if "\t" in string:
-            new_string = string.replace("\t", "")
-            #print(string)
-            i = codes.index(string)
-            codes[i] = new_string
-        if '"' in string:
-            new_string = string.replace('"', "")
-            i = codes.index(string)
-            codes[i] = new_string
-
-    for code in codes:
-        if len(code) == 0:
-            codes.remove(code)
-
-    raw_data.close() 
+    data = []
+    codes = []
+    with open(inputfilename, 'r') as file:
+            csv_reader = csv.reader(file)
+            for row in csv_reader:
+                data.append(row)
+    for dtpt in data:
+        codes.append(dtpt[0])
+    codes = [s for s in codes if s]
     return [codes, len(codes)]
 
 def make_dataset(testable_data):
