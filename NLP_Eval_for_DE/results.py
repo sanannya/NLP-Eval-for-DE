@@ -87,6 +87,7 @@ def get_evaluation(inputs_datafile, codes_datafile,):
         writer.writerows(new_data)
 
     #output the f1 scores
+    
     all_preds = []
     all_preds.append(BARTpredictions)
     all_preds.append(BERTpredictions)
@@ -97,8 +98,9 @@ def get_evaluation(inputs_datafile, codes_datafile,):
         f1s.append(helpers.evaluate(testable_data[1], predictions[0], codes[1])[1])
 
     new_data = []
-    for i in range(len(f1s)):
-        new_data.append({"Code": testable_data[0][i], "BART F1": f1s[0][i], "BERT F1": f1s[1][i], "MPNet F1": f1s[2][i], "Jina F1": f1s[3][i]})
+    codes[0].insert(0, "No code")
+    for i in range(len(codes[0])):
+        new_data.append({"Code": codes[0][i], "BART F1": f1s[0][i], "BERT F1": f1s[1][i], "MPNet F1": f1s[2][i], "Jina F1": f1s[3][i]})
 
     filename = "F1_scores" + '.csv'
     fieldnames = ['Code', 'BART F1', 'BERT F1', 'MPNet F1', 'Jina F1']

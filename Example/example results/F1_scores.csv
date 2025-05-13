@@ -1,5 +1,13 @@
 Code,BART F1,BERT F1,MPNet F1,Jina F1
-cutting wood,0.0,0.0,0.0,0.0
-didn’t know how to use lathe,0.4,0.7777777777777778,0.875,0.9411764705882353
-Finding drill,0.4,0.88,0.8461538461538461,0.8148148148148148
-Taking out trash,0.0,0.0,1.0,1.0
+No code,0.0,0.0,0.0,0.0
+"The lathe chuck was tightened too much, so the user loosened it with pliers",0.5,0.6885245901639344,0.7450980392156863,0.84
+"Only 18 V drills were displayed, which are too big to use with one hand",0.6933333333333334,0.8909090909090909,0.9245283018867925,0.9245283018867925
+"Only size large disposable gloves were available, so the user struggled with the epoxy",0.09090909090909091,0.875,0.8421052631578947,1.0
+The miter saw is a bit uncomfortable to use since it�s on a tall table,0.21739130434782608,0.7027027027027027,0.6818181818181818,0.7083333333333334
+"The user had to hunt down a clamp, since people forgot to put them away",0.23255813953488372,0.8055555555555556,0.9666666666666667,0.9508196721311475
+"The lathe was covered in sawdust and wood chips, so the user cleaned it up",0.46511627906976744,0.8985507246376812,0.8648648648648649,0.868421052631579
+"the user bumped the emergency stop button of the lathe, as someone squeezed behind them",0.5970149253731343,0.696969696969697,0.6764705882352942,0.7323943661971831
+"wood scraps were too small to be useful to anyone, so they went in the trash",0.5185185185185185,0.7663551401869159,0.7894736842105263,0.8113207547169812
+the user dug through the unlabeled cabinets to find a smaller 12 V hand drill,0.46464646464646464,0.7857142857142857,0.8505747126436781,0.9111111111111111
+"the trash bag was ripped, so the user took the trash out and replaced the bag",0.46808510638297873,0.72,0.8767123287671232,0.8
+"Epoxy needs to cure for 24 hours, so the user went home for the day",0.0,0.75,0.6938775510204082,0.7391304347826086
