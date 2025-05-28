@@ -38,16 +38,17 @@ Or clone to your local machine however you prefer.
 
 ## Using the module
 
-## Example files
+### Example files
 
 The repository's "Example" folder contains the runnable script, input files, and output files for both case studies documented in the paper.
 - example.py: you can copy and edit this file for your own use.
-- Input files: refer to these for formatting
-    - Case study 1 codebooks (this case study compared 3 codebooks): "description codes.csv", "short titles.csv", "short titles+descriptions.csv"
-    - Case study 1 outputs: ******LIST THEM HEREEE******
-    - Case study 2 codebook: "data test, single GTs only.csv".
+- Case study 1: refer to these for formatting
+    - codebooks (this case study compared 3 codebooks): "description codes.csv", "short titles.csv", "short titles+descriptions.csv"
+    - results: ******LIST THEM HEREEE******
+- Case study 2: refer to these for formatting
+    - codebook: "data test, single GTs only.csv".
         - For running evaluations, ground truths should be in numerical format. If they're in written format (like this file), the function written_code_to_numbers will convert them to numbers, as seen in "new datafile.csv".
-    - Case study 2 outputs: ******LIST THEM HEREEE******
+    - results: ******LIST THEM HEREEE******
 
 
 ### Executing program
