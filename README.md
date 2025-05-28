@@ -13,8 +13,8 @@ Bitex citation:
 ## Description
 
 NLP Eval for DE is intended to perform qualitative coding of design engineering research data with a codebook, utilizing your choice of natural language processing AI model. There are two primary uses of this module:
-- Qualitative Coding: you can upload input data and a codebook, then run one of the provided NLP models to get an assigned code for each data point. This is intended to complete the task so that human design researchers won't have to. Our paper goes in depth on the relative accuracy of these models, as well as what parameters of the dataset & codebook may affect that accuracy.
-- Evaluation: you can also test all of our supported NLP models on you own data/codebook. This will generate confusion matrices, cohen's kappas, and F1 scores for your analysis.
+- Qualitative Coding: you can upload input data and a codebook, then run one of the provided NLP models to get an assigned code for each data point. This is intended to complete the task so that design researchers won't have to. Our paper goes in depth on the relative accuracy of these models, as well as what parameters of the dataset & codebook may affect that accuracy.
+- Evaluation: you can also test all supported NLP models on your data/codebook. This will generate confusion matrices, cohen's kappas, and F1 scores.
 
 This README will contain code and formatting instructions. 
 
@@ -24,21 +24,65 @@ In the "Example" folder, you can also view the example python script and input d
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+- ****LIBRARY/PACKAGE LISTED HERE, MAKE A REQURIEMENTS.TXT****
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+Install from source: 
+```bash
+git clone https://github.com/sanannya/NLP-Eval-for-DE.git
+cd NLP-Eval-for-DE
+pip install -e .
+```
+Or clone to your local machine however you prefer. 
+
+## Using the module
+
+## Example files
+
+The repository's "Example" folder contains the runnable script, input files, and output files for both case studies documented in the paper.
+- example.py: you can copy and edit this file for your own use.
+- Input files: refer to these for formatting
+    - Case study 1 codebooks (this case study compared 3 codebooks): "description codes.csv", "short titles.csv", "short titles+descriptions.csv"
+    - Case study 1 outputs: ******LIST THEM HEREEE******
+    - Case study 2 codebook: "data test, single GTs only.csv".
+        - For running evaluations, ground truths should be in numerical format. If they're in written format (like this file), the function written_code_to_numbers will convert them to numbers, as seen in "new datafile.csv".
+    - Case study 2 outputs: ******LIST THEM HEREEE******
+
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+- To access the functions, create a python file. Run this code as an imported module:
 ```
-code blocks for commands
+from NLP_Eval_for_DE import results
 ```
+- Get qualitative coding results for a data set.
+- Inputs
+    - Choose an NLP model to use: "BART", "BERT", "MPNet", "Jina Embeddings V2"
+    - Input data file: a CSV file, must be properly formatted; see CSV formatting instructions in the next section
+    - Codebook: a CSV file, must be properly formatted; see CSV formatting instructions in the next section
+    - Choose what to name the output CSV file.
+- Outputs
+    - A CSV containing the input data points and their NLP-assigned codes according to your inputted codebook
+```
+results.get_predictions("Jina Embeddings V2", "Example\\pain points full.csv", "Example\\description codes.csv", "predictions-jina-desc-painpoints")
+```
+
+- Get similarity scores between each data point and code.
+- Inputs
+    - Choose an NLP model to use: "BART", "BERT", "MPNet", "Jina Embeddings V2"
+    - Input data file: a CSV file, must be properly formatted; see CSV formatting instructions in the next section
+    - Codebook: a CSV file, must be properly formatted; see CSV formatting instructions in the next section
+    - Choose what to name the output CSV file.
+- Outputs
+    - A CSV containing the input data points and their NLP-assigned similarity scores to each code. Ordered by data point, and scores displayed in the order of the codebook.
+```
+results.get_scores("Jina Embeddings V2", "Example\\pain points full.csv", "Example\\description codes.csv", "scores-jina-desc-painpoints")
+```
+
+*******FINISH THIS ************
+
+### Formatting input files
 
 ## Help
 
@@ -56,15 +100,8 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+- 0.1
+    - Initial Release
 
 ## Acknowledgments
 
