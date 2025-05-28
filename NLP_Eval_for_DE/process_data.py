@@ -65,13 +65,13 @@ def written_code_to_numbers(datafile, codefile):
         for row in reader:
             categories = list(row.keys())
             new_row = row
-            print(row)
+            #print(row)
             for i in range(len(codes)):
                 if (codes[i] == row[categories[1]]):
                     # print("match!")
                     # print(row[categories[1]])
                     # print(codes[i])
-                    new_val = str(i)
+                    new_val = str(i+1)
                     #print(new_row[categories[1]])
             if (row[categories[1]] not in codes):
                 new_val = "0"

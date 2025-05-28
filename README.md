@@ -46,7 +46,7 @@ The repository's "Example" folder contains the runnable script, input files, and
     - codebooks (this case study compared 3 codebooks): "description codes.csv", "short titles.csv", "short titles+descriptions.csv"
     - results: ******LIST THEM HEREEE******
 - Case study 2: refer to these for formatting
-    - codebook: "data test, single GTs only.csv".
+    - codebook: "hackathon data + GTs.csv".
         - For running evaluations, ground truths should be in numerical format. If they're in written format (like this file), the function written_code_to_numbers will convert them to numbers, as seen in "new datafile.csv".
     - results: ******LIST THEM HEREEE******
 
@@ -81,7 +81,19 @@ results.get_predictions("Jina Embeddings V2", "Example\\pain points full.csv", "
 results.get_scores("Jina Embeddings V2", "Example\\pain points full.csv", "Example\\description codes.csv", "scores-jina-desc-painpoints")
 ```
 
-*******FINISH THIS ************
+- Get evaluation results to see how all the models perform on your dataset & codebook. This will only work if your dataset has assigned ground truths to compare against the models.
+- Inputs
+    - Input data file: a CSV file, must be properly formatted; see CSV formatting instructions in the next section
+    - Codebook: a CSV file, must be properly formatted; see CSV formatting instructions in the next section
+- Outputs
+    - 4 matrices: CSV files (BART_matrix, BERT_matrix, MPNet_matrix, & Jina_matrix). These are the confusion matrices comparing the ground truth codes (rows) vs model-predicted codes (columns)
+    - F1_scores.csv: For each code, shows each model's F1 score (an accuracy metric). 
+    - Cohens_kappas.csv: Shows each model's cohen's kappa score.
+```
+results.get_evaluation("Example\\pain points full.csv", "Example\\short titles+descriptions.csv")
+```
+
+*******FINISH THIS W/ WRITTEN TO NUM CONVERSION, &(INCLUDE HELPER FUNC(?))************
 
 ### Formatting input files
 

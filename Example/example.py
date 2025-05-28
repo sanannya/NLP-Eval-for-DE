@@ -5,8 +5,8 @@ from NLP_Eval_for_DE import helpers, process_data, results
 
 #results.get_evaluation("C:\\Users\\engrla\\NLP-Eval-for-DE\\Example\\pain points full.csv", "C:\\Users\\engrla\\NLP-Eval-for-DE\\Example\\short titles+descriptions.csv")
 
-#process_data.written_code_to_numbers("C:\\Users\\engrla\\NLP-Eval-for-DE\\Example\\data test, single GTs only.csv", "C:\\Users\\engrla\\NLP-Eval-for-DE\\Example\\hackathon open codes.csv")
-#results.get_evaluation("C:\\Users\\engrla\\NLP-Eval-for-DE\\Example\\new datafile.csv", "C:\\Users\\engrla\\NLP-Eval-for-DE\\Example\hackathon open codes.csv")
+#process_data.written_code_to_numbers("Example\\hackathon data + GTs.csv", "Example\\hackathon open codes.csv")
+results.get_evaluation("Example\\new datafile.csv", "Example\\hackathon open codes.csv")
 #results.get_predictions("Jina Embeddings V2", "C:\\Users\\engrla\\NLP-Eval-for-DE\\Example\\new datafile.csv", "C:\\Users\\engrla\\NLP-Eval-for-DE\\Example\hackathon open codes.csv", "hackathon cursed run")
 
-results.get_scores("Jina Embeddings V2", "Example\\pain points full.csv", "Example\\description codes.csv", "test smth")
+#results.get_scores("Jina Embeddings V2", "Example\\pain points full.csv", "Example\\description codes.csv", "test smth")

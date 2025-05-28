@@ -17,28 +17,28 @@ The top thingy?,0
 "And then mic test. Am I good? Yeah, next.",0
 "Yeah, me too. I didn't get one of the whole days.",0
 What's on your mind?,0
-I don't know. I'm balancing ideas against prizes.,60
+I don't know. I'm balancing ideas against prizes.,61
 "That turn right from here, right?",0
-"Before you shoot them down, say them out loud.",37
-But it's all blockchain related so.,42
-Do you want blockchain?,42
-"No, I, no, I know I'm thinking of it because I want a prize, so I'm trying to separate that out",0
-Well we might as well just go for the GitHub then. GitHub or Taipei. Taipei very few people will probably go for like if that's your goal.,50
-"Yeah. No, I don't want to like overshadow what everybody wants to do.",15
-What do you want the project to have? Like we talked about game dev we talked about computer vision. It's like what we wanted to touch upon.,42
+"Before you shoot them down, say them out loud.",39
+But it's all blockchain related so.,43
+Do you want blockchain?,43
+"No, I, no, I know I'm thinking of it because I want a prize, so I'm trying to separate that out",1
+Well we might as well just go for the GitHub then. GitHub or Taipei. Taipei very few people will probably go for like if that's your goal.,51
+"Yeah. No, I don't want to like overshadow what everybody wants to do.",16
+What do you want the project to have? Like we talked about game dev we talked about computer vision. It's like what we wanted to touch upon.,43
 She said that's awesome. Maybe they might not.,0
-"I'm interested in game dev. I'm concerned that we can't finish a polished product in the time we have because game dev is just difficult to like polish unless you do a hack scrappy job. The other thing that I was thinking of was computer vision related. So robotics and computer vision. I'm interested in it, but I just feel like it's going to be what everybody does because of the resources.",42
+"I'm interested in game dev. I'm concerned that we can't finish a polished product in the time we have because game dev is just difficult to like polish unless you do a hack scrappy job. The other thing that I was thinking of was computer vision related. So robotics and computer vision. I'm interested in it, but I just feel like it's going to be what everybody does because of the resources.",43
 "Repeat, which is what everyone will already do?",0
 Robotics,0
 "OK, cool. Thank you so much.",0
 "because so we have, they have some really nice libraries to make computer vision robotic products? Yeah, yeah, like the demo in the workshop is basically a bot that looks at you and finds you and like humans and gives you snacks like, it carries snacks and just gives you snacks. That's like the example. That's the example.",0
 Are they making up BigMacs? OK. That's cute.,0
 "UM. Then they have one where like basically if you have a Pacman shirt it goes close to you, if you have a ghost shirt it goes away",0
-And scrappy good. Was it overused? What other thing? We also have AI which is going to be very difficult to have a niche.,50
+And scrappy good. Was it overused? What other thing? We also have AI which is going to be very difficult to have a niche.,51
 Because actually I'm also.,0
 "Wow, I'm so negative.",0
 "Like because I flew, I'm in.",0
-You are the devil's advocate of the group now.,29
+You are the devil's advocate of the group now.,30
 [North American city] for a study.,0
 Hahah no,0
 I came in from it,0
@@ -47,31 +47,31 @@ And you said it's too niche or something?,0
 "No, too difficult to make a niche in AI because all it takes is a prompt.",0
 "I don't know how I'm still operating, yeah. 8 hours from here.",0
 Oh that's that's crazy.,0
-"OK, if you use computer vision. OK, I got it. I think that's definitely possible. So. The only caveat is I think robotics and computer vision. Is there a nice use case? But well, if you want to do something nobody else is doing that, it's mobile or Web dev or you know screw in dev.",50
+"OK, if you use computer vision. OK, I got it. I think that's definitely possible. So. The only caveat is I think robotics and computer vision. Is there a nice use case? But well, if you want to do something nobody else is doing that, it's mobile or Web dev or you know screw in dev.",49
 I have a theory that will put game dev and computer vision together.,0
 "OK. Yeah, go for it.",0
-"Like you know, those games where? Take the Wii. Where you like, move around and then it detects what your movement is to determine what the input is? So like the example that my professor gave was like if you're playing ping pong instead of like you actually physically moved to catch the ball as you're playing pinball.",37
+"Like you know, those games where? Take the Wii. Where you like, move around and then it detects what your movement is to determine what the input is? So like the example that my professor gave was like if you're playing ping pong instead of like you actually physically moved to catch the ball as you're playing pinball.",38
 Mm-hmm. OK. So it's like you're playing ping pong with body movements is that what you're conference?,0
-"Playing ping pong. Against this hypothetical TV screen and then it's scanning you and your movement depending, and it'll say like the ping pong bounce or not, depending on if you actually caught it.",43
+"Playing ping pong. Against this hypothetical TV screen and then it's scanning you and your movement depending, and it'll say like the ping pong bounce or not, depending on if you actually caught it.",44
 "OK, I got you so. It's it's not quite literally kind of like I'm thinking like Xbox, you know, like that, right? Sort of.",0
 "The Kinect or whatever it's called, right?",0
 Yeah. Xbox. There is a Kinect that we can borrow. It's in the hardware lab.,0
-OK. Interesting.,47
+OK. Interesting.,48
 I'll put that. It's it's like gesture detection for like.,0
 "I know there's like I know for like body movements. We can also use like you guys know OSC, OSC data. It's like you can transmit data from like.",0
-"Like image detection or something so a camera can detect all your body movements and all your body like translations, positions, rotations into data and it’ll like transmit that data to whatever IP address that you want and that could be to your laptop or to your IPad or anything? So we can use that data based on your body movements for anything like the ping pong idea. That's just one way to go about it. Or we could quite literally just use the Kinect, I feel like it's straightforward.",43
+"Like image detection or something so a camera can detect all your body movements and all your body like translations, positions, rotations into data and it’ll like transmit that data to whatever IP address that you want and that could be to your laptop or to your IPad or anything? So we can use that data based on your body movements for anything like the ping pong idea. That's just one way to go about it. Or we could quite literally just use the Kinect, I feel like it's straightforward.",44
 "Alright, OK.",0
-"OK. So, like what? What general field are we all like thinking about going into? A game dev game like a game idea? Sort of. Or do you want to make something like a, cause like an idea that I had was maybe like sort of like a like just a hardware thing. So like like in the like orientation sort of thing, he gave an example where like someone made a like a like a camera like he just duct taped his phone camera on his like face and he just had, like, a bunch of flex sensors. And he just quite literally like just controlled the zoom on it just to, like, see how far people are or whatever it is. Like. It was a simple project, but apparently did really well. So I was thinking something like that. Like, we would have some, I guess, physical sensors and we could make the user interact that way and it translates to maybe your web page or it does something? I don't know this is an idea.",43
-Cool. Do we know? Like what category are we trying to go for like? Is it just hardware?,47
+"OK. So, like what? What general field are we all like thinking about going into? A game dev game like a game idea? Sort of. Or do you want to make something like a, cause like an idea that I had was maybe like sort of like a like just a hardware thing. So like like in the like orientation sort of thing, he gave an example where like someone made a like a like a camera like he just duct taped his phone camera on his like face and he just had, like, a bunch of flex sensors. And he just quite literally like just controlled the zoom on it just to, like, see how far people are or whatever it is. Like. It was a simple project, but apparently did really well. So I was thinking something like that. Like, we would have some, I guess, physical sensors and we could make the user interact that way and it translates to maybe your web page or it does something? I don't know this is an idea.",44
+Cool. Do we know? Like what category are we trying to go for like? Is it just hardware?,23
 "So if you haven’t looked at the DevPost, there are no like tracks per say",0
-"We're just trying to go for the top 12 then. OK, OK.",8
-Seems like it because most of the categories are blockchain.,13
+"We're just trying to go for the top 12 then. OK, OK.",9
+Seems like it because most of the categories are blockchain.,14
 True. Yeah. Blockchain and some like this LLM stuff.,0
 Yeah. OK. All right. So we have control robot with camera gestures object.,0
 This is from the chat. This is possible bad things on the.,0
-"To be fair, like if we're making a game, it's gotta be like sort of simple. You know what I mean? Because like, yeah.",43
-That's why the the gesture thing is like simple enough.,47
-"Yeah, exactly because like, if you make a like a game, it can get like super complicated and it's gonna take too much time.",35
+"To be fair, like if we're making a game, it's gotta be like sort of simple. You know what I mean? Because like, yeah.",39
+That's why the the gesture thing is like simple enough.,48
+"Yeah, exactly because like, if you make a like a game, it can get like super complicated and it's gonna take too much time.",36
 "Especially weekend. Yeah, for sure.",0
 "AI will be, I think it's like. If AI if we have like. Has anyone prepared any like data set?",0
 Is that for training?,0
@@ -79,12 +79,12 @@ We research it or we use LLM.,0
 There's that.,0
 Like something public domain I guess.,0
 OK. And I guess you could skip that. OK.,0
-"So we're feeling game Dev and computer vision. Sorry, I'm kind of like think more along that line",39
-Does anyone else want to add or subtract a topic? Yeah to what we're thinking about?,68
-Invested robotics will be overused. Like what does that mean?,44
-"Ohh, it's like everyone's going to be doing it in this hackathon so we.",50
+"So we're feeling game Dev and computer vision. Sorry, I'm kind of like think more along that line",40
+Does anyone else want to add or subtract a topic? Yeah to what we're thinking about?,28
+Invested robotics will be overused. Like what does that mean?,45
+"Ohh, it's like everyone's going to be doing it in this hackathon so we.",51
 "Well, there's this.",0
-"I I feel like I feel like a lot of people are gonna at least use hardware. They're they're preaching about hardware being like a big thing for this hackathon, so I think a lot of people will take advantage of that.",50
+"I I feel like I feel like a lot of people are gonna at least use hardware. They're they're preaching about hardware being like a big thing for this hackathon, so I think a lot of people will take advantage of that.",60
 "No, this is just my fears that I listed out, you don't have to.",0
 So they're not like we're not doing.,0
 This yeah.,0
@@ -93,51 +93,51 @@ That's it.,0
 "Yeah, I don't know if they'll be overused, honestly, but we'll see. OK. I think there's a lot of.",0
 "OK, wait.",0
 "Like, yeah, I spell for.",0
-Let's sync up. Sure. I don't know. It could be like something super small to solve a problem. Like what's a teeny problem?,27
-"Yeah, yeah, I like that.",47
+Let's sync up. Sure. I don't know. It could be like something super small to solve a problem. Like what's a teeny problem?,28
+"Yeah, yeah, I like that.",48
 "Is there a problem that you guys, maybe you want to like fix, but say like like sort of help? Like how to tie my laces?",0
-"OK, cool idea, tie laces. How would we go about?",47
+"OK, cool idea, tie laces. How would we go about?",48
 "That it's difficult, right you need.",0
 OK.,0
 I'm thinking about just two ways.,0
 "You know, you put your shoe so.",0
-"Put your shoe in one place and if something happens or like a robot that walks to you, but that’s just added complexity. Forget all of that. Forget the implementation.",43
+"Put your shoe in one place and if something happens or like a robot that walks to you, but that’s just added complexity. Forget all of that. Forget the implementation.",44
 If we can somehow get a robot to tie a knot,0
-Pretty fire.,47
+Pretty fire.,48
 Come on.,0
 "Hahah pretty fire, right? You can get like way more use cases from that. You can sell it like crazy.",0
 "OK, here's an. Idea. Well, it's like we have a robot that sorts like trash for recycling.",0
 I don't know. Sorts trash like like goes in the trash.,0
 "I know that there's already libraries for the the vision aspect of it. If you don't want to build from scratch, I know that there is previous like almost this exact idea on devpost that we can like, be inspired by.",0
-We can write that down. At least that's that's something.,47
-"I should. Wait, you're imagining something that picks our trash or like categorizes when you throw it inside the bin that categorize?",45
-"Like it will be like. It'll at least make recycling a bit easier because sometimes people may not know. OK, what do I do? I picture this is being like a universal bin. You can dump it out in and it sorts it itself OK. Like, that's just the idea.",43
-"See with that my question is, is it something that picks something up and puts it down in the basket? Is it that the baskets have like valves that change where it lands?",44
-"Yeah, I got you. I'm thinking maybe it'll be a just add an item. It'll have to move over the baskets because if it's a valve then I don't know how it's going to. We might have to add some like ducts or something. I feel like that then it might be complicated.",43
+We can write that down. At least that's that's something.,48
+"I should. Wait, you're imagining something that picks our trash or like categorizes when you throw it inside the bin that categorize?",46
+"Like it will be like. It'll at least make recycling a bit easier because sometimes people may not know. OK, what do I do? I picture this is being like a universal bin. You can dump it out in and it sorts it itself OK. Like, that's just the idea.",44
+"See with that my question is, is it something that picks something up and puts it down in the basket? Is it that the baskets have like valves that change where it lands?",45
+"Yeah, I got you. I'm thinking maybe it'll be a just add an item. It'll have to move over the baskets because if it's a valve then I don't know how it's going to. We might have to add some like ducts or something. I feel like that then it might be complicated.",44
 And that's what our the 3D printer would be for. I don't know.,0
 OK.,0
 But it's on here.,0
-"Here, alright, this is an idea anymore. I mean, it could be something. A really small idea like I don't know. Small problem. Something to clean your glasses. I don't know. Yeah. I just. No, I'm just like throwing stuff out. I don't really. Yeah.",38
+"Here, alright, this is an idea anymore. I mean, it could be something. A really small idea like I don't know. Small problem. Something to clean your glasses. I don't know. Yeah. I just. No, I'm just like throwing stuff out. I don't really. Yeah.",39
 How do you program like a homing feature?,0
 "Coming to what homing slide, what?",0
 "A homing feature. Like if I throw it that way, but I'm actually aiming for that way to like change trajectory to go where I'm aiming.",0
-"Think what you can do is yeah, for sure, depending on what sensor you use. I guess if you use a camera and you can track a ball and predict it trajectory, but usually you need 2 balls to kind of see it in a 3D space and create a vector that projects that you know the direction and then.",23
+"Think what you can do is yeah, for sure, depending on what sensor you use. I guess if you use a camera and you can track a ball and predict it trajectory, but usually you need 2 balls to kind of see it in a 3D space and create a vector that projects that you know the direction and then.",24
 Sorry I'll just pick a.,0
 "You know, if you have some sort of thing that's like angling it, then you correct that vector according to what you sense with that camera or whatever sensor you're using. That's something you can do,.",0
 "What do you call those things that shoot the ball when you're playing a sport? One of those, but like an automatic aim, like a paddle? No, like. You know the the machine they like. Throw the baseballs when they practice pitching. Yeah. Yeah. But, like, with aim.",0
 OK.,0
 Aiming,0
-"Yeah, I think. Like when evaluating a hardware project, we can the difficulty of how hard that project is we can like break it down by looking at the the numbers, degrees of freedom, right. And so the more degrees of freedom there is, the harder the project will be, right. And I think we should limit ourselves to a certain degree of freedom. Right. So.",38
-What would be an example of a degree of freedom that's doable?,21
+"Yeah, I think. Like when evaluating a hardware project, we can the difficulty of how hard that project is we can like break it down by looking at the the numbers, degrees of freedom, right. And so the more degrees of freedom there is, the harder the project will be, right. And I think we should limit ourselves to a certain degree of freedom. Right. So.",39
+What would be an example of a degree of freedom that's doable?,22
 I say anything more than one or two is pretty hard.,0
 What is an example of one or two degrees?,0
-"So something that just rotates is 1 and then anything like with two joints, that's two degrees of freedom. So degrees of freedom is just like how many variables do you need to to describe the position of something? Right. So because with every increased degree of freedom, the math becomes more complicated, but the hardware required also scales, right? Yeah.",24
+"So something that just rotates is 1 and then anything like with two joints, that's two degrees of freedom. So degrees of freedom is just like how many variables do you need to to describe the position of something? Right. So because with every increased degree of freedom, the math becomes more complicated, but the hardware required also scales, right? Yeah.",25
 OK.,0
-"So I mean, I think like limiting ourselves will help because like if we do something too ambitious like we might not even get like half halfway through.",10
+"So I mean, I think like limiting ourselves will help because like if we do something too ambitious like we might not even get like half halfway through.",11
 "Yeah, for sure.",0
-Right. And I think like completing a project is better than going halfway and like giving up.,10
+Right. And I think like completing a project is better than going halfway and like giving up.,11
 What chore do we have that's like one movement to complete? Cause I was thinking like dishes.,0
-"OK, I don't think we need to lend ourselves in our thinking, but rather just like the solutions we can come up with. OK, they should be like simple right in terms of mechanisms at least.",38
+"OK, I don't think we need to lend ourselves in our thinking, but rather just like the solutions we can come up with. OK, they should be like simple right in terms of mechanisms at least.",39
 I I guess my confusion is what are examples of simple?,0
 If it's.,0
 Are examples simple enough?,0
@@ -156,37 +156,37 @@ That's nice. That's actually pretty handy.,0
 OK.,0
 Right.,0
 So now we're at too easy what's in the middle?,0
-"Well, I think. Like we don't have to think about when necessary the solution is like we can start just by thinking about what is the problem we’re not solving right? And then we come up with asimple solution. But I'm not like a super good ideas guy, so I'm just like. Any inspiration?",81
+"Well, I think. Like we don't have to think about when necessary the solution is like we can start just by thinking about what is the problem we’re not solving right? And then we come up with asimple solution. But I'm not like a super good ideas guy, so I'm just like. Any inspiration?",82
 "That's good of inspiration, at least.",0
-"Well, you might want to remember this one of the sponsors is VM. So VM has like a bunch of robotics and a lot of APIs to do a lot of computer vision stuff very easy. That's good. Yeah. So, like a lot of pre growth stuff that we can use. So for example like they give you cameras they give you like motors like wheels that kind of thing mobility and like physical actions. So like for example. Because I went for like another hackathon with your sponsoring and the demo was like the demo application is this like tray bot that just goes to human beings as if when it finds human beings and gives you a food item, or like turns away if you're like wearing a Pacman shirts and then yeah.",62
+"Well, you might want to remember this one of the sponsors is VM. So VM has like a bunch of robotics and a lot of APIs to do a lot of computer vision stuff very easy. That's good. Yeah. So, like a lot of pre growth stuff that we can use. So for example like they give you cameras they give you like motors like wheels that kind of thing mobility and like physical actions. So like for example. Because I went for like another hackathon with your sponsoring and the demo was like the demo application is this like tray bot that just goes to human beings as if when it finds human beings and gives you a food item, or like turns away if you're like wearing a Pacman shirts and then yeah.",63
 "Yeah, yeah.",0
-"So that kind of tech is really difficult to from scratch, but we have it pre built so you can include that if you're worried about complexity.",6
-But do you know how to like go about using it? Because I've I I've never experienced like that the.,81
-"They have a workshop later, but like also according to like, I watched the workshop last night. It seems very simple like yeah, almost purely software, and like a bit of like mechanical testing and they give you a lot of functionality. Just in software. OK, OK, yeah. That's just to unblock you guys if like complexity of like task is an issue.",69
+"So that kind of tech is really difficult to from scratch, but we have it pre built so you can include that if you're worried about complexity.",7
+But do you know how to like go about using it? Because I've I I've never experienced like that the.,82
+"They have a workshop later, but like also according to like, I watched the workshop last night. It seems very simple like yeah, almost purely software, and like a bit of like mechanical testing and they give you a lot of functionality. Just in software. OK, OK, yeah. That's just to unblock you guys if like complexity of like task is an issue.",70
 "Yeah, yeah, yeah.",0
 Problem wise doesn't help us at all.,0
 We're putting each other. I'm going to finish.,0
 "Trying to think about what I struggle with, but honestly just like can't wait, can't wake up in the morning like stuff like that. It's not like anything that’s. You can think about that.",0
-"We could. We could have like someone in my school made a like a virtual assistant, their own virtual assistant. I don't know how they they they used PS5JS and Arduino. I don't know how, but they did that through a server. And it was quite simple. It was just for a few buttons. Like I don't know, it sets an alarm and when he wakes up. It it obviously wakes them up and then it tells them like whether it's something I don't know. I don't know how he did that. You should have asked but.",37
+"We could. We could have like someone in my school made a like a virtual assistant, their own virtual assistant. I don't know how they they they used PS5JS and Arduino. I don't know how, but they did that through a server. And it was quite simple. It was just for a few buttons. Like I don't know, it sets an alarm and when he wakes up. It it obviously wakes them up and then it tells them like whether it's something I don't know. I don't know how he did that. You should have asked but.",38
 Think you can run?,0
 Google Assistant or like one of them to make a template. Yeah. Do you remember the accountability?,0
 Life. Yeah. Like an assist. Yeah.,0
 Oh yeah.,0
 The project that I. Told you on the bus.,0
 RFID tags.,0
-"Yeah, cause he said about waking up. I I did a project. The part that's relevant here is RFID tags for accountability. So if the user needs to keep brushing their teeth and needs to keep drinking water but they don't do it, so the RFID tag is at the mirror is at the fridge, the alarm will not shut off until they go to the fridge.",37
+"Yeah, cause he said about waking up. I I did a project. The part that's relevant here is RFID tags for accountability. So if the user needs to keep brushing their teeth and needs to keep drinking water but they don't do it, so the RFID tag is at the mirror is at the fridge, the alarm will not shut off until they go to the fridge.",38
 Wow. Wow.,0
 "So like, yeah, so.",0
 Motivation. Annoying motivation.,0
-"It works but in our case, something along the lines of in the hypothetical universe we are all roommates, and then you were assigned to take up the trash, but the trash was not taken out. How do I tell you? And then the RFID tag could be or a.",43
-That's pretty cool.,47
+"It works but in our case, something along the lines of in the hypothetical universe we are all roommates, and then you were assigned to take up the trash, but the trash was not taken out. How do I tell you? And then the RFID tag could be or a.",44
+That's pretty cool.,48
 "Like we could have RFID hypothetical RFID's throughout our shared apartment of like this is tap this if you're done with the laundry, tap this if you did the dishes right, something that would add functionality could be a a weight sensor at the bottom of the trash can so that at a certain",0
 So if you pick it up.,0
 no if it passes a certain weight that means the trash needs to be taken out.,0
 "Oh, OK.",0
 "And then we could add software level functionality of like there is a list of who's in charge of what? Every day it will check who's like, who is supposed to do that trash. Only that person gets texted to do the trash.",0
-I like this idea. I think that's cool.,47
-"I I was actually thinking of it and I was like it's already her idea. So yeah, yeah.",85
+I like this idea. I think that's cool.,48
+"I I was actually thinking of it and I was like it's already her idea. So yeah, yeah.",86
 It's a. It's a. It's like a creative idea.,0
 It is.,0
 Have you guys used the app called alarm me? No oh my god don't use this app.,0
@@ -206,14 +206,14 @@ It kind of. It woke me up.,0
 "Anyway. But anyway, yeah, not a slight detour, but I really like this idea. I think this so.",0
 "And it fits our story, because we're all from or three of us are from [North American city]. So we can just say oh we did the things.",0
 "So how we how do we go about that? And so yeah, so.",0
-"So this is it, the same thing where you have RFID tags to log activities. Is that the main core idea?",44
-"So this would strip away because. My healthcare one was super customizable, but here we already know what to expect. We know that they got a sweep, we know they got to take up the trash. We know they got to. Unload the dishwasher. It's like the same chores. We don't have to. Customize anything so. That that part is at least simpler.",45
+"So this is it, the same thing where you have RFID tags to log activities. Is that the main core idea?",45
+"So this would strip away because. My healthcare one was super customizable, but here we already know what to expect. We know that they got a sweep, we know they got to take up the trash. We know they got to. Unload the dishwasher. It's like the same chores. We don't have to. Customize anything so. That that part is at least simpler.",46
 "Yeah, for sure, because that way we can measure it, we can quantify it like the trash thing, she said. Like, yeah, goes down some weight. We can, yeah.",0
 You could even like.,0
 OK.,0
 "But for that we would have to get, we would have to, I guess request for some things like a pressure sensor. Well, depends. Yeah, yeah.",0
 "We would, yeah.",0
-"Wait, so the person? So the idea is for the trash can trash just to understand is that we have like a presence that tells us when the trash is full and then notify somebody and then they can log it clearing it out? That’s my understanding.",45
+"Wait, so the person? So the idea is for the trash can trash just to understand is that we have like a presence that tells us when the trash is full and then notify somebody and then they can log it clearing it out? That’s my understanding.",46
 Right. So it's kind of like by the trash can at this before my.,0
 "We don't. We don't have to log any of it. I don't. Because we could simplify it to just be notified if you got to do a thing and then whether or not you did. The thing is, is just like whether you turned off the notification or not.",0
 So I think. It's called.,0
@@ -236,33 +236,33 @@ It yeah. No part of kitchen.,0
 The kitchen is.,0
 "Very brokering. Yeah, kitchen is.",0
 "Yeah, exactly like that includes like fridge, the stove, the cabinet, all the food you know like.",0
-"We could make it so that like it's not fully automated, but it's like one step easy user experience kind of thing. We could make it so the hypothetical user experience would be the like the person set up the tags which would be a little bit of work. But like in in in our kitchen there is a tag for the stove, there’s a tag for the dishwasher, and then let's say the dishwasher is full, but hasn't been. What do you call it? Like run.",43
+"We could make it so that like it's not fully automated, but it's like one step easy user experience kind of thing. We could make it so the hypothetical user experience would be the like the person set up the tags which would be a little bit of work. But like in in in our kitchen there is a tag for the stove, there’s a tag for the dishwasher, and then let's say the dishwasher is full, but hasn't been. What do you call it? Like run.",44
 OK.,0
-"If you know that you weren't assigned but you don't know who was actually supposed to take it out, you can just tap your phone on it and then the sent the text will automatically be sent to whoever was actually supposed to throw it out to load the dishwasher. But that like that part's under the hood. So like all I did was tap my phone, but under the hood it's already figuring out who was actually supposed to take it out. Let's send a text just to that person.",43
+"If you know that you weren't assigned but you don't know who was actually supposed to take it out, you can just tap your phone on it and then the sent the text will automatically be sent to whoever was actually supposed to throw it out to load the dishwasher. But that like that part's under the hood. So like all I did was tap my phone, but under the hood it's already figuring out who was actually supposed to take it out. Let's send a text just to that person.",44
 "OK. OK, you.",0
 Got sure.,0
 "So just accountability in that sense, yes.",0
-"OK, so this idea is, to clarify, people, do people see things as not done? The house, like unclean floors, fill trash cans, et cetera, and they tap on it to notify and whoever's responsible accountable that's there. You're right. OK. And then what if we add, like, a layer where the if the person actually does it? Is this even worth at that point? No. I'm thinking of like if if the person actually does it, then they tap on it again and like logs for that specific reason.",44
+"OK, so this idea is, to clarify, people, do people see things as not done? The house, like unclean floors, fill trash cans, et cetera, and they tap on it to notify and whoever's responsible accountable that's there. You're right. OK. And then what if we add, like, a layer where the if the person actually does it? Is this even worth at that point? No. I'm thinking of like if if the person actually does it, then they tap on it again and like logs for that specific reason.",45
 "Okay, I think we would have to add a lot of functionality based on like OK if it's locked, when does it turn on again? Like when is it time to do this?",0
 And go.,0
 I realized that if you were able to like things where.,0
 "Here, here, here, solid.",0
 A lot of privacy. Like when you said that.,0
 Would you like to put this. Into the blockchain and then call it a blockchain app.,0
-"No, like for real. We could make it a hardware blockchain, which I doubt anyone will do",50
+"No, like for real. We could make it a hardware blockchain, which I doubt anyone will do",51
 A hardware blockchain.,0
 So how would that work?,0
-"Like so. OK, but this doesn't line up with what's just been discussed. So what is more ideal is like you want to have a system where you want to prove that everyone is doing the work they're doing. Yeah, like around the house. So it can be RFID tags. It can be even like QR codes, but like basically, is when I do something, I will go and like scan it and then it signs basically that I did this transaction and creates an NFT. Easy as that. And it can only be created by me and it can only be created one person and like nobody can like. Basically nobody can like go and do it. That's the that's it's not a really practical thing, but it's a very good angle at blockchain, is what I'm saying. So if we can add like an actual use case for this, like where it's like compelling enough. I think we have like a pretty good like which what I'm trying to think of like what is the way to like make this like oh shit, this is definitely needed like this is this will help me so much. Because just that blocking my space is not that necessary, yeah. Yeah. So I was thinking like maybe we add a camera that just detects when the person like or like something like that I don't know. Like, OK, like what if a camera detects when someone does it and then only signs it if it's the actual person that's supposed to.",49
+"Like so. OK, but this doesn't line up with what's just been discussed. So what is more ideal is like you want to have a system where you want to prove that everyone is doing the work they're doing. Yeah, like around the house. So it can be RFID tags. It can be even like QR codes, but like basically, is when I do something, I will go and like scan it and then it signs basically that I did this transaction and creates an NFT. Easy as that. And it can only be created by me and it can only be created one person and like nobody can like. Basically nobody can like go and do it. That's the that's it's not a really practical thing, but it's a very good angle at blockchain, is what I'm saying. So if we can add like an actual use case for this, like where it's like compelling enough. I think we have like a pretty good like which what I'm trying to think of like what is the way to like make this like oh shit, this is definitely needed like this is this will help me so much. Because just that blocking my space is not that necessary, yeah. Yeah. So I was thinking like maybe we add a camera that just detects when the person like or like something like that I don't know. Like, OK, like what if a camera detects when someone does it and then only signs it if it's the actual person that's supposed to.",0
 But how would you check if that was the actual person's face detection?,0
-"I that would be the biggest problem, so whether it can identify humans. UM. I will actually just go to wherever the VM workshop is, ask them what we can do with that because from what I know the example app you can identify objects and images very easily. I just know how powerful that is for human beings. So yeah, that would be right decent hack. But yeah, that's just one way.",62
+"I that would be the biggest problem, so whether it can identify humans. UM. I will actually just go to wherever the VM workshop is, ask them what we can do with that because from what I know the example app you can identify objects and images very easily. I just know how powerful that is for human beings. So yeah, that would be right decent hack. But yeah, that's just one way.",67
 OK.,0
 "No, this will actually. This is actually a pretty good use case in reality because in my apartment we have one guy who does this who doesn't accountability check and sounds like you do this. You didn't do this. You do this and he's like super straightforward like to the point. So you'll trust him. Like so. This actually makes sense to me. A lot, yeah.",0
-But there is no wow to it.,49
-"Yeah, we, we have the magical tech we have the maybe the it works part, we need the.",59
+But there is no wow to it.,50
+"Yeah, we, we have the magical tech we have the maybe the it works part, we need the.",60
 "This is this. This begs the question, I have a phone. I don't have one. As you build the. What happened? Other pocket. Sorry, because I was gonna. I lost my train of thought. Never mind, sorry.",0
 Oh man.,0
 You don't understand. I mean to say that as if it's like a difficult thing really is. ,0
-"So like what I’m picturing is right for every like from what I've seen, whenever you have a hackathon and it's successful, it matches like 3 circles which is like one is is like technically magical. It can seem complex, it doesn't have to be. Like when OpenAI I first came out, it was like magic, although it was just do this for me. The next thing you have to do is that make sure it works. And the third thing actually that I've seen is that you have to be able to pitch it. Are you using? Make it like why we're like the judge care about it. Yeah. So for this current idea, I can see these two. I can't see this, which is like why I'm confused right now.",59
+"So like what I’m picturing is right for every like from what I've seen, whenever you have a hackathon and it's successful, it matches like 3 circles which is like one is is like technically magical. It can seem complex, it doesn't have to be. Like when OpenAI I first came out, it was like magic, although it was just do this for me. The next thing you have to do is that make sure it works. And the third thing actually that I've seen is that you have to be able to pitch it. Are you using? Make it like why we're like the judge care about it. Yeah. So for this current idea, I can see these two. I can't see this, which is like why I'm confused right now.",60
 What are you missing? The pitch?,0
 This area missing picture. Why would people do this?,0
 Why would people do the blockchain version of the roommate assistant?,0
@@ -271,7 +271,7 @@ We have to add some functionality to make it pitchable but I feel.,0
 "I mean, I'm.",0
 It's in the wrong backpack.,0
 "No, I'm not too worried about it because I feel like we can use QR codes very easily.",0
-"I thought of another idea. It's pretty simple, but it's just for drinking water. A lot of people. Maybe they don't drink 3 to 4 liters a day, so we could put some sort of sensor on the bottle just to measure your water intake.",43
+"I thought of another idea. It's pretty simple, but it's just for drinking water. A lot of people. Maybe they don't drink 3 to 4 liters a day, so we could put some sort of sensor on the bottle just to measure your water intake.",44
 Whether water depletes down beam tells you. Drink water and then something. This is an idea or?,0
 "Do that except the first question is like, what if I don't drink my bottle, I drink 1 cup? It's like it's a it's not a technical question. It's like, a usability question.",0
 I think that already exists. Like they're bottles that do that.,0
@@ -280,28 +280,28 @@ I think that already exists. Like they're bottles that do that.,0
 Brainstorming is OK.,0
 "You know, technically.",0
 Small problems for you?,0
-"Yeah, but it's interesting like. Hackathon the problems we're trying to solve that hackathon is not the same as like a problem like you might just want to sell a product, but it's very different.",59
-"Like it doesn't need to be a problem as well, it could quite literally just be something for fun, like it doesn't need to.",12
+"Yeah, but it's interesting like. Hackathon the problems we're trying to solve that hackathon is not the same as like a problem like you might just want to sell a product, but it's very different.",60
+"Like it doesn't need to be a problem as well, it could quite literally just be something for fun, like it doesn't need to.",13
 Right.,0
 "Yeah, it could. Yeah, it.",0
-"It it definitely could, this is for winning",11
+"It it definitely could, this is for winning",12
 Yeah. Oh.,0
 "A winning. Yeah, like, yeah, this is not for like hackathon and that's whatever you want",0
 "Yeah, OK, that's fine.",0
-"If we're doing it for fun, I was thinking, you know, the Tom and Jerry traps were like, it's so complicated and all it does is just, like, drop a cheese or whatever. There’s a word for. It like some kind of machinations but machine machine but basically but you get the idea of the like super complicated. Yeah, exactly that but an alarm sort of wake you up.",12
+"If we're doing it for fun, I was thinking, you know, the Tom and Jerry traps were like, it's so complicated and all it does is just, like, drop a cheese or whatever. There’s a word for. It like some kind of machinations but machine machine but basically but you get the idea of the like super complicated. Yeah, exactly that but an alarm sort of wake you up.",44
 Yeah. And then it just does like.,0
 "But a bunch of different cogs and wheels to eventually just like I don’t know, slap you in the face. That's robotics. That's one degree of freedom it goes.",0
-"Yeah, yeah, yeah. I mean, we can start from like big topics of like what we're interested in and then branch off of that. And then like like we could just write some big topics on there and then. OK, see.",27
-"Well, what I what I know? And what I know is making games that hardware. That's what I know.",81
+"Yeah, yeah, yeah. I mean, we can start from like big topics of like what we're interested in and then branch off of that. And then like like we could just write some big topics on there and then. OK, see.",28
+"Well, what I what I know? And what I know is making games that hardware. That's what I know.",82
 "OK, there you go.",0
 "Like games, games and hardware? Yeah.",0
 What else?,0
-"Processing, PJIS, that sort of stuff.",81
+"Processing, PJIS, that sort of stuff.",82
 Anyone else?,0
 "Yeah, I mean, if anyone has no, no stuff, throw away. That's really the stuff I know.",0
-"Yeah, you could put down robotics, 3D Printing stuff and then mechanical like mechanisms and stuff. If you want to do and computer vision but like that's pretty specific though.",81
-"I'll add here Web, mobile. I don't have like big topics that I'm particularly drawn to. I'm just like a Swiss knife anywhere. Yeah.",81
-"Mine's web, mobile blockchain, blockchain.",81
+"Yeah, you could put down robotics, 3D Printing stuff and then mechanical like mechanisms and stuff. If you want to do and computer vision but like that's pretty specific though.",82
+"I'll add here Web, mobile. I don't have like big topics that I'm particularly drawn to. I'm just like a Swiss knife anywhere. Yeah.",82
+"Mine's web, mobile blockchain, blockchain.",82
 I feel like we had pretty much everything,0
 "Feels kind of, which makes it harder.",0
 "Yeah, literally, consensus is hard.",0
@@ -314,23 +314,23 @@ Say that's pretty solid.,0
 It's a lot of lines though.,0
 "This up, down and.",0
 "Oh wait, I kind of forgot. Yeah. No, I can't read. It. Thank you. Treating this like a notebook is just like angles everywhere.",0
-How long are you guys going to be up for?,35
-"Until 3 or 4. OK, that's realistic.",35
-It depends on our like progress.,35
-"Yeah, yeah. I think we should at least have the idea before.",33
-"Yeah, like start coding and like do a little bit like soon. I want to attend a workshop, like soon",33
+How long are you guys going to be up for?,36
+"Until 3 or 4. OK, that's realistic.",36
+It depends on our like progress.,36
+"Yeah, yeah. I think we should at least have the idea before.",34
+"Yeah, like start coding and like do a little bit like soon. I want to attend a workshop, like soon",62
 That's that's fair.,0
 OK,0
-"Oh, OK. But I also obviously want to contribute.",14
+"Oh, OK. But I also obviously want to contribute.",15
 This when's the workshop 11?,0
 Its at 11:30,0
 Which one?,0
 Just intro the machine learning.,0
 Cool. Nice. OK.,0
-Can we fast track this in any way?,67
+Can we fast track this in any way?,68
 OK,0
 OK. We don't care about.,0
-"I mean, I heard a really good idea. I don't know if this is going to inspire it. I mean, they're doing it so. I don't think we should do it, but they're like doing building blocks for AI so you know how you build an AI model, but then they're doing like they're there is a just language called like scratch or something where it's just basically, yeah, like build code being like blocks but doing. But they're doing that for like an AI model. So like, you build that in blocks. Which I think they're going to win.",50
+"I mean, I heard a really good idea. I don't know if this is going to inspire it. I mean, they're doing it so. I don't think we should do it, but they're like doing building blocks for AI so you know how you build an AI model, but then they're doing like they're there is a just language called like scratch or something where it's just basically, yeah, like build code being like blocks but doing. But they're doing that for like an AI model. So like, you build that in blocks. Which I think they're going to win.",51
 That's a start up.,0
 "Just kind of, yeah.",0
 That's not a hackathon project. That's a start up.,0
@@ -338,43 +338,43 @@ That's really.,0
 "I don't exist, but it's interesting, yeah.",0
 It's very interesting.,0
 It does exist in like seed stage because people haven't like mastered it yet. There's a policy for it.,0
-"Yeah, I can talk about projects that I want to do, but are aren't realistic for hackathon and that could inspire stuff. For example, I want to do.",55
+"Yeah, I can talk about projects that I want to do, but are aren't realistic for hackathon and that could inspire stuff. For example, I want to do.",39
 "Go, go.",0
-"Slicing for five axis, slicing for a like 5 axis 3D printer. So you know how in regular 3D printing we have 3 axes, so XY and Z. Yeah, but in a 5 axis, your print head is able to move like like in orientations. So like pitch and yeah so it rotates and what it's able to do is for example, it's able to do so like I want to print a curve.",43
+"Slicing for five axis, slicing for a like 5 axis 3D printer. So you know how in regular 3D printing we have 3 axes, so XY and Z. Yeah, but in a 5 axis, your print head is able to move like like in orientations. So like pitch and yeah so it rotates and what it's able to do is for example, it's able to do so like I want to print a curve.",44
 So it rotates.,0
-"What it's able to do is print this way rather than printing like this and moving in the curve. So 5 axis slicing. That's cool is like something that's like not very developed, and they're all pretty crappy. So something like that can be improved, and something else I want want to build outside of hackathon, that inspiration, nonetheless, is like a gym for like training robots. And like, I mean, I just want to do it so I. And see how to build it. But basically you know how, like in reinforcement learning like you have to have an environment that kind of simulates the real world and so that's what the gym is basically. And then building that building 1 from ground up would be cool. Just ideas, throwing them out there.",43
+"What it's able to do is print this way rather than printing like this and moving in the curve. So 5 axis slicing. That's cool is like something that's like not very developed, and they're all pretty crappy. So something like that can be improved, and something else I want want to build outside of hackathon, that inspiration, nonetheless, is like a gym for like training robots. And like, I mean, I just want to do it so I. And see how to build it. But basically you know how, like in reinforcement learning like you have to have an environment that kind of simulates the real world and so that's what the gym is basically. And then building that building 1 from ground up would be cool. Just ideas, throwing them out there.",44
 OK.,0
-What else is there?,27
-"You guys, do you think it's OK if I go for the workshop? I'll be back in an hour, but do. You think is it already?",61
+What else is there?,28
+"You guys, do you think it's OK if I go for the workshop? I'll be back in an hour, but do. You think is it already?",62
 Past that time.,0
 It is OK. And I'm hoping I can make it.,0
 I think it's fine. You can probably come up with something and then.,0
-Do you want? I I. It's OK. I can also stay like its no issue.,14
+Do you want? I I. It's OK. I can also stay like its no issue.,15
 "I mean, I I don't know.",0
-"OK, how attached are you to the idea? Like if you're like, if the three of us can keep brainstorming and then you catch up once you come back from your workshop. Because I think before, before we split up for the night, or, like, do whatever we want to do,",15
+"OK, how attached are you to the idea? Like if you're like, if the three of us can keep brainstorming and then you catch up once you come back from your workshop. Because I think before, before we split up for the night, or, like, do whatever we want to do,",34
 Should have this have the idea,0
 we should,0
 "No, that's that's important for sure. OK.",0
 Yeah. And then I'll be like all through the title. ,0
-I'm I'm I'm really open. I'm fine with it. I'm flexible.,84
+I'm I'm I'm really open. I'm fine with it. I'm flexible.,85
 Go learning your machine learning.,0
 "Learn like the machine. Probably go halfway through, right?",0
 "Like 10 minutes through. So, OK, alright, cool. But just keep me up.",0
 Go now. So you don't mind instruction.,0
-Keep me updated in case you guys need. Anything. OK. Yeah.,76
+Keep me updated in case you guys need. Anything. OK. Yeah.,77
 "Let's see. My confusing. Ohh I'm, I'm here I'm not. I'm not OK so my confusion is.",0
 "Well, maybe I'm color blind. Oh oh. Might have hit that by accident, sorry.",0
-"Like the ones on the bottom hardware robotics, 3D printing and mech are very physical and then games, computer vision processing and blockchain are the software side and I think a consensus could be made if we find a way to do something that's both hardware and software.",59
+"Like the ones on the bottom hardware robotics, 3D printing and mech are very physical and then games, computer vision processing and blockchain are the software side and I think a consensus could be made if we find a way to do something that's both hardware and software.",11
 "Of course, yeah.",0
 "But you need. You need tougher anyway, your hardware.",0
 "Well, yeah, you do. Yeah. So there's no avoiding any. But you can do software without hardware, right? So.",0
 That's how I get my degree.,0
-That's not as wow.,49
+That's not as wow.,50
 No it wouldn't.,0
 Like what the fuck?,0
-"I think my biggest concern is like if we do hardware like, are we going to be able to get the resources to do it? Because I feel like it’s going to be pretty competitive. Everybody's going to be fighting for the 3D printers, so you know, like if we design something in CAD like will we actually get to build it like that's a tough question, right?",66
-My expectation was more like you're you're our main hardware like the most hardware person out of all of us and they didn't want you to not have what you like doing in the project.,15
-"Yeah, yeah, yeah. Yeah. I mean, I'm OK with doing software like if because limitations, right? So.",14
+"I think my biggest concern is like if we do hardware like, are we going to be able to get the resources to do it? Because I feel like it’s going to be pretty competitive. Everybody's going to be fighting for the 3D printers, so you know, like if we design something in CAD like will we actually get to build it like that's a tough question, right?",67
+My expectation was more like you're you're our main hardware like the most hardware person out of all of us and they didn't want you to not have what you like doing in the project.,16
+"Yeah, yeah, yeah. Yeah. I mean, I'm OK with doing software like if because limitations, right? So.",15
 So what kind of software then would we want to build because I I limited mine?,0
 "I'm OK with like I'm OK with anything I've done mobile. No, actually I have not done any actual mobile projects, but I've done like web and then. That web, but outside of that I've done a lot of other projects not for Hackathon, so yeah. Look, I'm OK with building anything, really. Like it's about learning, not using skills you've used before, so right.",0
 So that that that removes one of our hurdles. We don't have to have hardware.,0
@@ -383,9 +383,9 @@ And just dress software and it's like a.,0
 World and then the.,0
 Now it's just like huge rabbit hole. Where do we go now?,0
 "Yeah. Because like, yeah, our ideas were based on hardware so far.",0
-"I mean, we could limit ourselves to hardware if that makes it easier for brainstorm, like right? Like.",27
-"Something that I haven't described yet. Do you guys know, have have you played Zelda before? And I know you haven't, but actually I think I can show you I brought my switch. But it's like I I did part of this project that I envisioned before, but I couldn't pull it off as well as I wanted to. So the Shika slate is the map and other tools, whatever of the last two Zelda games. One of one part that I really liked about it was wherever you've been, it keeps track of as well as how you got there. So the route or the path it like draws the path the way that I wanted to do that for us is our Google Maps history and just mapping our Google Maps history and how like we go about our day and recreating that and like so that's there's the map there's you would. Like take a picture of the universe with the Shika slate, so that would be like computer vision. If we want to make one project that everyone has their own part of. But yeah.",43
-Interesting,47
+"I mean, we could limit ourselves to hardware if that makes it easier for brainstorm, like right? Like.",39
+"Something that I haven't described yet. Do you guys know, have have you played Zelda before? And I know you haven't, but actually I think I can show you I brought my switch. But it's like I I did part of this project that I envisioned before, but I couldn't pull it off as well as I wanted to. So the Shika slate is the map and other tools, whatever of the last two Zelda games. One of one part that I really liked about it was wherever you've been, it keeps track of as well as how you got there. So the route or the path it like draws the path the way that I wanted to do that for us is our Google Maps history and just mapping our Google Maps history and how like we go about our day and recreating that and like so that's there's the map there's you would. Like take a picture of the universe with the Shika slate, so that would be like computer vision. If we want to make one project that everyone has their own part of. But yeah.",44
+Interesting,48
 Where I don't think I fully understand what that is.,0
 So like.,0
 "Actually, let me show you. Because switches need Wi-Fi.",0
@@ -399,20 +399,20 @@ I know the other places had like little humps over these so you don't trip over 
 Like I really like things that are modular. I'm trying to think if we can come up with something that's related to hardware or something or software that's like modular and you can.,0
 How can we?,0
 "Computer vision. What are problems? Trying to think of problems. Did you find them? yeah, there's there I saw a desk with like, full of snacks. Maybe it's gone, I don't know.",0
-"I have an idea, but it's dependent on how good the camera will be. You know color theory?",66
+"I have an idea, but it's dependent on how good the camera will be. You know color theory?",67
 OK.,0
-"And one application of that is, you know how this same left hand grey shirt looks different on different people with different skin tones. Like I was just thinking of computer vision applications and that's one way that we could do it. So like.",43
+"And one application of that is, you know how this same left hand grey shirt looks different on different people with different skin tones. Like I was just thinking of computer vision applications and that's one way that we could do it. So like.",44
 I don't know.,0
 Like color,0
 "Like a color counseling thing, where like these colors suit you!",0
-"Oh, that's cool, actually. I like that, OK. That's cool. Yeah, because I remember there was this thing where it's like. It's like in Korea or something. And then like you go and then like you have like a thing and yeah, yeah, yeah, yeah.",47
+"Oh, that's cool, actually. I like that, OK. That's cool. Yeah, because I remember there was this thing where it's like. It's like in Korea or something. And then like you go and then like you have like a thing and yeah, yeah, yeah, yeah.",48
 That's exactly what I was envisioning.,0
-"Yeah, yeah. OK. Actually, I like that. That's interesting color theory. So I feel like there's a certain, like there's a challenge to that too from the software side. But it's it would be interesting to try to replicate that sort of effect of like, you know, having that the the like the templates there and then like it you know projects onto your face somehow and then like creates that effect and see what you look like with that, you know, wearing that that item.",51
-I know that that exists because I know they do that for nail polish. OK. Like it's AR and they they they map the.,56
+"Yeah, yeah. OK. Actually, I like that. That's interesting color theory. So I feel like there's a certain, like there's a challenge to that too from the software side. But it's it would be interesting to try to replicate that sort of effect of like, you know, having that the the like the templates there and then like it you know projects onto your face somehow and then like creates that effect and see what you look like with that, you know, wearing that that item.",52
+I know that that exists because I know they do that for nail polish. OK. Like it's AR and they they they map the.,57
 "Yeah, they project it onto your fingers. Yeah, yeah.",0
 So a similar project would be project onto your shirt. What would you look like with this color sweater? Would it clash with your skin tone? What about your undertones? All that fun stuff.,0
-"Yeah. Yeah, I think that's very interesting. The CV [computer vision] part of that is interesting too, because like you have to understand, sort of physics to do that kind of reflection.",47
-Is it? Is it or is that straightforward like applying color theory?,53
+"Yeah. Yeah, I think that's very interesting. The CV [computer vision] part of that is interesting too, because like you have to understand, sort of physics to do that kind of reflection.",48
+Is it? Is it or is that straightforward like applying color theory?,54
 And what is it? If it was like?,0
 I have no idea.,0
 "It's just like what color suits you the best when you're wearing a shirt, for example, and then?",0
@@ -420,7 +420,7 @@ How do we know what is good?,0
 "I don't think we determine it, but it's rather they get a choice of, say, seeing themselves in, you know. Whatever.",0
 Oh yeah yeah,0
 "It's based on color theory, but like the the the part that we're implementing would just be the AR.",0
-"Yeah, honestly, we can't. We can even do that in like web and then do it as like a Chrome plugin if we can do it simple enough. Like I don't know about the AR part, that might be tough, but if we just work with like an image of yourself or something.",54
+"Yeah, honestly, we can't. We can even do that in like web and then do it as like a Chrome plugin if we can do it simple enough. Like I don't know about the AR part, that might be tough, but if we just work with like an image of yourself or something.",55
 Ohh as in like put it on the screen instead of putting it on the world.,0
 You just create a profile of yourself,0
 "Yeah. And you could even do like side profiles or something and then that because we're only dealing then with like 3 images, it makes it a lot easier compared to like a whole trying to do like virtual reality AR problem, right?",0
@@ -432,19 +432,19 @@ As I remember to turn this.,0
 "It's like the office, yeah.",0
 "Yeah. The only thing we're missing is the camera angle, the camera, the camera shots.",0
 So this the.,0
-"We can borrow, but even if even if we can't, if even.",66
+"We can borrow, but even if even if we can't, if even.",67
 Ohh I have a camera.,0
 If they don't give. Us ohh it better.,0
 "I bought one just in case, just in case the hardware run out like WOW prepared.",0
-"Oh wow. Damn. OK, so this. To reiterate again, this idea is getting people to try on different colors of clothes they want to get, and then see what's the best color fit for them? So like for an.",44
-"OK, wait. To clarify, because there's the AR, or like mapping it onto the person idea that we have, and there's the answering what color suits you.",45
+"Oh wow. Damn. OK, so this. To reiterate again, this idea is getting people to try on different colors of clothes they want to get, and then see what's the best color fit for them? So like for an.",45
+"OK, wait. To clarify, because there's the AR, or like mapping it onto the person idea that we have, and there's the answering what color suits you.",46
 "OK, sure.",0
 Like those are different levels.,0
 "Yeah, I think they're. I mean, they're two. Yeah. Yeah, yeah, yeah. They're two different. They're kind of different, right? Yeah. Yeah.",0
 "They're quite different, actually",0
 "Well, one one thing is like, you have to project the clothes. And then the second part is what color looks good. So the two separate problems on its own, but the one requires the other.",0
-"Yeah, both are not that easy though, yeah.",53
-The second one needs the first. So are we good with just mapping it on to then?,38
+"Yeah, both are not that easy though, yeah.",54
+The second one needs the first. So are we good with just mapping it on to then?,39
 "Yeah, I mean, how hard would that one be though?",0
 "Like mapping it onto somebody? Yeah, I don’t know.",0
 "Not mapping it onto somebody. Mapping it onto an image. We're not it, it’s not exactly AR so. Yeah, yeah, yeah.",0
@@ -453,26 +453,26 @@ Okay do you guys know any tools to do that?,0
 "I assume you have to use some sort of ML to learn what part of that image is clothes versus head or something, right?",0
 "Yeah, exactly. You do need fair bit of like engineering understanding to build that product in the 1st place. I don't know if it's already built it seemed it, I feel like it.",0
 It's probably there's probably things out.,0
-"There. Yeah. So if we can find that then, great. Then the problem becomes understanding what color fits in the best. But OK, I have. OK, so technically I'm OK. I have like usability questions like how how are we like theoretically, how are we going to be able to like predict what they like when there's like in my mind, there's so many factors like mood, timing, event, something gonna happen in my life, etcetera? You know?",48
-"I mean that part gets answered by the fact that it's color theory it's it's not like what what you like, it's what suits your skin tone like the the color theory of it is. Like so because. He he, he, he. Visualizes it. When I explain of like there are different clothes, different colored clothes on you and then they they like in this consultation, they they flip between this red or the the the darker red or the lighter red and like the the the the question of which suits you would be just adding a condition of is this are these clashing colors? Are there complementary colors? Are they like? Do you see this as its true color next to it? Or do you have the illusion of it that it's actually lighter or darker than it actually is? Like that parts color theory.",43
+"There. Yeah. So if we can find that then, great. Then the problem becomes understanding what color fits in the best. But OK, I have. OK, so technically I'm OK. I have like usability questions like how how are we like theoretically, how are we going to be able to like predict what they like when there's like in my mind, there's so many factors like mood, timing, event, something gonna happen in my life, etcetera? You know?",49
+"I mean that part gets answered by the fact that it's color theory it's it's not like what what you like, it's what suits your skin tone like the the color theory of it is. Like so because. He he, he, he. Visualizes it. When I explain of like there are different clothes, different colored clothes on you and then they they like in this consultation, they they flip between this red or the the the darker red or the lighter red and like the the the the question of which suits you would be just adding a condition of is this are these clashing colors? Are there complementary colors? Are they like? Do you see this as its true color next to it? Or do you have the illusion of it that it's actually lighter or darker than it actually is? Like that parts color theory.",44
 OK.,0
 You gotta see a video because it kind of works.,0
-"OK so. If it's color theory, then why do we, why do we care about what the user thinks?",44
+"OK so. If it's color theory, then why do we, why do we care about what the user thinks?",45
 "We're not asking what they think, we're showing them what they look like with what we're.",0
 "Like it's, I mean you can look at that, but it's basically like.",0
 "It's sort of subjective sometimes like you know some people just like certain colors, but. but it basically says OK like you look good in this color, but you don't look as good in the the other color.",0
 "It's it. I I'm also seeing like it's an application of computer vision of like color that's the, yeah, it's just color.",0
 "What would be interesting is like if we're able to sort of do like, get an image, but then sort of simulate like the lighting condition in from that image and then somehow have that color like change what the person looks like, like from like, reflections or whatever. Because like when I saw one of those videos like did the person's face look like brighter? They tried on different colors like when they tried flip the right color. So like I don't know what effect that is like.",0
-"That's that's. That's what I mean by like it's it's just color theory. It's there's the reflection of it. Where, like it, it bounces back on to the face of the user. But at the lowest level, it's how do you have you seen those optical illusions where, like let's say, the black and white checkers and then they're 2 grays and you think they're different grays, but it's only because of the colors they're next to that they look different, but they're actually the exact same shade of gray?",56
+"That's that's. That's what I mean by like it's it's just color theory. It's there's the reflection of it. Where, like it, it bounces back on to the face of the user. But at the lowest level, it's how do you have you seen those optical illusions where, like let's say, the black and white checkers and then they're 2 grays and you think they're different grays, but it's only because of the colors they're next to that they look different, but they're actually the exact same shade of gray?",57
 "Yeah, yeah.",0
-"OK. So to reclarify now... We use color theory. And computer vision to basically see. What the the persons colors are and use color theory in your mind? What's a good color fit for them? Is that. That's the idea. OK, I get that part.",44
-"This is the illusion that I was trying to explain. A&B are the exact same gray, but because of the colors around them, it looks like they're different grays, but they're the exact same shade of gray. That's what the color theory is of like. Does this gray look good on you, or does this gray look good on you? Is what we're trying to tell the user.",45
+"OK. So to reclarify now... We use color theory. And computer vision to basically see. What the the persons colors are and use color theory in your mind? What's a good color fit for them? Is that. That's the idea. OK, I get that part.",45
+"This is the illusion that I was trying to explain. A&B are the exact same gray, but because of the colors around them, it looks like they're different grays, but they're the exact same shade of gray. That's what the color theory is of like. Does this gray look good on you, or does this gray look good on you? Is what we're trying to tell the user.",46
 OK.,0
 Because their skin tone determines that.,0
-"OK. OK, so like a practical application would be we take their profiles, we do some computation back to get like what colors best fit and then from then on they can use this tool to project the clothes of that colour on them when they're buying or whatever, is that it getting right, OK.",87
-"Could be. I know one of the sponsors. What does Genesis do again? Another one of the sponsors. I think if if they're if they're commerce website we could we could tweak this to say like this, make them shop for this color e-commerce. If that's what they do, and I remember.",62
-We can keep thinking of other stuff too.,16
-"Yeah, yeah. I think I think my hunger is cutting in the brain.",70
+"OK. OK, so like a practical application would be we take their profiles, we do some computation back to get like what colors best fit and then from then on they can use this tool to project the clothes of that colour on them when they're buying or whatever, is that it getting right, OK.",88
+"Could be. I know one of the sponsors. What does Genesis do again? Another one of the sponsors. I think if if they're if they're commerce website we could we could tweak this to say like this, make them shop for this color e-commerce. If that's what they do, and I remember.",63
+We can keep thinking of other stuff too.,17
+"Yeah, yeah. I think I think my hunger is cutting in the brain.",71
 I'm staying until.,0
 It will be fun.,0
 "3:30 AM though. It turns out because the person that I'm staying with is volunteering in this event and their shift is from 12:00 to 3:30. So because I missed before 12, I got to go after 3:30.",0
@@ -483,20 +483,20 @@ It will be fun.,0
 Can you give me an example of the mechanics that you were talking about that you wanted?,0
 Like mech in general?,0
 What kind of projects can you make with that?,0
-"I've done like I've built like little robots. I built 3D printers. Like it's all very. Yeah, like not hackathon type projects I guess.",64
-"I'm trying to see if a use case could be a hackathon project. Even if the thing itself isn't. Another computer vision application that I tried before, but I never actually solved so it’s still up for the running, I wanted to make something that like measured something from an image. Like if I take a picture of a door, will it know how thick the door is or wide the door is? And I know that you need either multiple images or three cameras at the same time to be able to like see depth. So that would be.",43
+"I've done like I've built like little robots. I built 3D printers. Like it's all very. Yeah, like not hackathon type projects I guess.",65
+"I'm trying to see if a use case could be a hackathon project. Even if the thing itself isn't. Another computer vision application that I tried before, but I never actually solved so it’s still up for the running, I wanted to make something that like measured something from an image. Like if I take a picture of a door, will it know how thick the door is or wide the door is? And I know that you need either multiple images or three cameras at the same time to be able to like see depth. So that would be.",44
 Like so.,0
-"Yeah, like technologically a challenge.",53
+"Yeah, like technologically a challenge.",54
 "I mean, how thick it is? Oh, you want to see?",0
 "As in the width of, just measure something.",0
 "That you just you want. You just want to measure something you need like an object of reference. At least. Like there's no other way to do it really. Yeah, because you need at least one known variable. Like if you know, perhaps even the distance to the door. You might be able to calculate the the width of it, or you have a like for example a coin.",0
 I've seen the coining like put it next to the. Coin and then OK.,0
 "Exactly. You know, you might have done that for nails or something because I know people do that for nails and then they take off.",0
 "You know, I I made my nails match the [hackathon] website.",0
-"I mean, I think worse come to worse, we can pursue one of the sponsors. Like sponsor, what do you call them? Challenges. So we can look through those and see if we, you know, see anything we want to do. Sure. Yeah. There's no lack of things to do so. Yeah, VM. Oh, that's pretty good. VM Rover with Raspberry Pi and LIDAR for each member if we win",41
+"I mean, I think worse come to worse, we can pursue one of the sponsors. Like sponsor, what do you call them? Challenges. So we can look through those and see if we, you know, see anything we want to do. Sure. Yeah. There's no lack of things to do so. Yeah, VM. Oh, that's pretty good. VM Rover with Raspberry Pi and LIDAR for each member if we win",63
 You don't want any hardware kit?,0
 That we call most innovative eye tracking application.,0
-"Yeah, but they only have one eye, eye tracking glasses. That was a lot to read away, so I have no idea how they're doing.",66
+"Yeah, but they only have one eye, eye tracking glasses. That was a lot to read away, so I have no idea how they're doing.",67
 That prize? Don't they have 5 of?,0
 "Those OK, so those. Five are the only ones competing for that $1000 prize.",0
 "Yeah, we didn't enter the lottery, right?",0
@@ -504,22 +504,22 @@ That prize? Don't they have 5 of?,0
 ohh. Everyone's entered into.,0
 "Yeah. And then it was that you get notified if you win and then within the hour, if you don't pick it up. They re lottery.",0
 "That's crazy. I didn't know that. OK. So I guess gen, there's the genesis one, which I don't know.",0
-"Oh yeah, what does Genesis do?",41
+"Oh yeah, what does Genesis do?",0
 I don't know. Let's check what does Genesis do? Are there e-commerce? Omni channel customer experience and come OK.,0
 I'll be right back.,0
 Cohere. Onto the best of best use of code. Cohere isn't bad.,0
 "Coherence is NLP and because it's an MLH prize, there won't be a lot of competition for it.",0
 Salana Ethereums infinite garden.,0
-What kind of use cases would we have for LLM's if that if we're going for a category?,27
+What kind of use cases would we have for LLM's if that if we're going for a category?,28
 "I mean, there's so much stuff in, like assistance. Like I saw this Y Combinator project startup. They do. They did. But some sort of AI helper thing that like help you build like electrical circuits. And so like, you know, if you wanted an electrical circuit that does a certain task, you write it in and you'd be like, oh, I wanted to light up five LEDs in sequence or something, and it will build you a circuit. So like a lot of stuff is being done using LLMs to do that because I think what they're able to do is like first, go to like a text format and then translate that and then they add a layer to that. There, that’s actually doing like producing something like for example going from a text of like. This is how you do it but then they go from that and then to an actual on circuit. So would there like I don't know what they're using, but if they're using some LLM that's already built, they might be prompting it with like specific things to generate the output that they want, and then parse that into some sort of final thing, right? So that's something we could do, I guess. Yeah, if dental ML?.",0
-"I feel like, uh, LLMs have been explored a lot already, so a lot of these cases have already been fleshed out, yeah. I don't see a lot there.",50
-"Because I think sometimes it's just like you might have a really good idea, but then it's like, does it actually work? I think that's hard to do.",48
+"I feel like, uh, LLMs have been explored a lot already, so a lot of these cases have already been fleshed out, yeah. I don't see a lot there.",51
+"Because I think sometimes it's just like you might have a really good idea, but then it's like, does it actually work? I think that's hard to do.",49
 "Bro, we don't even know what we're making work yet.",0
 "Let me look at the hardware stuff. Do they have anything still? Because I think everybody. Just I think it opens now, right?",0
 I thought it's been open it's 12:09. Are they behind schedule?,0
 "But I think we start hacking at 12, right?",0
 Yeah. Now we can make our repos officially and stuff.,0
-"OK. Well, let's see what they have. Microcontrollers. Do we want to request some stuff or just get a bunch of servos to begin with? I mean, we might not even use them, but. Oh, I requested them.",59
+"OK. Well, let's see what they have. Microcontrollers. Do we want to request some stuff or just get a bunch of servos to begin with? I mean, we might not even use them, but. Oh, I requested them.",60
 Nice. Thank you.,0
 "You're welcome, but I don’t butI think we need some like modules to go with that one.",0
 You're just reserving the basic hardware stuff right?,0
@@ -532,56 +532,56 @@ Did you by any chance hear the object detection idea I had?,0
 Which one is it?,0
 A game to help kids clean their room. So scan once with the clean room looks like and then every time after that check if it matches that clean room.,0
 OK.,0
-"And then if we demo it, it could be as simple as I think one wow factor if we want to demo it could be are actually because you can dumb it down into we have an original image of what it's supposed to look like, and we're comparing what it actually already looks like right now to that original. So whatever is off if a thing is not in its container, something spilled, yeah.",43
-"Like finding, almost like finding differences, right? Yeah.",44
+"And then if we demo it, it could be as simple as I think one wow factor if we want to demo it could be are actually because you can dumb it down into we have an original image of what it's supposed to look like, and we're comparing what it actually already looks like right now to that original. So whatever is off if a thing is not in its container, something spilled, yeah.",44
+"Like finding, almost like finding differences, right? Yeah.",45
 "Yeah, exactly. And if we want to make it even more like usable, it would make sense for something like this to be on an Amazon Echo show. That's hardware",0
 Okay,0
 Cause like the echo would see the room and then display whether or not something is off. And it's it. It counts as a game counts as. Does it count as hardware? What did I say?,0
 Think is that hard. Not hardware CV.,0
 CV. Yeah. OK. So it's a game and it's CV.,0
 "Yeah, cool. So if I can build on top of that. So for demoing, I guess we're just.",0
-"Like for demoing, we could have. Let's say random stuff like a water bottle or lanyard in front of our laptop webcam, and then there's an order like water bottle, webcam, phone that is supposed to be the clean room. And then we jumble it up and show and demonstrate that, hey, it's recognizing that something's wrong, and then we rearrange it in front of the judges. Yeah. And then rescan it. It sees that they’re more or less the right order. Boom. Demonstration.",43
+"Like for demoing, we could have. Let's say random stuff like a water bottle or lanyard in front of our laptop webcam, and then there's an order like water bottle, webcam, phone that is supposed to be the clean room. And then we jumble it up and show and demonstrate that, hey, it's recognizing that something's wrong, and then we rearrange it in front of the judges. Yeah. And then rescan it. It sees that they’re more or less the right order. Boom. Demonstration.",44
 Yeah,0
 I'm just looking at the hardware list to see with the stuff we have potentially what we can build.,0
-"Yeah, for sure. So this one was a little promising. The last thing I said was it promising? The clean room thing.",48
-"Sure. I think it's suitable, yeah.",48
+"Yeah, for sure. So this one was a little promising. The last thing I said was it promising? The clean room thing.",49
+"Sure. I think it's suitable, yeah.",49
 OK. What other promising things? What other ones did we say were OK?,0
 The color theory one maybe,0
 "Anything else? OK, three or somewhere? There is my third marker.",0
 "OK, we can just get a bunch of stuff from there, OK? OK, they have an accelerometer. Interesting.",0
-"Very, very unrelated, but a mechanics. Or robotics, or whichever it's thing that I think I'd want to make a rigged beyblade. Cool. Like, just be able to control where the Beyblade spins and goes",37
-"that'll be sick. I think what we can do is you have the thing kind of hollow, and then you have some sort of weight and you just like control where the weight is angling and you will also have some sort of sensor probably an accelerometer to detect whether or not your level. And then you can detect your angle of change and then by changing the way you can change that angle. And then go to where you want to go. Which is cool.",47
-"See, you thought that all the all the way through.",71
-"Yeah, I'm not an ideas guy, but I can materialize your ideas.",81
+"Very, very unrelated, but a mechanics. Or robotics, or whichever it's thing that I think I'd want to make a rigged beyblade. Cool. Like, just be able to control where the Beyblade spins and goes",38
+"that'll be sick. I think what we can do is you have the thing kind of hollow, and then you have some sort of weight and you just like control where the weight is angling and you will also have some sort of sensor probably an accelerometer to detect whether or not your level. And then you can detect your angle of change and then by changing the way you can change that angle. And then go to where you want to go. Which is cool.",44
+"See, you thought that all the all the way through.",72
+"Yeah, I'm not an ideas guy, but I can materialize your ideas.",82
 That's pretty solid.,0
 "Yeah, we have a bunch of stuff I guess we can use, but I don't see anything that's like because I'm looking for something where we can connect like multiple servos together. And then that would make it easy to like that would allow us to control like multiple things at the same time. But it seems like they don't really give us anything like that, so we might be limited as to how many servos we can control and make it annoying, like we could probably do a lot, but then you have to wire each one up separately. It's kind of annoying.",0
-By servos you mean like the Arduinos for the Raspberry pies and those motherboard things?,20
+By servos you mean like the Arduinos for the Raspberry pies and those motherboard things?,21
 Yeah. Let me look at the Jetson Nano. How many? How many? Analog pins it has,0
-"Maybe they have a couple. Ohh no input but but it would be cool. So going off of like one of the ideas with, like the trash segregated thing, like, we could do some sort of like very simple vision stuff and then just have like a little robot that picks things and then places them or something like you know a good project to like incorporate a little bit of both. But then I think the other side of that, it's just like.",40
+"Maybe they have a couple. Ohh no input but but it would be cool. So going off of like one of the ideas with, like the trash segregated thing, like, we could do some sort of like very simple vision stuff and then just have like a little robot that picks things and then places them or something like you know a good project to like incorporate a little bit of both. But then I think the other side of that, it's just like.",41
 Can you hear me?,0
 "The picture part like what is the use of it because like people have done that, it's not a.",0
 What's up?,0
-"Hey, what did I miss?",77
+"Hey, what did I miss?",78
 "OK recap. The red determines which ideas kind of went further than the others. Not like their final but, we got a little more out of them. The object detection to check if the room is clean, that is both game and computer vision. The color theory which is like how do we explain this easily? Checking to see how that color shirt would look exactly on your skin tone. You know how like Shades look a little different depending on.",0
-That's cool. I like that.,47
+That's cool. I like that.,48
 Cool the roommate assistant. And you're trying to be greater.,0
 OK.,0
-"If it was me, like if I were to try and short list I I kind of like the the shirt idea, the room roommate assistant. Like, I feel like I I would like those too, yeah. The color your shirt was kind. Cool. Yeah, you could also do something like also like depending on like the weather or something, what would be the best outfit? Maybe like a I don't know hoodie or shirt or something like that.",7
-"That makes sense. That would add to the functionality. I think it would be a different direction but it would still be the same project, it would just be like OK, we're splitting it up amongst ourselves. We can all do different things.",14
+"If it was me, like if I were to try and short list I I kind of like the the shirt idea, the room roommate assistant. Like, I feel like I I would like those too, yeah. The color your shirt was kind. Cool. Yeah, you could also do something like also like depending on like the weather or something, what would be the best outfit? Maybe like a I don't know hoodie or shirt or something like that.",48
+"That makes sense. That would add to the functionality. I think it would be a different direction but it would still be the same project, it would just be like OK, we're splitting it up amongst ourselves. We can all do different things.",15
 "But the thing is also like if, like obviously every like the one person will have like for me like I have the skin tone. Is it gonna recommend the same thing for me over and over again or is it gonna like?",0
 "Ohh, it would recommend which different colors like fit you the other stuff like hoodies or something are dependent on body type and stuff so like that that part would add more factors.",0
 OK.,0
-That's true. Where did Speaker 2 go? Also a workshop or something?,78
+That's true. Where did Speaker 2 go? Also a workshop or something?,79
 Where did he go?,0
-He said he wanted to be recharged when. he got back.,73
-"What does that mean? OK, cool. He's charging. This has a power plug on his back and just.",73
-"Like he's just a man. He's the robot. OK, that's. OK, these are some nice ideas at least.",73
+He said he wanted to be recharged when. he got back.,74
+"What does that mean? OK, cool. He's charging. This has a power plug on his back and just.",74
+"Like he's just a man. He's the robot. OK, that's. OK, these are some nice ideas at least.",48
 "Yeah, I'm requesting some hardware, so I'm just looking at things that's there like we definitely can build some, like, very simple robot thingy.",0
-"I think that's cool with me. Yeah, I'm down to do that. What do what do you know how like, what do you know how to what to use?",15
-"Like how to use? I mean I've got some servos so they're very basic, but we're able to do some like movement thingy would be fun or challenging. Now that I think about we could do like an arm tracking thing, but then we have the like.",53
+"I think that's cool with me. Yeah, I'm down to do that. What do what do you know how like, what do you know how to what to use?",16
+"Like how to use? I mean I've got some servos so they're very basic, but we're able to do some like movement thingy would be fun or challenging. Now that I think about we could do like an arm tracking thing, but then we have the like.",54
 "Sure, sure.",0
 "Almost that thing control robot with camera gestures we just we can do that one if you want and then we have an arm, for example, and then let's like ee might be able to do some sort of like the look at the arm and then grab the object and then pick it up or something.",0
-This this would most likely be difficult.,48
+This this would most likely be difficult.,49
 "It's very hard. This would be difficult, yeah.",0
 But that's why we have four people and I think we could.,0
 Because the degrees of motion would be a lot,0
@@ -591,7 +591,7 @@ I'm look like requesting them.,0
 "OK, we'll need some power for that. So yeah. Arduino",0
 Main part.,0
 "Yeah, I got a Jetson like I requested Jetson Nano, but I don't know if it will be like enough ohh. It has power supply. It ohh has the power supply which is good. OK. Yeah. I mean, I ordered a bunch like we don't necessarily have to do one thing so yeah, but that's an idea. So why are they giving us BLDC motors but no controller? That's so weird. They gave us. Interesting. Yeah, none of my stuff has been approved. I might have to go there. Or something. I don't know how it works. Like if we have stuff. Yeah, as long as we have some stuff that's.",0
-Speaker 2 is back,77
+Speaker 2 is back,78
 Oh nice,0
 "All right. What's this? Recharged. Oh, he got some food. Oh you.",0
 Got it.,0
@@ -599,14 +599,14 @@ You guys made progress?,0
 "Let me update you on our board. You last left when we were discussing the color theory project, I added the explanation for the object detection to check if the room is clean, which is like both a game and computer vision. And then 1234 are the relative short list, but they all have like they all have like hiccups. But it's it's so far like the four. Those are the ones we've gone far the furthest in terms of brainstorming.",0
 "OK, OK.",0
 What about? I just thought of it. And then I left my mind.,0
-Do you think that you guys are and we all are too tired to function?,70
+Do you think that you guys are and we all are too tired to function?,71
 "Too tired like function. Yeah, no feedback.",0
 Yeah,0
 I am,0
 "It feels more unproductive than anything, even though we're like staying up for this?",0
-What do we do instead?,27
-Good question. I think we just take an idea and roll with it,28
-"Like, yeah, OK, the colors, the thing was kind of cool. I think I like that. What do you guys think? Also the.",7
+What do we do instead?,28
+Good question. I think we just take an idea and roll with it,29
+"Like, yeah, OK, the colors, the thing was kind of cool. I think I like that. What do you guys think? Also the.",8
 Answer and now.,0
 "We just have to detect a person and their skin tone. Based on some data, I guess it would recommend some things to wear, colors to wear.",0
 "And then based on that skin tone, it would have some data based on like what would would be suitable for it, so.",0
@@ -617,20 +617,20 @@ OK.,0
 "Yeah, body type.",0
 "So in detect person, we can. Just add that as another thing to the. But we'd have to either find the library orjenkingly make that up. So it could be the two. So like once we know how to make which colors you can add what.",0
 "I've heard this is the. Baseline and like. You don't want and you know what I mean. And then if you wish to. Refine it. Yeah. Yeah, yeah. No, not question of. How do we detect the person and how do we determine this color and how? Do we? Assign it. You know what I mean?",0
-First question I want to ask. Is does VM do it? Like does it do it for us already?,62
+First question I want to ask. Is does VM do it? Like does it do it for us already?,63
 Good point,0
 You mentioned like.,0
 I don't determine it can detect.,0
-"We can use this for the detection, but determining the skin color we can like it detects you right? What data does it extract from us? Do you know (to Speaker 2)?",20
+"We can use this for the detection, but determining the skin color we can like it detects you right? What data does it extract from us? Do you know (to Speaker 2)?",21
 Not sure.,0
-"Sponsors are here until one, so if. If we collect all of our questions, they might be downstairs at their booth",62
+"Sponsors are here until one, so if. If we collect all of our questions, they might be downstairs at their booth",63
 "But I thought. If we use this, it would probably be like a web-based app. I don't see how VM would fit in. They have physical, physical robotics.",0
 "Wait, what does VM do?",0
 VM is physical robotics,0
-"Ah, So what other library open TV? Something like that. Something a little more out-of-the-box that does people instead of just like, does algorithms? OK so. To do: find libraries. What else?",27
+"Ah, So what other library open TV? Something like that. Something a little more out-of-the-box that does people instead of just like, does algorithms? OK so. To do: find libraries. What else?",28
 Where's my laptop? Let me just google this,0
-"Because I think everyone should also just make an account, not miss an account. But that post like sign up for the hackathon and then get added and then we can make a GitHub repo and then. Yeah, add everyone and then figure out how we want to merge code and stuff and then go from there, yes. And then divide and conquer. What task do you want to do?",26
-I'll make a repo. We want to call it. Right. What? What names do you want? What name do you want to call this? With this project,58
+"Because I think everyone should also just make an account, not miss an account. But that post like sign up for the hackathon and then get added and then we can make a GitHub repo and then. Yeah, add everyone and then figure out how we want to merge code and stuff and then go from there, yes. And then divide and conquer. What task do you want to do?",27
+I'll make a repo. We want to call it. Right. What? What names do you want? What name do you want to call this? With this project,59
 I haven't thought about it,0
 [Project name]?,0
 Yeah sure,0
@@ -644,7 +644,7 @@ On the slack?,0
 Where do you want? Our emails.,0
 On slack. And then I think so you're both post e-mail and you could have. E-mail they're different.,0
 Like I just want like I want to add both.,0
-We're all little bit dead though. I'm tired.,86
+We're all little bit dead though. I'm tired.,87
 "Yeah, Me too. Me too",0
 Late night is not good.,0
 "Yeah, OK, cool.",0
@@ -654,40 +654,40 @@ I will send you invites with that post,0
 Set collaborators. So everyone. Wait Speaker 2 do you have your e-mail?,0
 "Oh yeah, sorry.",0
 "Yeah, if you can send that. I added everyone to GitHub I think.",0
-This might be a difficult project because skin tone is like people write papers on this shit.,48
-"I mean, we could just do like a scale or something like.",38
+This might be a difficult project because skin tone is like people write papers on this shit.,54
+"I mean, we could just do like a scale or something like.",39
 "True, like a proof of concept",0
 "Yeah, like, it doesn't have to be like, you know, it doesn't have to be research level detail.",0
 Okay,0
 Okay cool,0
 I think I'm going to find where did you guys find the sleep place right?,0
 "So building E6. 3rd floor and then you take the bridge to E6. And there's also a a space on the 6th floor, but I think the building is better because they have at least they told us mattresses are there. And everything. So yeah, yeah. Let's get the.",0
-Call it quits after we get to the divide and conquer part because I'm yawning so hard I am crying,86
+Call it quits after we get to the divide and conquer part because I'm yawning so hard I am crying,87
 "No, fair enough.",0
 Right.,0
-"Actually guys, can I ask how serious we are about trying to compete versus trying to build something fun?",9
-"I'm purely building something for fun. OK, I'll be honest. This is my first hackathon I have no intention of winning and just exploring things right now, OK.",4
+"Actually guys, can I ask how serious we are about trying to compete versus trying to build something fun?",10
+"I'm purely building something for fun. OK, I'll be honest. This is my first hackathon I have no intention of winning and just exploring things right now, OK.",5
 Cool. Yeah. What about you guys?,0
-"Yeah, none of the prizes are enough for me to lose sleep over.",60
+"Yeah, none of the prizes are enough for me to lose sleep over.",61
 "Oh, I thought",0
 "Yeah, Speaker 4. Yeah. Trying to like, compete or just for fun.",0
 "Oh yeah, I think both answers are OK, I just want to know.",0
-"This one I'm down for whatever. Like if you guys are all competing, I'm competing, you know, I'm going with the flow.",15
+"This one I'm down for whatever. Like if you guys are all competing, I'm competing, you know, I'm going with the flow.",16
 Going with the flow. Do you want to compete?,0
-"Yeah, I kind of want to compete, I think. Right. But I don't want to force anybody. So I'm kind of like debating in my mind like what should I do right? Now, OK, yeah.",2
-Do you have a win ratio yet? Do you have a win ratio yet?,65
+"Yeah, I kind of want to compete, I think. Right. But I don't want to force anybody. So I'm kind of like debating in my mind like what should I do right? Now, OK, yeah.",3
+Do you have a win ratio yet? Do you have a win ratio yet?,66
 "No, I'm trying to rack.",0
 "Okay, so that's why you wanna win",0
 "To win, yeah, also.",0
 It's either that you're trying to protect your ratio or you want to start your ratio.,0
-"Yeah, yeah. I don't want to, like, tell you guys later that ""I oh shit guys, I wish we should compete. And I just fucked up."" So yeah.",2
+"Yeah, yeah. I don't want to, like, tell you guys later that ""I oh shit guys, I wish we should compete. And I just fucked up."" So yeah.",16
 I need,0
 That's that's fair.,0
 Yeah. So.,0
 Thank you.,0
 OK.,0
 "I'll I'll probably try and think of ideas because I might stay up, so in case.",0
-"Now I think I think the idea is cool, it's just that it's very like good for learning, and not for the prize category. Yeah, which is fine. Like, it's totally fine. I'm thinking about it for myself now.",2
+"Now I think I think the idea is cool, it's just that it's very like good for learning, and not for the prize category. Yeah, which is fine. Like, it's totally fine. I'm thinking about it for myself now.",19
 Hmm,0
 "Yeah man, this is difficult",0
 "How was your workshop by the way, did you learn? Was your machine learning?",0
@@ -699,13 +699,13 @@ Less basic.,0
 "Did you get because you know you get stickers? When you every time you go to a workshop, you can win a sticker like you know those.",0
 "Oh, the scavenger hunt thing. Completely forgot about that until now. It's cool. I'll go to another workshop.",0
 "Well, I got a couple of servos. OK. And the arduino. If we wanted to do something hardware, wait, let me see. How many do I get? I got. 1-2. OK, three servos, which is what we needed. And then our.",0
-"Oh, here's an idea. We can make an instrument using Arduino.",37
-Right. What kind of instrument?,44
-"Any instrument somehow I remember like  one of my friends we actually had this idea but we never did it. You can make like sounds based on like a a distance meter. So like that was one idea or like a flex sensor. So the more you flex it just increases the pitch, kind of like a theramin sort of but like just using sensors a bit. And it was produce sounds or something at least you produce music that way.",43
+"Oh, here's an idea. We can make an instrument using Arduino.",38
+Right. What kind of instrument?,45
+"Any instrument somehow I remember like  one of my friends we actually had this idea but we never did it. You can make like sounds based on like a a distance meter. So like that was one idea or like a flex sensor. So the more you flex it just increases the pitch, kind of like a theramin sort of but like just using sensors a bit. And it was produce sounds or something at least you produce music that way.",44
 "That's, I guess the more fun bit though, so.",0
-"That sounds pretty cool, yeah.",47
+"That sounds pretty cool, yeah.",48
 What are we stuck on right now?,0
-"The thing is, I would love to do this, but I have no idea how we would go about it. Like I I I'm I have zero clue where to even start it's. It's pretty cool. But I don't know what where to start.",87
+"The thing is, I would love to do this, but I have no idea how we would go about it. Like I I I'm I have zero clue where to even start it's. It's pretty cool. But I don't know what where to start.",88
 This is where we can start. And look up detecting skin tone on computer vision and we can either use this entire scale or part of this scale.,0
 OK.,0
 "And then like maybe like 1, 2, 3, 4, and call it a day. And then which colors match this? Which colors match this? Which colors? Which color?",0
@@ -714,13 +714,13 @@ OK.,0
 "So so OK, that's one. Right. We have one aspect of it which is…",0
 "Like the skin tone, like like the color so.",0
 Skin tones. Skin tone scale. We have the we have to detect the person in order to know that that's a skin tone patch that we can patch.,0
-"So the only concern I have is when detecting the person, I want to know like whether the camera or whatever it is that we're detecting, how is it able to like get that data? Like how are we going to get data from that camera when it sees something? yeah.",44
-"Most likely using a library or else we'd have to do it from scratch,",45
+"So the only concern I have is when detecting the person, I want to know like whether the camera or whatever it is that we're detecting, how is it able to like get that data? Like how are we going to get data from that camera when it sees something? yeah.",45
+"Most likely using a library or else we'd have to do it from scratch,",46
 That's what I'm saying. That's exactly right. Yeah. OK.,0
 "which is library,",0
 so that's part of the to do’s. We just pick which library does that the easiest.,0
 "And then which colors would probably have to look online somewhere? Like which ones probably have to do research on. Yes. Right. Like which which colors would match with that and we could create like a data set framework which gets that information from yes. That's quite literally it, right, like you would recommend.",0
-He said data set. Will we need something like a database?,20
+He said data set. Will we need something like a database?,21
 For detecting a person?,0
 Any of it.,0
 I don't think we do.,0
@@ -740,22 +740,22 @@ Doesn't make much sense,0
 This one we forgot.,0
 "Oh, web interface.",0
 "Yeah, sure. OK.",0
-I wanna call dibs,25
+I wanna call dibs,31
 "OK, OK.",0
-"Yeah, we can divide and conquer that I think. Whatever you guys, whoever wants to do that.",25
+"Yeah, we can divide and conquer that I think. Whatever you guys, whoever wants to do that.",31
 It it evenly splits into four.,0
-"I think do the research, but I guess.",31
+"I think do the research, but I guess.",32
 "OK, you can pick I'm I'm OK with anything so.",0
 "yeah, same. I don't know, random.",0
 Random? Eenie meenie minie mo?,0
 What's his name? Cool. All right.,0
-"Oh, she already did it? Cool.",30
+"Oh, she already did it? Cool.",31
 "Alright, am I getting your initials right?",0
 "I think so. No, we're both there you go.. Alright I am going to start coding right now",0
-Time to take a nap,86
+Time to take a nap,87
 I'm going to take a picture of this.,0
 You got a picture right there. From there you say the researchers are doing are scanning the whiteboard.,0
-"Honestly, like I think this is a cool baseline, but I would love to include like like version two. I feel like it be really cool like this could be like a lke a like a closet for the decider? Yeah. Like we could add layers to it after we did the baseline. Like maybe like I said, like based on the temperature. What should I wear or like based on I don't know body type, what what should I wear? Like what cloth item should I wear? Like a hoodie or shirt or maybe some? Trousers or like all like?",46
+"Honestly, like I think this is a cool baseline, but I would love to include like like version two. I feel like it be really cool like this could be like a lke a like a closet for the decider? Yeah. Like we could add layers to it after we did the baseline. Like maybe like I said, like based on the temperature. What should I wear or like based on I don't know body type, what what should I wear? Like what cloth item should I wear? Like a hoodie or shirt or maybe some? Trousers or like all like?",47
 I think that.,0
 "All like combinations. You know what I mean? That would be. That would be really cool. The color is one thing, but then actually, knowing what you would wear is another thing.",0
 "So we should have a database of clothes, I guess, like different outfits or something.",0
@@ -764,33 +764,33 @@ I think that.,0
 That's cool.,0
 Yeah. Yeah. Let me try to find it.,0
 I put your weather as V3.,0
-I think this would be cool. I like the idea a lot.,47
+I think this would be cool. I like the idea a lot.,48
 "Yeah. Yeah, so.",0
-What do you guys think?,68
-"Yeah, that's good.",47
-Yeah. Doable. Very doable.,48
+What do you guys think?,69
+"Yeah, that's good.",48
+Yeah. Doable. Very doable.,49
 "I mean, it's doable and it's pretty nice. It's like.",0
-"And and following our categories. If we demonstrate using ourselves, we got the wow factor done because of the skin tone because of our our two Vs, we got the technical solid with the originality.",59
+"And and following our categories. If we demonstrate using ourselves, we got the wow factor done because of the skin tone because of our our two Vs, we got the technical solid with the originality.",60
 There you go.,0
 Pretty solid. I think it's pretty original.,0
 I think it's pretty cool I don't think a lot of people do it like on fashion. You know what I mean? So I think.,0
-"Design. I got that down Pat. OK, we have a solid shot.",11
-Uhm,87
-"Depending on the pitch, we have a shot.",59
-Yeah,87
-What don't you like about it?,21
+"Design. I got that down Pat. OK, we have a solid shot.",12
+Uhm,88
+"Depending on the pitch, we have a shot.",60
+Yeah,88
+What don't you like about it?,22
 The technical bit or?,0
-"No, just uhm, we are aiming for like the biggest category, which is like general overall prize? Yeah, that's that's where I'm like, apprehensive. Yeah, that's the hardest to win. Hence the fear. Uhhhhh",2
+"No, just uhm, we are aiming for like the biggest category, which is like general overall prize? Yeah, that's that's where I'm like, apprehensive. Yeah, that's the hardest to win. Hence the fear. Uhhhhh",88
 There are 12 finalist teams.,0
 "Yeah, like 1000 hackers",0
 Which would be 100 teams.,0
-"We could still do that the control robot with camera gestures. I have the servos, which is the one, we could do that one.",19
+"We could still do that the control robot with camera gestures. I have the servos, which is the one, we could do that one.",20
 "That's no, I don't want",0
 "Nah I don't want to disrupt you, I mean, you guys clearly have got your flow, you know what I mean",0
 The flow ,0
-If we can have something like a use case for this.,40
+If we can have something like a use case for this.,41
 "Yeah, I think that's missing a use case, yeah.",0
-"Like well over the use case for that be control robot, so it would just move like up and down. But we're talking.",45
+"Like well over the use case for that be control robot, so it would just move like up and down. But we're talking.",46
 Like 3 axis movements so.,0
 "OK. But then like it, it mimics your hand, right? Or someones arm?",0
 "The end effector? I don't know. It could just be a stick. Like it. Yeah, but it has three joints, so. But the goal is to mimic the, the arm, but then if?",0
@@ -799,50 +799,50 @@ You say that that's the only thing I'm concerned about because.,0
 "If the arm is fluid, or if the arm is much more, there's more degrees of freedom in the arm.",0
 "Like, that's what I mean. Like it's going to detect all like 6 degrees, right? Or is just going to take 3?",0
 "Like, how would it do that? So I'm just going to be like",0
-"There is a thing called open pose or something and it's able to detect like angles between each joint, yeah. And then so it should be able to do like angle between these and then this and then another.",43
+"There is a thing called open pose or something and it's able to detect like angles between each joint, yeah. And then so it should be able to do like angle between these and then this and then another.",44
 "And then calculate. The end effector, yeah. OK.",0
 "And then so like, I mean on the low level side, you would run a inverse kinematics. Inverse. Yeah. Yeah, or",0
 Or you could quite literally just.,0
 It would have been should be lower.,0
 "Yeah, yeah, yeah. You wouldn't even need. You could just calculate the end effector itself like you want to need to. Yeah. Very simple or yeah.",0
 It's very simple….in a way,0
-"I mean the arm detection part, right? But then that's the thing. Like we have no spaces. But we use this up for that. It would be cool because I don't think anybody else has built like that, yeah. I don't think.",50
-Is it feasible within a hackathon?,48
+"I mean the arm detection part, right? But then that's the thing. Like we have no spaces. But we use this up for that. It would be cool because I don't think anybody else has built like that, yeah. I don't think.",51
+Is it feasible within a hackathon?,49
 I think if we find a way to mount the servos very well.,0
 Oh am I muted?,0
 Why do you guys mute it so much?,0
 "I don't know. I didn't touch it. I. Might have been an accident, but. Yeah, if we can mount the servers well enough it'll work. It's cool. It's a cool demo.",0
 "For sure. Wait, no, I feel pretty bad. I feel like I'm blocking you. Guys from that idea.",0
-"It's okay, like everyone, everyone has their motivation in this like I get it. It's fine.",6
-"Whichever decision you want to get to it, we just gotta get to one.",0
-"OK, OK. Is it OK then if like? This is going to sound super asshole, but like is it OK then if like should I like split separately and do my own thing? I feel like I'm pushing this agenda on you guys, OK and it's like really, really like solo. Like it's it's like like I agree with you guys, you guys should be doing this for fun and like.",0
+"It's okay, like everyone, everyone has their motivation in this like I get it. It's fine.",7
+"Whichever decision you want to get to it, we just gotta get to one.",33
+"OK, OK. Is it OK then if like? This is going to sound super asshole, but like is it OK then if like should I like split separately and do my own thing? I feel like I'm pushing this agenda on you guys, OK and it's like really, really like solo. Like it's it's like like I agree with you guys, you guys should be doing this for fun and like.",76
 No it's fine. I get that.,0
-"Yeah. What do you guys think? Like I'm honestly. OK, with that as well.",68
-"I get it bro. Like. No. Like everyone has their own motivations in this. Don’t feel bad, it's alright.",6
+"Yeah. What do you guys think? Like I'm honestly. OK, with that as well.",69
+"I get it bro. Like. No. Like everyone has their own motivations in this. Don’t feel bad, it's alright.",7
 "Yeah, yeah, yeah.",0
-Like you came here. Like if you came here like you should do what you want to do. Right. You know what you feel most comfortable with,15
-"Yeah. No, I mean, I'm not gonna lie. I didn't expect to be like this and I came here and now again I feel like I should, I just want to compete now. So yeah, yeah.",2
+Like you came here. Like if you came here like you should do what you want to do. Right. You know what you feel most comfortable with,16
+"Yeah. No, I mean, I'm not gonna lie. I didn't expect to be like this and I came here and now again I feel like I should, I just want to compete now. So yeah, yeah.",6
 That's cool. OK.,0
 But I don’t want to like screw you guys over at all so. I will leave this up for discussion.,0
-"Its okay bro, don't worry about it. It's all good. Don't worry about it. But yeah, all right, sweet.",72
+"Its okay bro, don't worry about it. It's all good. Don't worry about it. But yeah, all right, sweet.",73
 We'll build something out so.,0
-"I mean, I think you guys can do this. I really think it's fun, I wish there was a computer vision prize.",72
-I lowkey like this idea.,47
-"Yeah, I know you guys like this idea, I feel really bad.",15
-"You don't gotta feel bad if you wanna do your thing. You do your thing, and then we'll just post again on the looking for team chat.",72
+"I mean, I think you guys can do this. I really think it's fun, I wish there was a computer vision prize.",73
+I lowkey like this idea.,48
+"Yeah, I know you guys like this idea, I feel really bad.",16
+"You don't gotta feel bad if you wanna do your thing. You do your thing, and then we'll just post again on the looking for team chat.",73
 "Yeah, it's all good bro, really. Like, it's fine. Don't worry",0
-You guys okay?,68
+You guys okay?,69
 "Yeah, 100%",0
 "Alright. Yeah, yeah, yeah. Just checking.",0
 "Don't worry, like actually 100%. It's all good. Don't worry about it.",0
 "OK, OK. Alright. Thanks guys. Sorry about this.",0
 "Yeah, of course.",0
 No worries.,0
-So I will root for you guys to reach top 12.,74
+So I will root for you guys to reach top 12.,75
 Hopefully you get one prize,0
 "No, I'm not go to hope, maybe blockchain alright. Yeah, but yeah, yeah.",0
-Sounds good. But hopefully we can. Pitch this idea in the group and hopefully someone.,79
-"Yeah, yeah. And I can do the whole CV thing. So that's fine. No worries, I can do the whole CV thing so.",72
+Sounds good. But hopefully we can. Pitch this idea in the group and hopefully someone.,80
+"Yeah, yeah. And I can do the whole CV thing. So that's fine. No worries, I can do the whole CV thing so.",0
 Don't think.,0
 CV thing?,0
 The computer vision.,0
@@ -851,13 +851,13 @@ We'll be OK.,0
 "All right, good.",0
 All right. Thanks guys.,0
 "Yeah, no worries, man.",0
-"Good luck, guys",74
+"Good luck, guys",75
 Thank you.,0
 "Yeah, I was gonna. I was gonna.",0
 Are you going to solo or try to find a different team?,0
-I don't know. I think I'll try to find. OK. But I'll think of an idea first for myself.,59
+I don't know. I think I'll try to find. OK. But I'll think of an idea first for myself.,60
 Are you thinking blockchain?,0
-"Yes, yes. Yeah. Cause just the prize pool is crazy",2
+"Yes, yes. Yeah. Cause just the prize pool is crazy",61
 Sounds good.,0
 "Was this crazy? Holy shit, yeah.",0
 Right,0
@@ -867,9 +867,9 @@ Hopefully they do. Do they only let you take 1 snack?,0
 "Or something. No, it's. I think it's. I just saw so many people just like, get food and food and food.",0
 "OK, I'm gonna look at something longer.",0
 "Yeah, I'll join you. I don't mind.",0
-"Yeah, let's go.",63
-Should I leave this here?,76
-"Here we're all conquered and divided, right? You're all taking a break, yeah.",25
+"Yeah, let's go.",64
+Should I leave this here?,77
+"Here we're all conquered and divided, right? You're all taking a break, yeah.",26
 Little break.,0
 "The reality star thing is really going on, I've never muted it.",0
 "Actually lowkey, I might get the food and then just hit the hay.",0
@@ -878,7 +878,7 @@ What are you going to be grinding on?,0
 We have a lot to do.,0
 I may not be present tomorrow morning,0
 That's fair,0
-"OK, like you gotta do like this spread. Leaving your laptop here overnight. Yeah, I will. So we're not leaving.",76
+"OK, like you gotta do like this spread. Leaving your laptop here overnight. Yeah, I will. So we're not leaving.",77
 Like ever like for 36 hours?,0
 So you guys are just going to be here like?,0
 "Oh, OK.",0
@@ -890,12 +890,12 @@ OK. It's going alright,0
 That's a lot of people.,0
 "Yeah, yeah",0
 Still looking for a team.,0
-When are you going to go to sleep?,86
+When are you going to go to sleep?,87
 Soon,0
 I think I got,0
 Couple hours?,0
 One more hour in me. We'll see.,0
-There is one who wants to meet us right now.,80
+There is one who wants to meet us right now.,81
 OK.,0
 I think [Speaker 5],0
 "Do [they], like, want to come here or what's that?",0

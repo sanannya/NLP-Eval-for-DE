@@ -141,7 +141,7 @@ def evaluate(ground_truths, predictions, codes_length):
     for i in range(codes_length):
         labels_nums.append(str(i))
     labels_nums.append(str(codes_length))
-    f1s = f1_score(ground_truths, predictions, average=None) 
+    f1s = f1_score(ground_truths, predictions, labels=labels_nums, average=None, zero_division=0.0) 
     mtx = confusion_matrix(ground_truths, predictions, labels=labels_nums)
     kappa = cohen_kappa_score(ground_truths, predictions, labels=labels_nums, weights=None, sample_weight=None)
     #return correct/incorrect per code
