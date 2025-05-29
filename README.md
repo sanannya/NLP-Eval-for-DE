@@ -47,7 +47,7 @@ The repository's "Example" folder contains the runnable script, input files, and
     - results: ******LIST THEM HEREEE******
 - Case study 2: refer to these for formatting
     - codebook: "hackathon data + GTs.csv".
-        - For running evaluations, ground truths should be in numerical format. If they're in written format (like this file), the function written_code_to_numbers will convert them to numbers, as seen in "new datafile.csv".
+        - For running evaluations, ground truths should be in numerical format. If they're in written format (like this file), the function written_code_to_numbers will convert them to numbers, as seen in "hackathon numerical GTs.csv".
     - results: ******LIST THEM HEREEE******
 
 
