@@ -1,0 +1,9 @@
+Code,BART F1,BERT F1,MPNet F1,Jina F1
+No code,0.0,0.0,0.0,0.0
+Awareness of conflict inducing behaviour,0.8571428571428571,0.8,0.0,0.0
+Awareness of selfish motivation,0.0,0.0,0.0,0.0
+Relinquish control of project,0.0,0.0,0.0,0.0
+Trying to claim idea as own,0.2857142857142857,0.25,0.5,0.3333333333333333
+Fatigue,0.8571428571428571,0.4,0.75,1.0
+Apprehension,0.3333333333333333,0.36363636363636365,0.36363636363636365,0.42857142857142855
+Self-identification of knowledge and skills,0.5333333333333333,0.2222222222222222,0.7142857142857143,0.36363636363636365

@@ -11,4 +11,5 @@ from NLP_Eval_for_DE import helpers, process_data, results
 
 #results.get_scores("Jina Embeddings V2", "Example\\pain points full.csv", "Example\\description codes.csv", "test smth")
 
-process_data.written_code_to_numbers("Example\\case study 2 input files-sorted codes\\Self-awareness data.csv", "Example\\case study 2 input files-sorted codes\\Self-awareness codes.csv")
+#process_data.written_code_to_numbers("Example\\inputs\\case study 2 input-axial codes\\axial data.csv", "Example\\inputs\\case study 2 input-axial codes\\axial codes.csv")
+results.get_evaluation("Example\\inputs\\case study 2 input-axial codes\\axial numerical.csv", "Example\\inputs\\case study 2 input-axial codes\\axial codes.csv")

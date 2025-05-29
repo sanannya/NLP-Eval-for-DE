@@ -1,0 +1,15 @@
+Code,BART F1,BERT F1,MPNet F1,Jina F1
+No code,0.0,0.0,0.0,0.0
+Addressing group concern(s),0.15384615384615385,0.0,0.0,0.0
+Concern about health,0.5,0.0,0.6666666666666666,0.6666666666666666
+Admiration,0.0,0.0,0.0,0.0
+Reassurance,0.8,0.0,0.0,0.4
+Sarcasm,0.0,0.0,0.0,0.5
+Well wishes,0.6666666666666666,0.15384615384615385,0.5,0.25
+Permission to leave team,0.0,0.0,0.0,0.0
+Member leaves,0.0,0.5,0.6666666666666666,0.5
+Member returns,0.5,0.3333333333333333,0.5,0.5
+Commenting on missing member,0.6666666666666666,0.0,0.0,0.6666666666666666
+Recruitment of new team member,0.0,0.0,0.0,0.6666666666666666
+First mention of new team member,1.0,0.0,0.0,0.0
+Self-identification of knowledge and skills,0.0,0.0,0.0,0.0
