@@ -50,6 +50,7 @@ The repository's "Example" folder contains the runnable script, input files, and
         - For running evaluations, ground truths should be in numerical format. If they're in written format (like this file), the function written_code_to_numbers will convert them to numbers, as seen in "hackathon numerical GTs.csv".
     - results: ******LIST THEM HEREEE******
 
+The functions are explained in further detail in the section below.
 
 ### Executing program
 
@@ -58,42 +59,54 @@ The repository's "Example" folder contains the runnable script, input files, and
 from NLP_Eval_for_DE import results
 ```
 - Get qualitative coding results for a data set.
-- Inputs
-    - Choose an NLP model to use: "BART", "BERT", "MPNet", "Jina Embeddings V2"
-    - Input data file: a CSV file, must be properly formatted; see CSV formatting instructions in the next section
-    - Codebook: a CSV file, must be properly formatted; see CSV formatting instructions in the next section
-    - Choose what to name the output CSV file.
-- Outputs
-    - A CSV containing the input data points and their NLP-assigned codes according to your inputted codebook
+    - Inputs
+        - Choose an NLP model to use: "BART", "BERT", "MPNet", "Jina Embeddings V2"
+        - Input data file: a CSV file, must be properly formatted; see CSV formatting instructions in the next section
+        - Codebook: a CSV file, must be properly formatted; see CSV formatting instructions in the next section
+        - Choose what to name the output CSV file.
+    - Outputs
+        - A CSV containing the input data points and their NLP-assigned codes according to your inputted codebook
 ```
-results.get_predictions("Jina Embeddings V2", "Example\\pain points full.csv", "Example\\description codes.csv", "predictions-jina-desc-painpoints")
+#example
+results.get_predictions("Jina Embeddings V2", "Example\\inputs\\case study 1 input\\pain points full.csv", "Example\\description codes.csv", "predictions-jina-desc-painpoints")
 ```
 
 - Get similarity scores between each data point and code.
-- Inputs
-    - Choose an NLP model to use: "BART", "BERT", "MPNet", "Jina Embeddings V2"
-    - Input data file: a CSV file, must be properly formatted; see CSV formatting instructions in the next section
-    - Codebook: a CSV file, must be properly formatted; see CSV formatting instructions in the next section
-    - Choose what to name the output CSV file.
-- Outputs
-    - A CSV containing the input data points and their NLP-assigned similarity scores to each code. Ordered by data point, and scores displayed in the order of the codebook.
+    - Inputs
+        - Choose an NLP model to use: "BART", "BERT", "MPNet", "Jina Embeddings V2"
+        - Input data file: a CSV file, must be properly formatted; see CSV formatting instructions in the next section
+        - Codebook: a CSV file, must be properly formatted; see CSV formatting instructions in the next section
+        - Choose what to name the output CSV file.
+    - Outputs
+        - A CSV containing the input data points and their NLP-assigned similarity scores to each code. Ordered by data point, and scores displayed in the order of the codebook.
 ```
-results.get_scores("Jina Embeddings V2", "Example\\pain points full.csv", "Example\\description codes.csv", "scores-jina-desc-painpoints")
+#example
+results.get_scores("Jina Embeddings V2", "Example\\inputs\\case study 1 input\\pain points full.csv", "Example\\inputs\\case study 1 input\\descriptions codes.csv", "scores-jina-desc-painpoints")
 ```
 
 - Get evaluation results to see how all the models perform on your dataset & codebook. This will only work if your dataset has assigned ground truths to compare against the models.
-- Inputs
-    - Input data file: a CSV file, must be properly formatted; see CSV formatting instructions in the next section
-    - Codebook: a CSV file, must be properly formatted; see CSV formatting instructions in the next section
-- Outputs
-    - 4 matrices: CSV files (BART_matrix, BERT_matrix, MPNet_matrix, & Jina_matrix). These are the confusion matrices comparing the ground truth codes (rows) vs model-predicted codes (columns)
-    - F1_scores.csv: For each code, shows each model's F1 score (an accuracy metric). 
-    - Cohens_kappas.csv: Shows each model's cohen's kappa score.
+    - Inputs
+        - Input data file: a CSV file, must be properly formatted; see CSV formatting instructions in the next section
+        - Codebook: a CSV file, must be properly formatted; see CSV formatting instructions in the next section
+    - Outputs
+        - 4 matrices: CSV files (BART_matrix, BERT_matrix, MPNet_matrix, & Jina_matrix). These are the confusion matrices comparing the ground truth codes (rows) vs model-predicted codes (columns)
+        - F1_scores.csv: For each code, shows each model's F1 score (an accuracy metric). 
+        - Cohens_kappas.csv: Shows each model's cohen's kappa score.
 ```
-results.get_evaluation("Example\\pain points full.csv", "Example\\short titles+descriptions.csv")
+#example
+results.get_evaluation("Example\\inputs\\case study 1 input\\pain points full.csv", "Example\\inputs\\case study 1 input\\description codes.csv")
 ```
 
-*******FINISH THIS W/ WRITTEN TO NUM CONVERSION, &(INCLUDE HELPER FUNC(?))************
+- If you want to run an evaluation on your dataset, but your human-done codes are in written form (instead of the desired number form), use this function to get a compatible file.
+    - Inputs:
+        - Input data file: a CSV file. The written human-done codes must match the codebook exactly in spelling, upper/lowercase, and punctuation.
+        - Codebook: a CSV file, must be properly formatted; see CSV formatting instructions in the next section
+    - Outputs:
+        - "new datafile.csv": a new input data file exactly the same as your first input parameter csv file, but the written ground truths have been changed to numbers corresponding to their location in the codebook.
+```
+#example
+process_data.written_code_to_numbers("Example\\inputs\\case study 2 input-axial codes\\axial data.csv", "Example\\inputs\\case study 2 input-axial codes\\axial codes.csv")
+```
 
 ### Formatting input files
 
