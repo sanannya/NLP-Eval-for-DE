@@ -38,7 +38,7 @@ from NLP_Eval_for_DE import helpers, process_data, results
 #-------------Option 3: evaluate---------------------------------------------------------------------------------------
 
 #gets evaluation data for survey data, comparing it to human-done codes
-#results.get_evaluation("Example\\inputs\\case study 1 input\\pain points full.csv", "Example\\inputs\\case study 1 input\\description codes.csv")
+results.get_evaluation("Example\\inputs\\case study 2 input-grouped by axials\\Individual goal numerical.csv", "Example\\inputs\\case study 2 input-grouped by axials\\Individual goal codes.csv")
 
 #If the human-done codes are in written form, run this first to convert them to numerical codes (required formatting)
 #process_data.written_code_to_numbers("Example\\inputs\\case study 2 input-axial codes\\axial data.csv", "Example\\inputs\\case study 2 input-axial codes\\axial codes.csv")
