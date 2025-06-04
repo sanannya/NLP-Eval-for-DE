@@ -1,6 +1,7 @@
 #this file is for getting the info from helper functions into txt format
 import sys
 import csv 
+import spacy
 from NLP_Eval_for_DE import process_data, helpers
 
 def get_predictions(model_name, inputs_datafile, codes_datafile, outputname):
@@ -123,6 +124,28 @@ def get_evaluation(inputs_datafile, codes_datafile,):
     filename = "Cohens_kappas" + '.csv'
     fieldnames = ['Model', "Cohen's Kappa"]
 
+    with open(filename, 'w', newline='') as file:
+        writer = csv.DictWriter(file, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(new_data)
+
+def get_similarity_scores(codes_datafile):
+    nlp = spacy.load("en_core_web_md")
+
+    new_data = []
+    codes = process_data.get_codes(codes_datafile)
+    for i in range(codes[1]):
+        sum = 0
+        for j in range(codes[1]):
+            if (i!=j):
+                doc1 = nlp(codes[0][i])
+                doc2 = nlp(codes[0][j])
+                sum += doc1.similarity(doc2)
+        sum = sum/(codes[1]-1)
+        new_data.append({"Code": codes[0][i], "Average similarity to other codes": sum})
+        
+    filename = "code similarity scores" + '.csv'
+    fieldnames = ['Code', 'Average similarity to other codes']
     with open(filename, 'w', newline='') as file:
         writer = csv.DictWriter(file, fieldnames=fieldnames)
         writer.writeheader()
