@@ -1,0 +1,12 @@
+Code,Average similarity to other codes
+"Lathe chuck overtightened: The lathe chuck was tightened too much, so the user loosened it with pliers",0.8043134212493896
+"Drill too large: Only 18 V drills were displayed, which are too big to use with one hand",0.8624641418457031
+"Gloves size large: Only size large disposable gloves were available, so the user struggled with the epoxy",0.8646437764167786
+Tall miter saw: The miter saw is a bit uncomfortable to use since it’s on a tall table,0.8367029786109924
+"Clamps scattered around: The user had to hunt down a clamp, since people forgot to put them away",0.8647225975990296
+"Sawdust, wood everywhere: The lathe was covered in sawdust and wood chips, so the user cleaned it up",0.8404682159423829
+"Bumped into user: the user bumped the emergency stop button of the lathe, as someone squeezed behind them",0.876767510175705
+"Useless wood scraps: wood scraps were too small to be useful to anyone, so they went in the trash",0.863639771938324
+Unlabeled drill cabinet: the user dug through the unlabeled cabinets to find a smaller 12 V hand drill,0.8146057367324829
+"Ripped trash bag: the trash bag was ripped, so the user took the trash out and replaced the bag",0.8433988571166993
+"Epoxy wait time: Epoxy needs to cure for 24 hours, so the user went home for the day",0.8516294300556183

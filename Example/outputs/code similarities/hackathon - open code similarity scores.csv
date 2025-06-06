@@ -1,0 +1,89 @@
+Code,Average similarity to other codes
+Individual goal of getting a prize,0.6029552993760712
+Individual not motivated by prizes,0.5910341609483478
+Individual goal to win,0.59157794713974
+Individual goal to learn,0.6165784516896324
+Individual goal to have fun,0.626064917136883
+Change of individual goal,0.5960496013191925
+Recognition of individual goals,0.5740988607379212
+Individual preference of idea,0.6102287798434839
+Team goal,0.47883926537530175
+Defining team goal,0.5509044348165907
+Scoping team goal,0.45056034675959883
+Team goal to win,0.5466466552909763
+Team goal to have fun,0.5998319108253238
+Goal validation,0.5157039151794609
+Individual contribution to team goal,0.6263174748626249
+Alignment of individual goal with team goal,0.633872773626755
+Alignment of team goal with individual goal,0.6338727715714224
+Alignment of project with individual goal,0.6308137738499148
+Alignment of project with team goal,0.6263029003280333
+Suggestion to switch ideas to align with individual goal,0.6368580246451258
+Asking for clarification,0.5802482608919857
+Clarification,0.4566318677930996
+Clarification of team task,0.6042327796933294
+Explanation of function,0.5679524249729069
+Explanation of engineering concept,0.5812856991743219
+Process,0.3179894232287489
+Team process clarification,0.5289415491038355
+Facilitation,0.3266853777927229
+Individual process suggestion,0.5727104452149622
+Role allocation,0.50520276980496
+Task allocation,0.37950157142918683
+Volunteering for task,0.5358890902208185
+Forcing decision,0.4183580030997594
+Planning,0.4298747295363881
+Plan to quit for the day,0.561981580209458
+Time commitment,0.5186357845862707
+Taking on duties of leaving team member,0.6181047377230107
+Topic generation,0.43811527564425834
+Scoping,0.1968256814094881
+Convergence onto topic,0.43357162344558486
+Revisiting other idea,0.51635532543577
+Project topic,0.4841000495970934
+Desired topic,0.4825742770114849
+Explanation of an idea,0.6027633849231676
+Asking for idea clarification,0.5917282254360188
+Clarification of idea,0.5752911667029063
+Expanding on idea,0.515056850324417
+Validation of idea,0.6080174783523056
+Feasibility of idea,0.606857419013977
+Coolness of idea,0.5492758759479414
+Uniqueness of project,0.6172841578379444
+Interest in how difficult the problem is,0.5780266697208086
+Completeness of project,0.6111832254234402
+Difficulty or challenge of idea,0.6299014614745119
+Challenge of the problem,0.5856333747506142
+Inspiration,0.25860494914753684
+Analogy,0.4566318677930996
+Chosen idea,0.48779619099764987
+Project selected and named,0.5238317634011137
+Hackathon strategy,0.2281515927578526
+Prizes,0.2314144050081571
+Workshop,0.3480122509016388
+Sponsor,0.31552783470472384
+Break,0.3746276577699116
+Hackathon versus industry project,0.4155434354625899
+Win ratio,0.46653131404142273
+Concern for resources,0.5818290395298223
+Concern for timing,0.5465067470895832
+Checking in with others,0.5013983340441496
+Addressing group concern(s),0.48528963909752065
+Concern about health,0.48280439628609295
+Admiration,0.3295194974447461
+Reassurance,0.3600794977840336
+Sarcasm,0.25552915514114943
+Well wishes,0.4373919437585891
+Permission to leave team,0.5602771209916849
+Member leaves,0.34027964228378804
+Member returns,0.43205462716086285
+Commenting on missing member,0.4977431373092635
+Recruitment of new team member,0.5699613907898979
+First mention of new team member,0.6169907866880812
+Self-identification of knowledge and skills,0.577722635077334
+Awareness of conflict-inducing behavior,0.5093851566485975
+Awareness of selfish motivation,0.475404132542939
+Relinquish control of project,0.5566600350470379
+Trying to claim idea as own,0.6248593392043278
+Fatigue,0.1702924172150442
+Apprehension,0.25397691055704125

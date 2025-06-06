@@ -59,4 +59,4 @@ import spacy
 #spacy.cli.download("en_core_web_md")
 
 '''generate a csv file containing each code & its average similarity score'''
-#results.get_similarity_scores("Example\\inputs\\case study 1 input\\short titles.csv")
+results.get_similarity_scores("Example\\inputs\\case study 1 input\\short titles+descriptions.csv")
