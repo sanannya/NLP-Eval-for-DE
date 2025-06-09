@@ -47,12 +47,15 @@ Or clone to your local machine however you prefer.
 The repository's "Example" folder contains the runnable script, input files, and output files for both case studies documented in the paper.
 - example.py: you can copy and edit this file for your own use.
 - Case study 1: refer to these for formatting
+    - input data: pain points full.csv
     - codebooks (this case study compared 3 codebooks): "description codes.csv", "short titles.csv", "short titles+descriptions.csv"
-    - results: ******LIST THEM HEREEE******
+    - results: code similarities for all 3 codebooks, evaluation results for all 3 codebooks
 - Case study 2: refer to these for formatting
-    - codebook: "hackathon data + GTs.csv".
+    - input data: "hackathon data + GTs.csv" or the input data files for axial code groupings
         - For running evaluations, ground truths should be in numerical format. If they're in written format (like this file), the function written_code_to_numbers will convert them to numbers, as seen in "hackathon numerical GTs.csv".
-    - results: ******LIST THEM HEREEE******
+    - Codebooks: open codes, axial codes, and open codes grouped by axial codes
+    - results: code similarities for all codebooks, evaluation for all codebooks
+- extra: "predictions-jina-dec-painpoints.csv", example using this module for coding instead of evaluation.
 
 The functions are explained in further detail in the section below.
 
