@@ -24,7 +24,11 @@ In the "Example" folder, you can also view the example python script and input d
 
 ### Dependencies
 
-- ****LIBRARY/PACKAGE LISTED HERE, MAKE A REQURIEMENTS.TXT****
+Install packages using requirements.txt:
+- In the command line, cd into this repo (NLP-Eval-for-DE) and run this command.
+'''
+pip install -r requirements.txt
+'''
 
 ### Installing
 
@@ -108,32 +112,37 @@ results.get_evaluation("Example\\inputs\\case study 1 input\\pain points full.cs
 process_data.written_code_to_numbers("Example\\inputs\\case study 2 input-axial codes\\axial data.csv", "Example\\inputs\\case study 2 input-axial codes\\axial codes.csv")
 ```
 
+- To help you with codebook writing or with analyzing it, run this function to get the average similarity of each code to every other code in the codebook. (This is useful for determining if a code is unique/particular enough to be a useful categorization for qualitative analysis.)
+    - Input: A codebook (a CSV file, must be properly formatted; see CSV formatting instructions in the next section)
+    - Output: CSV file "code similarity scores.csv" containing each code & its average similarity score between itself and all the other codes.
+'''
+#example
+results.get_similarity_scores("Example\\inputs\\case study 1 input\\short titles+descriptions.csv")
+'''
+
 ### Formatting input files
+Instructions for formatting input files are detailed here. You can also see the example input files in this repo's Example folder (Example->inputs). They are organized by case study, with each sub-fodler containing codebook(s) and participant input data files.
 
-## Help
+- Input data: this is the CSV containing the data you want to code. 
+    - Example: Example->inputs->case study 1 input->"pain points full.csv"
+    - Column 1 (heading can be whatever you want) is the input data
+    - Column 2 (optional, heading can be whatever you want) is the human-done codes
+        - only needed if you want to run evaluation
+        - IMPORTANT: this column's values MUST be numerical. If they are in written form, use the written_code_to_numbers function to convert them to numbers
+        - if you just want to code the data, you can omit having a second column, get_predictions will still work.
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+- Codebook: this CSV contains the codes in the codebook
+    - Example: Example->inputs->case study 1 input->"description codes.csv".
+    - Column 1: no heading. List the codes in this column.
+    - Note: if running written_code_to_numbers with this file, spelling/case must match that of the human done written codes.
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+- Code by Anannya Sathaye. 
+    - Contact: anannya.sathaye@utexas.edu to let me know about issues or for questions.
+- NLP testing methodology developed by Anannya Sathaye, Elisa Koolman, and Anastasia Schauer
 
 ## Version History
 
 - 0.1
     - Initial Release
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)

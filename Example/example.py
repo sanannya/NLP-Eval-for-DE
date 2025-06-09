@@ -9,7 +9,7 @@ Uncomment the line you wish to run and change the parameters to use your input f
     - Evaluate NLP performance on your data by comparing them against human-done coding.
     - Evaluate your codebook by getting the average similarity of each code to every other code.
 
-Also, each function is better explained in the README.
+Each function is better explained in the README. Also, the results files generated using these functions can be found in the repo: Example->outputs.
 """
 from NLP_Eval_for_DE import helpers, process_data, results
 import spacy
@@ -17,7 +17,7 @@ import spacy
 '''-------------Option 1: get an NLP to code your data-------------------------------------------------------------------'''
 
 '''uses the Jina Embeddings V2 model to code survey data'''
-#results.get_predictions("Jina Embeddings V2", "Example\\inputs\\case study 1 input\\pain points full.csv", "Example\\description codes.csv", "predictions-jina-desc-painpoints")
+#results.get_predictions("Jina Embeddings V2", "Example\\inputs\\case study 1 input\\pain points full.csv", "Example\\inputs\\case study 1 input\\description codes.csv", "predictions-jina-desc-painpoints")
 
 '''----------------------------------------------------------------------------------------------------------------------'''
 
@@ -59,4 +59,6 @@ import spacy
 #spacy.cli.download("en_core_web_md")
 
 '''generate a csv file containing each code & its average similarity score'''
-results.get_similarity_scores("Example\\inputs\\case study 1 input\\short titles+descriptions.csv")
+#results.get_similarity_scores("Example\\inputs\\case study 1 input\\short titles+descriptions.csv")
+
+'''----------------------------------------------------------------------------------------------------------------------'''
