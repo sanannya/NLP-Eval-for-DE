@@ -26,9 +26,9 @@ In the "Example" folder, you can also view the example python script and input d
 
 Install packages using requirements.txt:
 - In the command line, cd into this repo (NLP-Eval-for-DE) and run this command.
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 ### Installing
 
@@ -118,10 +118,10 @@ process_data.written_code_to_numbers("Example\\inputs\\case study 2 input-axial 
 - To help you with codebook writing or with analyzing it, run this function to get the average similarity of each code to every other code in the codebook. (This is useful for determining if a code is unique/particular enough to be a useful categorization for qualitative analysis.)
     - Input: A codebook (a CSV file, must be properly formatted; see CSV formatting instructions in the next section)
     - Output: CSV file "code similarity scores.csv" containing each code & its average similarity score between itself and all the other codes.
-'''
+```
 #example
 results.get_similarity_scores("Example\\inputs\\case study 1 input\\short titles+descriptions.csv")
-'''
+```
 
 ### Formatting input files
 Instructions for formatting input files are detailed here. You can also see the example input files in this repo's Example folder (Example->inputs). They are organized by case study, with each sub-fodler containing codebook(s) and participant input data files.
