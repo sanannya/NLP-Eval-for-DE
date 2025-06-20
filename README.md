@@ -1,13 +1,13 @@
 # NLP-Eval-for-DE
 
 This repository contains code to perform natural language processing AI-driven qualitative coding for design engineering. This has been employed in this paper in case studies 1 and 2.
->*******************PAPER HEREEEEEEEEEEEEEEE*******************
+>*******************PAPER TITLE IS A WIP*******************
 >Anannya Sathaye, Elisa Koolman, Anastasia M. Schauer
->***********WHERE PUBLISHED HERE*******************
+>***********WHERE PUBLISHED TBD*******************
 
 Bitex citation:
 ```bibtex
-*****PUT CITATION HERE*****
+*****CITATION TO BE ADDED LATER*****
 ```
 
 ## Description
