@@ -10,7 +10,7 @@ from numpy.linalg import norm
 from datasets import Dataset
 from transformers.pipelines.pt_utils import KeyDataset
 
-from NLP_Eval_for_DE.process_data import make_dataset
+#from NLP_Eval_for_DE.data import make_dataset
 cos_sim = lambda a,b: (a @ b.T) / (norm(a)*norm(b))
 
 #these functions will run the models, return [model predictions, similarity scores in order of the codes]

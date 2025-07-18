@@ -11,8 +11,9 @@ Uncomment the line you wish to run and change the parameters to use your input f
 
 Each function is better explained in the README. Also, the results files generated using these functions can be found in the repo: Example->outputs.
 """
-from NLP_Eval_for_DE import helpers, process_data, results
+from NLP_Eval_for_DE import data, results, scores
 import spacy
+from datetime import datetime
 
 '''-------------Option 1: get an NLP to code your data-------------------------------------------------------------------'''
 
@@ -43,7 +44,7 @@ import spacy
 #results.get_evaluation("Example\\inputs\\case study 2 input-grouped by axials\\Individual goal numerical.csv", "Example\\inputs\\case study 2 input-grouped by axials\\Individual goal codes.csv")
 
 '''If the human-done codes are in written form, run this first to convert them to numerical codes (required formatting)'''
-#process_data.written_code_to_numbers("Example\\inputs\\case study 2 input-axial codes\\axial data.csv", "Example\\inputs\\case study 2 input-axial codes\\axial codes.csv")
+data.written_code_to_numbers("Example\\inputs\\case study 2 input-axial codes\\axial data.csv", "Example\\inputs\\case study 2 input-axial codes\\axial codes.csv")
 
 '''----------------------------------------------------------------------------------------------------------------------'''
 
