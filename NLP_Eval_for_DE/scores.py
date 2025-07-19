@@ -7,43 +7,38 @@ from sklearn.metrics import confusion_matrix, f1_score, cohen_kappa_score
 from transformers import AutoModel
 from numpy.linalg import norm
 
-from datasets import Dataset
-from transformers.pipelines.pt_utils import KeyDataset
+import pandas as pd
+import numpy as np
 
-#from NLP_Eval_for_DE.data import make_dataset
 cos_sim = lambda a,b: (a @ b.T) / (norm(a)*norm(b))
 
-#these functions will run the models, return [model predictions, similarity scores in order of the codes]
+#these functions will run the models
 
-def get_BART_scores(testable_data, codes):
-    all_results = []
+def get_BART_scores(testable_data_df, codebook_df):
     results = []
-    classifier = pipeline("zero-shot-classification",
-                      model="facebook/bart-large-mnli")
+    classifier = pipeline("zero-shot-classification",model="facebook/bart-large-mnli")
     predictions = []
     record = []
-    for i in range (len(testable_data)):
+
+    all_results = pd.DataFrame()
+    predictions = pd.DataFrame()
+
+    for i, row1 in testable_data_df.iterrows():
         max_score = 0
         idx_of_max = 0
-        sequence_to_classify = KeyDataset(make_dataset(testable_data), "text")[i]
-        for j in range(len(codes)):
-            candidate_labels = codes[j]
+        sequence_to_classify = row1[1]
+        for j, row2 in codebook_df.iterrows():
+            candidate_labels = row2[0]
             results = classifier(sequence_to_classify, candidate_labels, multi_label=False) 
-            #print(str(results["scores"][0]) + "\t" + code) 
             record.append(results["scores"][0])
             if (results["scores"][0] > max_score):
                 idx_of_max = j+1
                 max_score = results["scores"][0]
-        predictions.append(idx_of_max)
-        all_results.append(record)
+        predictions.loc[len(predictions)] = [sequence_to_classify, idx_of_max]
+        all_results.loc[len(all_results)] = record
         record = []
 
-    predictions_str = []
-    for pred in predictions:
-        str_pred = str(pred)
-        predictions_str.append(str_pred)
-
-    return [predictions_str, all_results]
+    return [predictions, all_results]
 
 def get_BERT_scores(testable_data, codes):
     #this is a sentence transformers fine tuned version of BERT trained on various databases

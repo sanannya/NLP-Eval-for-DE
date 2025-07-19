@@ -44,7 +44,7 @@ from datetime import datetime
 #results.get_evaluation("Example\\inputs\\case study 2 input-grouped by axials\\Individual goal numerical.csv", "Example\\inputs\\case study 2 input-grouped by axials\\Individual goal codes.csv")
 
 '''If the human-done codes are in written form, run this first to convert them to numerical codes (required formatting)'''
-data.written_code_to_numbers("Example\\inputs\\case study 2 input-axial codes\\axial data.csv", "Example\\inputs\\case study 2 input-axial codes\\axial codes.csv")
+#data.written_code_to_numbers("Example\\inputs\\case study 2 input-axial codes\\axial data no junk.csv", "Example\\inputs\\case study 2 input-axial codes\\axial codes.csv")
 
 '''----------------------------------------------------------------------------------------------------------------------'''
 
