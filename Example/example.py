@@ -18,7 +18,7 @@ from datetime import datetime
 '''-------------Option 1: get an NLP to code your data-------------------------------------------------------------------'''
 
 '''uses the Jina Embeddings V2 model to code survey data'''
-#results.get_predictions("Jina Embeddings V2", "Example\\inputs\\case study 1 input\\pain points full.csv", "Example\\inputs\\case study 1 input\\description codes.csv", "predictions-jina-desc-painpoints")
+#results.get_predictions("BERT", "Example\\inputs\\case study 1 input\\pain points full.csv", "Example\\inputs\\case study 1 input\\description codes.csv", "assigned_codes-jina-desc-painpoints")
 
 '''----------------------------------------------------------------------------------------------------------------------'''
 
@@ -28,8 +28,9 @@ from datetime import datetime
 
 '''-------------Option 2: get similarity scores--------------------------------------------------------------------------'''
 
-'''uses the Jina Embeddings V2 model to get similarity scores between each data point compared to each code '''
-#results.get_scores("Jina Embeddings V2", "Example\\inputs\\case study 1 input\\pain points full.csv", "Example\\inputs\\case study 1 input\\descriptions codes.csv", "scores-jina-desc-painpoints")
+'''uses the Jina Embeddings V2 model to get similarity scores between each data point compared to each code 
+(this doesn't have a lot of utility but it can be cool/informative to see the specific similarity scores)'''
+results.get_scores("Jina Embeddings V2", "Example\\inputs\\case study 1 input\\pain points full.csv", "Example\\inputs\\case study 1 input\\description codes.csv", "all_scores-jina-desc-painpoints")
 
 '''----------------------------------------------------------------------------------------------------------------------'''
 

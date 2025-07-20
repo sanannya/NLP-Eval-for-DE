@@ -20,8 +20,8 @@ def get_BART_scores(testable_data_df, codebook_df):
     predictions = []
     record = []
 
-    all_results = pd.DataFrame(columns=["input phrase", "similarity scores"])
-    predictions = pd.DataFrame(columns=["input phrase", "assigned code"])
+    all_results = pd.DataFrame(columns=["Input phrase", "Similarity scores"])
+    predictions = pd.DataFrame(columns=["Input phrase", "Assigned code"])
 
     for i, row1 in testable_data_df.iterrows():
         max_score = 0
@@ -44,8 +44,8 @@ def get_BERT_scores(testable_data_df, codebook_df):
     #this is a sentence transformers fine tuned version of BERT trained on various databases
     #https://huggingface.co/sentence-transformers/static-similarity-mrl-multilingual-v1
     model = SentenceTransformer("tomaarsen/static-similarity-mrl-multilingual-v1")
-    all_results = pd.DataFrame(columns=["input phrase", "similarity scores"])
-    predictions = pd.DataFrame(columns=["input phrase", "assigned code"])
+    all_results = pd.DataFrame(columns=["Input phrase", "Similarity scores"])
+    predictions = pd.DataFrame(columns=["Input phrase", "Assigned code"])
     code_embeddings = model.encode(codebook_df["Codes"].tolist())
     record = []
     for i, row in testable_data_df.iterrows(): 
@@ -67,8 +67,8 @@ def get_BERT_scores(testable_data_df, codebook_df):
     
 def get_MPNet_scores(testable_data_df, codebook_df):
     model = SentenceTransformer("all-mpnet-base-v2")
-    all_results = pd.DataFrame(columns=["input phrase", "similarity scores"])
-    predictions = pd.DataFrame(columns=["input phrase", "assigned code"])
+    all_results = pd.DataFrame(columns=["Input phrase", "Similarity scores"])
+    predictions = pd.DataFrame(columns=["Input phrase", "Assigned code"])
     code_embeddings = model.encode(codebook_df["Codes"].tolist())
     record = []
     for i, row in testable_data_df.iterrows(): 
@@ -91,8 +91,8 @@ def get_MPNet_scores(testable_data_df, codebook_df):
 def get_Jina_scores(testable_data_df, codebook_df):
     model = AutoModel.from_pretrained('jinaai/jina-embeddings-v2-base-en', trust_remote_code=True) # trust_remote_code is needed to use the encode method
     code_embeddings = model.encode(codebook_df["Codes"].tolist())
-    all_results = pd.DataFrame(columns=["input phrase", "similarity scores"])
-    predictions = pd.DataFrame(columns=["input phrase", "assigned code"])
+    all_results = pd.DataFrame(columns=["Input phrase", "Similarity scores"])
+    predictions = pd.DataFrame(columns=["Input phrase", "Assigned code"])
     record = []
     for i, row in testable_data_df.iterrows(): 
         max_score = 0

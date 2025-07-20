@@ -1,6 +1,5 @@
 #this file is for getting the info from helper functions into txt format
-import sys
-import csv 
+import pandas as pd
 import spacy
 from NLP_Eval_for_DE import data, scores
 
@@ -8,53 +7,32 @@ def get_predictions(model_name, inputs_datafile, codes_datafile, outputname):
     testable_data = data.get_testable_data(inputs_datafile)
     codes = data.get_codes(codes_datafile)
     if (model_name=="BART"):
-        predictions = scores.get_BART_scores(testable_data[0], codes[0])
+        predictions = scores.get_BART_scores(testable_data, codes)
     if (model_name=="BERT"):
-        predictions = scores.get_BERT_scores(testable_data[0], codes[0])
+        predictions = scores.get_BERT_scores(testable_data, codes)
     if (model_name=="MPNet"):
-        predictions = scores.get_MPNet_scores(testable_data[0], codes[0])
+        predictions = scores.get_MPNet_scores(testable_data, codes)
     if (model_name=="Jina Embeddings V2"):
-        predictions = scores.get_Jina_scores(testable_data[0], codes[0])
+        predictions = scores.get_Jina_scores(testable_data, codes)
 
-    new_data = []
-    for i in range(len(testable_data[0])):
-        new_data.append({"Data": testable_data[0][i], "Prediction": predictions[0][i]})
-
-    filename = outputname + '.csv'
-    fieldnames = ['Data', 'Prediction']
-
-    with open(filename, 'w', newline='') as file:
-        writer = csv.DictWriter(file, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(new_data)
+    predictions[0].to_csv(outputname+".csv", index=False)
 
 def get_scores(model_name, inputs_datafile, codes_datafile, outputname):
         testable_data = data.get_testable_data(inputs_datafile)
         codes = data.get_codes(codes_datafile)
         if (model_name=="BART"):
-            predictions = scores.get_BART_scores(testable_data[0], codes[0])
+            all_scores = scores.get_BART_scores(testable_data, codes)[1]
         if (model_name=="BERT"):
-            predictions = scores.get_BERT_scores(testable_data[0], codes[0])
+            all_scores = scores.get_BERT_scores(testable_data, codes)[1]
         if (model_name=="MPNet"):
-            predictions = scores.get_MPNet_scores(testable_data[0], codes[0])
+            all_scores = scores.get_MPNet_scores(testable_data, codes)[1]
         if (model_name=="Jina Embeddings V2"):
-            predictions = scores.get_Jina_scores(testable_data[0], codes[0])
+            all_scores = scores.get_Jina_scores(testable_data, codes)[1]
 
-        new_data = []
-        for i in range(len(testable_data[0])):
-            for j in range(len(codes[0])):
-                new_data.append({"Data": testable_data[0][i], "Score": str(predictions[1][i][j]), 'Code': codes[0][j]})
+        all_scores.iloc[:, 1] = all_scores.iloc[:, 1].apply(lambda x: list(map(float, x)))
+        all_scores.to_csv(outputname+".csv", index=False)
 
-        filename = outputname + '.csv'
-        fieldnames = ['Data', 'Score', 'Code']
-
-        with open(filename, 'w', newline='') as file:
-            writer = csv.DictWriter(file, fieldnames=fieldnames)
-            writer.writeheader()
-            writer.writerows(new_data)
-
-def get_evaluation(inputs_datafile, codes_datafile,):
-    #evaluation is done all together, u dont get a choice other than ur dataset & codebook
+def get_evaluation(inputs_datafile, codes_datafile):
     testable_data = data.get_testable_data(inputs_datafile)
     codes = data.get_codes(codes_datafile)
     BARTpredictions = scores.get_BART_scores(testable_data[0], codes[0])
