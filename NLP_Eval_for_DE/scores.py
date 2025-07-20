@@ -20,116 +20,95 @@ def get_BART_scores(testable_data_df, codebook_df):
     predictions = []
     record = []
 
-    all_results = pd.DataFrame()
-    predictions = pd.DataFrame()
+    all_results = pd.DataFrame(columns=["input phrase", "similarity scores"])
+    predictions = pd.DataFrame(columns=["input phrase", "assigned code"])
 
     for i, row1 in testable_data_df.iterrows():
         max_score = 0
         idx_of_max = 0
-        sequence_to_classify = row1[1]
+        sequence_to_classify = row1.iloc[0]
         for j, row2 in codebook_df.iterrows():
-            candidate_labels = row2[0]
+            candidate_labels = row2.iloc[0]
             results = classifier(sequence_to_classify, candidate_labels, multi_label=False) 
             record.append(results["scores"][0])
             if (results["scores"][0] > max_score):
                 idx_of_max = j+1
                 max_score = results["scores"][0]
         predictions.loc[len(predictions)] = [sequence_to_classify, idx_of_max]
-        all_results.loc[len(all_results)] = record
+        all_results.loc[len(all_results)] = [sequence_to_classify, record]
         record = []
 
     return [predictions, all_results]
 
-def get_BERT_scores(testable_data, codes):
+def get_BERT_scores(testable_data_df, codebook_df):
     #this is a sentence transformers fine tuned version of BERT trained on various databases
     #https://huggingface.co/sentence-transformers/static-similarity-mrl-multilingual-v1
     model = SentenceTransformer("tomaarsen/static-similarity-mrl-multilingual-v1")
-    predictions = []
-    all_results = []
+    all_results = pd.DataFrame(columns=["input phrase", "similarity scores"])
+    predictions = pd.DataFrame(columns=["input phrase", "assigned code"])
+    code_embeddings = model.encode(codebook_df["Codes"].tolist())
     record = []
-    for i in range(len(testable_data)): 
+    for i, row in testable_data_df.iterrows(): 
         max_score = 0
         idx_of_max = 0
-        #user_embeddings = model.encode(testable_data[i])
-        user_embeddings = model.encode(KeyDataset(make_dataset(testable_data), "text")[i])
-        code_embeddings = model.encode(codes)
+        user_embeddings = model.encode(row.iloc[0])
         similarities = model.similarity(user_embeddings, code_embeddings)
         results = similarities.tolist()
-        for j in range(len(codes)): 
-            #print(results)
+        for j in range(len(codebook_df["Codes"].tolist())):
             record.append(results[0][j])
             if (results[0][j] > max_score):
                 idx_of_max = j+1
                 max_score = results[0][j]
-        predictions.append(idx_of_max)
-        all_results.append(record)
+        predictions.loc[len(predictions)] = [row.iloc[0], idx_of_max]
+        all_results.loc[len(all_results)] = [row.iloc[0], record]
         record = []
 
-    predictions_str = []
-    for pred in predictions:
-        str_pred = str(pred)
-        predictions_str.append(str_pred)
-
-    return [predictions_str, all_results]
+    return [predictions, all_results]
     
-def get_MPNet_scores(testable_data, codes):
+def get_MPNet_scores(testable_data_df, codebook_df):
     model = SentenceTransformer("all-mpnet-base-v2")
-    all_results = [] 
-    predictions = []
+    all_results = pd.DataFrame(columns=["input phrase", "similarity scores"])
+    predictions = pd.DataFrame(columns=["input phrase", "assigned code"])
+    code_embeddings = model.encode(codebook_df["Codes"].tolist())
     record = []
-    for i in range(len(testable_data)): 
+    for i, row in testable_data_df.iterrows(): 
         max_score = 0
         idx_of_max = 0
-        #user_embeddings = model.encode(testable_data[i])
-        #^^old version, replaced w/ dataset access to make eval fair 
-        user_embeddings = model.encode(KeyDataset(make_dataset(testable_data), "text")[i])
-        code_embeddings = model.encode(codes)
+        user_embeddings = model.encode(row.iloc[0])
         similarities = model.similarity(user_embeddings, code_embeddings)
         results = similarities.tolist()
-        for j in range(len(codes)): 
+        for j in range(len(codebook_df["Codes"].tolist())): 
             record.append(results[0][j])
             if (results[0][j] > max_score):
                 idx_of_max = j+1
                 max_score = results[0][j]
-        predictions.append(idx_of_max)
-        all_results.append(record)
+        predictions.loc[len(predictions)] = [row.iloc[0], idx_of_max]
+        all_results.loc[len(all_results)] = [row.iloc[0], record]
         record = []
 
-    predictions_str = []
-    for pred in predictions:
-        str_pred = str(pred)
-        predictions_str.append(str_pred)
+    return [predictions, all_results]
 
-    return [predictions_str, all_results]
-
-def get_Jina_scores(testable_data, codes):
+def get_Jina_scores(testable_data_df, codebook_df):
     model = AutoModel.from_pretrained('jinaai/jina-embeddings-v2-base-en', trust_remote_code=True) # trust_remote_code is needed to use the encode method
-    code_embeddings = model.encode(codes)
-    all_results = [] 
-    predictions = []
-    results = []
-    for i in range(len(testable_data)): 
+    code_embeddings = model.encode(codebook_df["Codes"].tolist())
+    all_results = pd.DataFrame(columns=["input phrase", "similarity scores"])
+    predictions = pd.DataFrame(columns=["input phrase", "assigned code"])
+    record = []
+    for i, row in testable_data_df.iterrows(): 
         max_score = 0
         idx_of_max = 0
-        user_embeddings = model.encode(KeyDataset(make_dataset(testable_data), "text")[i])
-        for k in range(len(codes)):
-            results.append(cos_sim(user_embeddings, code_embeddings[k]))
-        for j in range(len(codes)): 
-            #print(results)
-            #all_results.append(results[j])
-            if (results[j] > max_score):
+        user_embeddings = model.encode(row.iloc[0])
+        for k in range(len(codebook_df["Codes"].tolist())):
+            record.append(cos_sim(user_embeddings, code_embeddings[k]))
+        for j in range(len(codebook_df["Codes"].tolist())): 
+            if (record[j] > max_score):
                 idx_of_max = j+1
-                max_score = results[j]
-        predictions.append(idx_of_max)
-        all_results.append(results)
-        results = []
+                max_score = record[j]
+        predictions.loc[len(predictions)] = [row.iloc[0], idx_of_max]
+        all_results.loc[len(all_results)] = [row.iloc[0], record]
+        record = []
 
-    predictions_str = []
-    for pred in predictions:
-        str_pred = str(pred)
-        predictions_str.append(str_pred)
-
-    return [predictions_str, all_results]
+    return [predictions, all_results]
 
 def evaluate(ground_truths, predictions, codes_length):
     labels_nums = []
