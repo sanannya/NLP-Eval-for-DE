@@ -30,7 +30,7 @@ from datetime import datetime
 
 '''uses the Jina Embeddings V2 model to get similarity scores between each data point compared to each code 
 (this doesn't have a lot of utility but it can be cool/informative to see the specific similarity scores)'''
-results.get_scores("Jina Embeddings V2", "Example\\inputs\\case study 1 input\\pain points full.csv", "Example\\inputs\\case study 1 input\\description codes.csv", "all_scores-jina-desc-painpoints")
+#results.get_scores("Jina Embeddings V2", "Example\\inputs\\case study 1 input\\pain points full.csv", "Example\\inputs\\case study 1 input\\description codes.csv", "all_scores-jina-desc-painpoints")
 
 '''----------------------------------------------------------------------------------------------------------------------'''
 

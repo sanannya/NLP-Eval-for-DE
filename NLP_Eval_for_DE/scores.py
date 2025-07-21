@@ -110,13 +110,14 @@ def get_Jina_scores(testable_data_df, codebook_df):
 
     return [predictions, all_results]
 
-def evaluate(ground_truths, predictions, codes_length):
+def evaluate(ground_truths_df, predictions_df, codebook_df):
     labels_nums = []
-    for i in range(codes_length):
-        labels_nums.append(str(i))
-    labels_nums.append(str(codes_length))
+    for i in range(len(codebook_df)):
+        labels_nums.append((i))
+    labels_nums.append((len(codebook_df)))
+    ground_truths = ground_truths_df.iloc[:, 1].tolist()
+    predictions = predictions_df.iloc[:, 1].tolist()
     f1s = f1_score(ground_truths, predictions, labels=labels_nums, average=None, zero_division=0.0) 
     mtx = confusion_matrix(ground_truths, predictions, labels=labels_nums)
     kappa = cohen_kappa_score(ground_truths, predictions, labels=labels_nums, weights=None, sample_weight=None)
-    #return correct/incorrect per code
     return [mtx, f1s, kappa]

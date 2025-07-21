@@ -1,4 +1,5 @@
 #this file is for getting the info from helper functions into txt format
+import csv
 import pandas as pd
 import spacy
 from NLP_Eval_for_DE import data, scores
@@ -35,31 +36,31 @@ def get_scores(model_name, inputs_datafile, codes_datafile, outputname):
 def get_evaluation(inputs_datafile, codes_datafile):
     testable_data = data.get_testable_data(inputs_datafile)
     codes = data.get_codes(codes_datafile)
-    BARTpredictions = scores.get_BART_scores(testable_data[0], codes[0])
-    BERTpredictions = scores.get_BERT_scores(testable_data[0], codes[0])
-    MPNetpredictions = scores.get_MPNet_scores(testable_data[0], codes[0])
-    Jinapredictions = scores.get_Jina_scores(testable_data[0], codes[0])
+    BARTpredictions = scores.get_BART_scores(testable_data, codes)
+    BERTpredictions = scores.get_BERT_scores(testable_data, codes)
+    MPNetpredictions = scores.get_MPNet_scores(testable_data, codes)
+    Jinapredictions = scores.get_Jina_scores(testable_data, codes)
 
     #output the matrices
-    new_data = scores.evaluate(testable_data[1], BARTpredictions[0], codes[1])[0]
+    new_data = scores.evaluate(testable_data, BARTpredictions[0], codes)[0]
     filename = "BART_matrix" + '.csv'
     with open(filename, 'w', newline='') as file:
         writer = csv.writer(file)
         writer.writerows(new_data)
 
-    new_data = scores.evaluate(testable_data[1], BERTpredictions[0], codes[1])[0]
+    new_data = scores.evaluate(testable_data, BERTpredictions[0], codes)[0]
     filename = "BERT_matrix" + '.csv'
     with open(filename, 'w', newline='') as file:
         writer = csv.writer(file)
         writer.writerows(new_data)
 
-    new_data = scores.evaluate(testable_data[1], MPNetpredictions[0], codes[1])[0]
+    new_data = scores.evaluate(testable_data, MPNetpredictions[0], codes)[0]
     filename = "MPNet_matrix" + '.csv'
     with open(filename, 'w', newline='') as file:
         writer = csv.writer(file)
         writer.writerows(new_data)
 
-    new_data = scores.evaluate(testable_data[1], Jinapredictions[0], codes[1])[0]
+    new_data = scores.evaluate(testable_data, Jinapredictions[0], codes)[0]
     filename = "Jina_matrix" + '.csv'
     with open(filename, 'w', newline='') as file:
         writer = csv.writer(file)
@@ -67,6 +68,7 @@ def get_evaluation(inputs_datafile, codes_datafile):
 
     #output the f1 scores
     
+    codes = codes["Codes"].tolist()
     all_preds = []
     all_preds.append(BARTpredictions)
     all_preds.append(BERTpredictions)
@@ -74,12 +76,12 @@ def get_evaluation(inputs_datafile, codes_datafile):
     all_preds.append(Jinapredictions)
     f1s = []
     for predictions in all_preds:
-        f1s.append(scores.evaluate(testable_data[1], predictions[0], codes[1])[1])
+        f1s.append(scores.evaluate(testable_data, predictions[0], codes)[1])
 
     new_data = []
-    codes[0].insert(0, "No code")
-    for i in range(len(codes[0])):
-        new_data.append({"Code": codes[0][i], "BART F1": f1s[0][i], "BERT F1": f1s[1][i], "MPNet F1": f1s[2][i], "Jina F1": f1s[3][i]})
+    codes.insert(0, "No code")
+    for i in range(len(codes)):
+        new_data.append({"Code": codes[i], "BART F1": f1s[0][i], "BERT F1": f1s[1][i], "MPNet F1": f1s[2][i], "Jina F1": f1s[3][i]})
 
     filename = "F1_scores" + '.csv'
     fieldnames = ['Code', 'BART F1', 'BERT F1', 'MPNet F1', 'Jina F1']
@@ -93,7 +95,7 @@ def get_evaluation(inputs_datafile, codes_datafile):
     models = ["BART", "BERT", "MPNet", "Jina"]
     kappas = []
     for predictions in all_preds:
-        kappas.append(scores.evaluate(testable_data[1], predictions[0], codes[1])[2])
+        kappas.append(scores.evaluate(testable_data, predictions[0], codes)[2])
 
     new_data = []
     for i in range(len(kappas)):
@@ -112,15 +114,16 @@ def get_similarity_scores(codes_datafile):
 
     new_data = []
     codes = data.get_codes(codes_datafile)
-    for i in range(codes[1]):
+    codes = codes["Codes"].to_list()
+    for i in range(len(codes)):
         sum = 0
-        for j in range(codes[1]):
+        for j in range(len(codes)):
             if (i!=j):
-                doc1 = nlp(codes[0][i])
-                doc2 = nlp(codes[0][j])
+                doc1 = nlp(codes[i])
+                doc2 = nlp(codes[j])
                 sum += doc1.similarity(doc2)
-        sum = sum/(codes[1]-1)
-        new_data.append({"Code": codes[0][i], "Average similarity to other codes": sum})
+        sum = sum/(len(codes)-1)
+        new_data.append({"Code": codes[i], "Average similarity to other codes": sum})
         
     filename = "code similarity scores" + '.csv'
     fieldnames = ['Code', 'Average similarity to other codes']
