@@ -13,14 +13,11 @@ Each function is better explained in the README. Also, the results files generat
 """
 from NLP_Eval_for_DE import data, results, scores
 import spacy
-from datetime import datetime
 
 '''-------------Option 1: get an NLP to code your data-------------------------------------------------------------------'''
 
 '''uses the Jina Embeddings V2 model to code survey data'''
-print(datetime.now().time())
-results.get_predictions("BART", "Example\\inputs\\case study 2 input-grouped by axials\\Individual goal numerical.csv", "Example\\inputs\\case study 2 input-grouped by axials\\Individual goal codes.csv", "name_placeholder")
-print(datetime.now().time())
+#results.get_predictions("BART", "Example\\inputs\\case study 2 input-grouped by axials\\Individual goal numerical.csv", "Example\\inputs\\case study 2 input-grouped by axials\\Individual goal codes.csv", "name_placeholder")
 
 '''----------------------------------------------------------------------------------------------------------------------'''
 
