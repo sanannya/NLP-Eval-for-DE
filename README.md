@@ -66,7 +66,7 @@ The functions are explained in further detail in the section below.
 from NLP_Eval_for_DE import results
 ```
 - Get qualitative coding results for a data set.
-    - Inputs
+    - Inputs (MAKE SURE FILES ARE IN UTF-8 FORMAT)
         - Choose an NLP model to use: "BART", "BERT", "MPNet", "Jina Embeddings V2"
         - Input data file: a CSV file, must be properly formatted; see CSV formatting instructions in the next section
         - Codebook: a CSV file, must be properly formatted; see CSV formatting instructions in the next section

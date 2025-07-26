@@ -1,9 +1,9 @@
 # Define the __all__ variable
-__all__ = ["process_data", "helpers", "results"]
+__all__ = ["data", "scores", "results"]
 
 # Import the submodules
-from . import process_data
-from . import helpers
+from . import data
+from . import scores
 from . import results
 
 # Define a variable called version
