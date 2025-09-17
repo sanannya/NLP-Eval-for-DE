@@ -16,7 +16,7 @@ import spacy
 
 '''-------------Option 1: get an NLP to code your data-------------------------------------------------------------------'''
 
-'''uses the Jina Embeddings V2 model to code survey data'''
+'''specify a model, what data you want it to code, codebook, and file name'''
 #results.get_predictions("BART", "Example\\inputs\\case study 2 input-grouped by axials\\Individual goal numerical.csv", "Example\\inputs\\case study 2 input-grouped by axials\\Individual goal codes.csv", "name_placeholder")
 
 '''----------------------------------------------------------------------------------------------------------------------'''
@@ -40,11 +40,11 @@ import spacy
 
 '''-------------Option 3: evaluate---------------------------------------------------------------------------------------'''
 
-'''gets evaluation data for survey data, comparing it to human-done codes'''
-results.get_evaluation("Example\\inputs\\case study 2 input-open codes\\open no junk numerical.csv", "Example\\inputs\\case study 2 input-open codes\\hackathon open codes.csv")
+'''gets evaluation data, comparing it to human-done codes'''
+#results.get_evaluation("Example\\inputs\\case study 2 input-grouped by axials\\Alignment of goals numerical.csv", "Example\\inputs\\case study 2 input-grouped by axials\\Alignment of goals codes.csv")
 
 '''If the human-done codes are in written form, run this first to convert them to numerical codes (required formatting)'''
-#data.written_code_to_numbers("Example\\inputs\\case study 2 input-open codes\\open data no junk.csv", "Example\\inputs\\case study 2 input-open codes\\hackathon open codes.csv")
+#data.written_code_to_numbers("Example\\inputs\\case study 2 input-grouped by axials\\Alignment of goals data.csv", "Example\\inputs\\case study 2 input-grouped by axials\\Alignment of goals codes.csv")
 
 '''----------------------------------------------------------------------------------------------------------------------'''
 
