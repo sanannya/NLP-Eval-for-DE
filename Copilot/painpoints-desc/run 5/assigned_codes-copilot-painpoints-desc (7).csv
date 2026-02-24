@@ -1,0 +1,400 @@
+Input phrase,Assigned code
+cutting wood,0
+didn�t know how to use lathe,1
+Finding drill,9
+Taking out trash,10
+Finding clamp,5
+Loosening the lathe,1
+Cleaning up after others,6
+Equipment too big,2
+Too small of wood scraps.,8
+Had to take trash out.,10
+Had to find a clamp.,5
+Had to dig in unlabeled container for a 12v drill.,9
+"Got bumped while using sander, accidentally pressed emergency stop button.",7
+Had to clean off messy workspace.,6
+Gloves were too big.,3
+People putting garbage in the scrp bin,10
+People not throwing trash properly ripping the bag,10
+People not putting things where they go,5
+People not putting things back the way they were found,5
+People leaving a mess and not cleaning up,6
+bumped by person using belt sander,7
+garbage bag had hole,10
+sawdust left on machine,6
+lathe chuck tightened too tight,1
+only found 18V drill which was too big,2
+Someone pushed them ,7
+Finding clamps,5
+Loosening the chuck,1
+people squeezing by and caused him to restart,0
+finding a drill,9
+clearing the scrap bin,8
+Height of miter saw,4
+Trash in the scrap bin,8
+Ripped Trash bag,10
+Epoxy,11
+Clamp unavailable,5
+Drill Unavailable ,0
+Lathe was dirty,6
+Accidental emergency stop,7
+Equipment not put away properly,5
+People in the way while using power tools,7
+Difficulty finding certain tools,0
+Couldnt find proper equipment (gloves),0
+She was bumped into,7
+The lathe was left covered in saw dust,0
+The 18V drill was too big for her,2
+The miter saw was too tall for her,4
+The clamps were not put away,5
+Someone left pieces of wood that were too small in the scrap bin. ,6
+Something was tightened too much so the emergency stop had to be used. ,7
+The only available drill was too big so she had to looo through unlabeled drawers for a smaller one. ,2
+There weren�t gloves in her size. ,0
+Crowded workspace,7
+Too big of gloves,3
+Other people's messes,6
+Other people's incorrect use of machines,0
+Disorganized tool stock,0
+Ripped trash bag,10
+Dirty workspace,6
+Miter saw too high,4
+18V too large,2
+Bumped emergency stop,7
+Pressed the emergency stop button,7
+Had to clean out extra saw dust,0
+Had to find 12V since there was only 18V,2
+Applying epoxy was difficult due to large gloves,11
+saw dust left,0
+equipment left too tight,0
+trash needs to be taken out in new/sturdy bag,10
+interrupted on lathe by someone bumping them,0
+machinery left too high for use,0
+Having to throw away the unusable scraps,8
+Replacing the garbage bag,10
+Cleaning the lathe,0
+Restarting the lathe from getting bumped into ,7
+Can�t find the right drill size because of clutter,0
+Not a full range of glove sizes ,3
+Bolts too tightened on lathe ,1
+Table top is too high,4
+Cleaning up the machine,0
+Finding the correct drill,9
+Gloves were too big,3
+Trash was full ,10
+Scrap bin not used correctly ,8
+Someone left machine as they used it,6
+Someone bumped into her,7
+Trash was ripped,10
+Pieces that were too small were left in the trash,10
+Gloves only had size large,0
+The drill she wanted was buried in the cabinet ,9
+Got bumped into,7
+Gloves too large,0
+Finding a clamp,5
+Chuck too tight,1
+Saw dust not cleaned up,6
+Rip in trash bag,10
+Wood in recycled materials was too small to be used,8
+Someone bumped the user causing them to hit the emergency stop and they had to restart the machine,7
+The last person left shavings that required clean up,0
+The user had to loosen the chuck ,1
+The gloves were too big when trying to epoxy ,3
+The wood scraps were too small so they needed to be thrown out,8
+The garbage bag was ripped so it needed to be replaced,10
+ripped trash bag,10
+small table ,4
+emergency button ,7
+no gloves in their size,0
+dirty lathe,6
+ripped trash bag,10
+tight work space ,0
+work table too tall,4
+Ergonomic issues,4
+Small space leading to bumping,0
+Previous users not cleaning up after themselves,6
+Inadequate trash removal,10
+Misplaced hand tools,0
+Safety issues,0
+Trash bag wripped,10
+Had to throw away small scrap wood,8
+Dirty work area,6
+Accidentally switching off the machine,7
+Putting their scrape away,0
+Drill to big,0
+Finding a clamp since they are never put away,5
+someone walked behind them ,7
+lathe was too tight,1
+meiter saw was too high ,4
+The saw was too tall ,4
+There was a rip in the trash bag ,10
+Had to take the trash out ,10
+Unusable scrap had to move to the garbage  ,10
+Glue had to set for 24hours ,0
+The only drill out was hard to control/too big ,2
+Someone tried to sneak by and they hit the stop button ,7
+The miter saw was uncomfortable to use because of the height of the table ,4
+The trash bag was ripped ,10
+The 12V drills were not accessible ,9
+She couldn�t find a clamp in the correct spot,5
+The gloves were the wrong size ,3
+The lathe chuck was too tight ,1
+Drill was too big,2
+saw was on a high table,4
+lathe was covered in wood chips,6
+12v drill was in unlabeled cabinet,9
+gloves too big,3
+holes in trash bag,10
+too small of pieces in wood scrap,8
+Gloves too large,0
+Had to dig to find correct drill bit,9
+Lathe was left dirty,6
+Machine wasn't the most comfortable,0
+Couldn�t find the right drill,0
+The chuck key was too tight,1
+The trash bag was ripped,10
+A machine was covered in saw dust,0
+Someone bumped into him,7
+Gloves too big,3
+Someone bumped into them,7
+Table too high,4
+Battery too big,2
+Garbage bag ripped,10
+Scraps had to be disposed of,0
+Not clean workstation,6
+Gloves wrong size,3
+No clamp,5
+Epoxy issues,11
+Torn garbage bag,10
+Wood too small to be used in free pile,8
+table too tall,4
+it being too loud for the user to concentrate ,0
+some functions requiring a lot of brute strength ,0
+Lathe being turned off,0
+Wrong size drill,2
+Had to take trash out ,10
+Trash can ripped,10
+Scraps of wood,0
+Not right materials,0
+Pushy people,7
+People not cleaning up,6
+Not the right equipment available,0
+Uncomfortable Saw,4
+Cutting the wood in half,0
+Scrapping the wood,0
+Drilling the hole,0
+Cleaning up work space,6
+Taking out the trash,10
+Unorganized spacers,5
+Mess left by others,6
+Not enough aisle space,7
+Emergency stop,7
+Too small of scraps were left in the bin,8
+Trash bag was ripped,10
+Had to dig for a new drill,9
+Couldn�t find a clamp,5
+Lathe was covered in saw dust,0
+Bumped the E-Stop when someone squeezed through the aisle,7
+There was garbage in the scrap bin.,10
+The garbage bag was ripped.,10
+The miter saw table was too high.,4
+The drill was too big.,2
+He had to search for the wood clamp.,5
+He had to wait 24 hours for the epoxy to cure.,11
+"Someone left the lathe a mess, so he had to clean it.",6
+"Messy workspace(had to take out garbage, clean off sawdust and scrap wood)",10
+"People interference (bumped at lathe, chuck too tightened)",7
+"Some tool usage difficulties (too tall table, switching to hand drill)",4
+Wrong equipment (gloves),0
+Full trashbag,10
+Hole in trashbag,10
+Sawdust covered miter saw,6
+Miter saw too tall,4
+Bumped and hit the emergency stop button on lathe,7
+Clamps were not in correct place,5
+Saw table was too high,4
+Took trash out but bag ripped,10
+Too big of gloves,3
+Couldn't find correct drill,9
+Had to clean up someone's mess on lathe before starting,6
+Needed pliers to loosen chuck on lathe,1
+Someone bumped into them while working on lathe,7
+The drill was too large,2
+Gloves did not fit them,3
+They were bumped into the emergency stop button,7
+Previous users didn't clean up their mess,6
+Some scraps in the bin were too small to use so they had to discard of them,8
+unclean workspace,6
+lack of available tools,0
+disorganized set up,5
+Lathe too tight ,1
+Scraps too small in bin,8
+messy machines ,6
+trash bag had hole ,10
+people bumping into her ,0
+The miter saw table was too high and awkward.,4
+The trash was filled with wood chips that had to be taken out.,6
+The only drills out were the hand drills.,0
+Clamping the pen was hard.,5
+The only gloves out were larger which made the epoxy process hard.,11
+The lathe was covered in sawdust and chips.,6
+Using the chuck on the lathe was hard because it was so tight.,1
+Couldn't find a proper drill,9
+misc scraps left in scrap bin,8
+hole in the garbage bag,10
+24 hour set epoxy,11
+had to clean up after prior lathe user,0
+accidentally hit the emergency stop button,7
+had too much material,0
+Some scrap left in the scrap pile was uselessly small,8
+The trash bin was overfull and had to be taken out,10
+The Miter saw was too tall,4
+The 12v drills were in an unlabeled cabinet,9
+He had to search for a clamp because they weren't properly put away,5
+The lathe was dirty,6
+"The walkway next to the lathe was too tight, so someone bumped the e-stop when they were trying to walk past",7
+Ripped trash bag,10
+Mitre saw a large size,0
+Dusty saw blade,6
+Accidentally tapped E-stop,7
+18V instead of 12V,2
+Clamps out of place,5
+Too many small unusable wood scraps,8
+Dirty workspace,6
+Not even space,0
+Others had misplaced equipment,5
+Others had misused equipment,0
+Poor housekeeping (trash was full),10
+The miter saw is too tall,4
+Trash bag was ripped,10
+Drills were too big,2
+Lost clamps,5
+Too big of gloves,3
+Dirty Lathe,6
+Lathe was tightened too much,1
+Having to cut the wood to size,0
+Cleaning up the area after other people neglected it,0
+Someone had left sawdust on their project,6
+The clamp on a machine was too tight,1
+Someone bumped into them while cutting wood,7
+Miter saw was uncomfortable,4
+took out the trash that had the wood scraps,10
+had to search for smaller drill,9
+cleaning up the lathe machine,0
+restart the lathe after accidentally bumping into it,0
+The right sized gloves were unavailable,0
+The clamps used for drilling were misplaced,5
+Someone had left chips of wood in the miter saw,0
+The chuck for the lathe was tightened too much,1
+someone left useless scrap,6
+trash was full and had to be taken out,10
+workspace was left messy by other user,6
+lathe chuck was too tight,1
+lathe was messy,6
+couldn't find clamps or fixturing for epoxying,5
+drills/batteries were unavailable when needed,0
+emergency stop,7
+garbage bag ripped,10
+lathe too tall,0
+18V too big,2
+stuff in the way,0
+Couldn't find right drill bit,9
+Small wood chips that can't be used,6
+Ripped garbage bag,10
+Uncleaned station,6
+Someone bumped into her,7
+Ripped trash bag,10
+Clips not put back,5
+Waiting 24 hours to cure,0
+Needed smaller drill,9
+Machine covered in dust,0
+dirty makerspace,6
+unorganized tools,0
+lack of awareness,0
+ripped trashbag,10
+very small scrap pieces of wood,0
+Not being able to find the right drill,9
+Miter saw table too high,4
+Can�t find disposable gloves,0
+Can�t find clamp,5
+Not enough safety area around lathe,0
+Equipment left in messy environment ,6
+Trash bag ripped,10
+unorganized tool storage,0
+messy workspaces,6
+"dangerous tool setup (lathe not clean, drills, etc.)",6
+"improper equipment (gloves, drills)",0
+The miter saw table was too high,4
+The 18v drills were too powerful,2
+There weren't any clamps put away,5
+Miter Saw,0
+Clamps,5
+18v Drill,2
+Trash bag ripped,10
+Saw off track,0
+The equipment was dirty,6
+Some tools weren't in their correct places,0
+People weren't being specially aware,0
+Some of the equipment was too big for her,2
+The bag of scraps ripped,10
+She had to wait a day for the epoxy to dry,11
+People didn't clean the lathe after they finished using it,6
+Miter saw slightly too tall,4
+Scrap bin had many pieces of unusable wood,8
+Trash was full,10
+Gloves didn't fit right for epoxy,3
+Lathe was messy,6
+People forgot to return clamps after use,5
+The miter saw was a bit high for the user,0
+The gloves were too big for the user when using epoxy,3
+The wood scraps box was filled with unusable pieces they threw out,8
+The trash bag ripped when taking it out,10
+"The next day, someone didn't clean the sawdust off the machines",6
+dirty work area,6
+unorganized tools,0
+too tight of a chuck on the lath,1
+too high of a miter saw table,4
+incorrect materials in the scrap bin,8
+ripped trash bag,10
+Uncomfortable table height,4
+Oversized Gloves,3
+Misplaced clamps,5
+Gloves were too big,3
+Scrap bin was full,8
+Work space was dirty,6
+Had to find a different clamp size,5
+Table was too tall,4
+Somebody bumped into him,7
+He had to clean the scrap bin,8
+He had to clean the lathe he used,6
+He had to adjust the chuck on the lathe he used,0
+He had to empty the garbage bin,10
+He had to replace the garbage bag on the garbage bin,10
+He had to wear oversized gloves in the wood shop,3
+Had to clean out the scrap bin because many pieces too small to use,8
+Miter saw was a bit too tall to use but still had to use it,4
+Gloves were too big so fumbled with applying the epoxy.,3
+Had to use chuck to loosen drill bit because previous user overtightened it.,1
+Had to clean off lathe before using because previous user left saw dust all over.,6
+Got bumped while using lathe and hit the emergency stop button.,7
+Had to wait overnight for epoxy to cure.,11
+saw covered in sawdust,6
+unusable scraps in the scrap bin,8
+miter saw was too tall to reach,4
+time to dry,0
+Sand on his project,0
+Missing clamp,5
+Miter saw higher than intended,4
+Pressing emergency stop on sandbelt,7
+Wrong electric drill,0
+Hole in trashbag,10
+Garbage ,10
+Uncomfortable equipment,4
+Bumping stop button,7
+Incorrect size power drill,2
+Miter saw table too high,4
+Incorrect size gloves,0
+Uncleaned machines from previous users,6
+Machine incorrectly set up by previous user,0
+Unusable wood scarps were discarded in wrong place,0
+Trash bag was torn,10
