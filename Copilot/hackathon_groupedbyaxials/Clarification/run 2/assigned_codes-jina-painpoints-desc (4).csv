@@ -1,0 +1,9 @@
+Input phrase,Assigned code
+Cool. Do we know? Like what category are we trying to go for like? Is it just hardware?,3
+"Think what you can do is yeah, for sure, depending on what sensor you use. I guess if you use a camera and you can track a ball and predict it trajectory, but usually you need 2 balls to kind of see it in a 3D space and create a vector that projects that you know the direction and then.",5
+What would be an example of a degree of freedom that's doable?,5
+"So something that just rotates is 1 and then anything like with two joints, that's two degrees of freedom. So degrees of freedom is just like how many variables do you need to to describe the position of something? Right. So because with every increased degree of freedom, the math becomes more complicated, but the hardware required also scales, right? Yeah.",5
+By servos you mean like the Arduinos for the Raspberry pies and those motherboard things?,2
+"We can use this for the detection, but determining the skin color we can like it detects you right? What data does it extract from us? Do you know (to Speaker 2)?",1
+He said data set. Will we need something like a database?,1
+What don't you like about it?,1
