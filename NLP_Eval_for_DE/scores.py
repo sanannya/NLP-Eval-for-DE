@@ -24,8 +24,8 @@ def get_BART_scores(testable_data_df, codebook_df):
     predictions = pd.DataFrame(columns=["Input phrase", "Assigned code"])
 
     for i, row1 in testable_data_df.iterrows():
-        max_score = 0
-        idx_of_max = 0
+        max_score = float("-inf")
+        idx_of_max = -1
         sequence_to_classify = row1.iloc[0]
         for j, row2 in codebook_df.iterrows():
             candidate_labels = row2.iloc[0]
@@ -49,8 +49,8 @@ def get_BERT_scores(testable_data_df, codebook_df):
     code_embeddings = model.encode(codebook_df["Codes"].tolist())
     record = []
     for i, row in testable_data_df.iterrows(): 
-        max_score = 0
-        idx_of_max = 0
+        max_score = float("-inf")
+        idx_of_max = -1
         user_embeddings = model.encode(row.iloc[0])
         similarities = model.similarity(user_embeddings, code_embeddings)
         results = similarities.tolist()
@@ -72,8 +72,8 @@ def get_MPNet_scores(testable_data_df, codebook_df):
     code_embeddings = model.encode(codebook_df["Codes"].tolist())
     record = []
     for i, row in testable_data_df.iterrows(): 
-        max_score = 0
-        idx_of_max = 0
+        max_score = float("-inf")
+        idx_of_max = -1
         user_embeddings = model.encode(row.iloc[0])
         similarities = model.similarity(user_embeddings, code_embeddings)
         results = similarities.tolist()
@@ -95,8 +95,8 @@ def get_Jina_scores(testable_data_df, codebook_df):
     predictions = pd.DataFrame(columns=["Input phrase", "Assigned code"])
     record = []
     for i, row in testable_data_df.iterrows(): 
-        max_score = 0
-        idx_of_max = 0
+        max_score = float("-inf")
+        idx_of_max = -1
         user_embeddings = model.encode(row.iloc[0])
         for k in range(len(codebook_df["Codes"].tolist())):
             record.append(cos_sim(user_embeddings, code_embeddings[k]))

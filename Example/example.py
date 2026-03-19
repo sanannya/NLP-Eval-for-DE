@@ -41,7 +41,7 @@ import spacy
 '''-------------Option 3: evaluate---------------------------------------------------------------------------------------'''
 
 '''gets evaluation data, comparing it to human-done codes'''
-#results.get_evaluation("Example\\inputs\\case study 2 input-grouped by axials\\Alignment of goals numerical.csv", "Example\\inputs\\case study 2 input-grouped by axials\\Alignment of goals codes.csv")
+#results.get_evaluation("Example\\inputs\\case study 2 input-axial codes\\unclean version\\axial numerical.csv", "Example\\inputs\\case study 2 input-axial codes\\axial codes.csv")
 
 '''If the human-done codes are in written form, run this first to convert them to numerical codes (required formatting)'''
 #data.written_code_to_numbers("Example\\inputs\\case study 2 input-grouped by axials\\Alignment of goals data.csv", "Example\\inputs\\case study 2 input-grouped by axials\\Alignment of goals codes.csv")
