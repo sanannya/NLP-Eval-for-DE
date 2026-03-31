@@ -17,7 +17,7 @@ import spacy
 '''-------------Option 1: get an NLP to code your data-------------------------------------------------------------------'''
 
 '''specify a model, what data you want it to code, codebook, and file name'''
-#results.get_predictions("BART", "Example\\inputs\\case study 2 input-grouped by axials\\Individual goal numerical.csv", "Example\\inputs\\case study 2 input-grouped by axials\\Individual goal codes.csv", "name_placeholder")
+results.get_predictions("Jina Embeddings V2", "Example\\inputs\\case study 1 input\\pain points full.csv", "Example\\inputs\\case study 1 input\\description codes.csv", "demo")
 
 '''----------------------------------------------------------------------------------------------------------------------'''
 
